@@ -1,0 +1,12 @@
+SQLAlchemy==2.0.35
+mysql-connector-python==9.0.0
+
+
+fastapi[standard]==0.115.0
+fastapi-filter[sqlalchemy]==2.0.1
+fastapi-pagination==0.12.30
+PyJWT==2.9.0
+passlib[bcrypt]==1.7.4
+
+# install via https
+git+https://github.com/JawaClass/Ofml_Api.git@library

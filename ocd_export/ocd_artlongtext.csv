@@ -1,0 +1,1124 @@
+90;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+90;de;2;/;Universalabstandshalter
+90;en;1;/;Accessories TALO.YOU for Workplace systems
+90;en;2;/;Universal spacer
+90;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+90;fr;2;/;Entretoise universel
+90;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+90;nl;2;/;Universeel afstandhouder
+605;de;1;/;TALO.YOU Arbeitsplatzsystem
+605;de;2;/;Beratertisch Eckform
+605;de;3;/;Gestell symmetrisch
+605;de;4;/;Gestellbreite 1600 mm
+605;de;5;/;Maße in mm (BxT): 2180 x 1050
+605;en;1;/;TALO.YOU Workplace system
+605;en;2;/;Consultant table corner desk
+605;en;3;/;Frame symmetrical
+605;en;4;/;Frame width 1600 mm
+605;en;5;/;Dimensions in mm (WxD): 2180 x 1050
+605;fr;1;/;TALO.YOU Système de poste de travail
+605;fr;2;/;Table conseiller forme anguleuse
+605;fr;3;/;Piétement symétrique
+605;fr;4;/;Largeur du piétement 1600 mm
+605;fr;5;/;Dimensions en mm (LxP): 2180 x 1050
+605;nl;1;/;TALO.YOU Werkpleksysteem
+605;nl;2;/;Consulenttafel hoekvorm
+605;nl;3;/;Frame symmetrisch
+605;nl;4;/;Framebreedte 1600 mm
+605;nl;5;/;Afmeting in mm (BxD): 2180 x 1050
+658;de;1;/;TALO.YOU Arbeitsplatzsystem
+658;de;2;/;Beratertisch Freiform
+658;de;3;/;Gestell symmetrisch
+658;de;4;/;Gestellbreite 1600 mm
+658;de;5;/;Maße in mm (BxT): 2438 x 1030/830
+658;en;1;/;TALO.YOU Workplace system
+658;en;2;/;Consultant table freeform
+658;en;3;/;Frame symmetrical
+658;en;4;/;Frame width 1600 mm
+658;en;5;/;Dimensions in mm (WxD): 2438 x 1030/830
+658;fr;1;/;TALO.YOU Système de poste de travail
+658;fr;2;/;Table conseiller forme libre
+658;fr;3;/;Piétement symétrique
+658;fr;4;/;Largeur du piétement 1600 mm
+658;fr;5;/;Dimensions en mm (LxP): 2438 x 1030/830
+658;nl;1;/;TALO.YOU Werkpleksysteem
+658;nl;2;/;Consulenttafel vrijvorm
+658;nl;3;/;Frame symmetrisch
+658;nl;4;/;Framebreedte 1600 mm
+658;nl;5;/;Afmeting in mm (BxD): 2438 x 1030/830
+660;de;1;/;TALO.YOU Arbeitsplatzsystem
+660;de;2;/;Doppelbench
+660;de;3;/;Gestell symmetrisch
+660;de;4;/;Abstand Platte zu Platte 80 mm
+660;en;1;/;TALO.YOU Workplace system
+660;en;2;/;Double bench
+660;en;3;/;Frame symmetrical
+660;en;4;/;Space top to top 80 mm
+660;fr;1;/;TALO.YOU Système de poste de travail
+660;fr;2;/;Bench double
+660;fr;3;/;Piétement symétrique
+660;fr;4;/;Distance plateau à plateau 80 mm
+660;nl;1;/;TALO.YOU Werkpleksysteem
+660;nl;2;/;Dubbel-bench
+660;nl;3;/;Frame symmetrisch
+660;nl;4;/;Afstand blad te blad 80 mm
+672;de;1;/;TALO.YOU Arbeitsplatzsystem
+672;de;2;/;Schreibtisch Freiform
+672;de;3;/;Gestell symmetrisch
+672;en;1;/;TALO.YOU Workplace system
+672;en;2;/;Desk freeform
+672;en;3;/;Frame symmetrical
+672;fr;1;/;TALO.YOU Système de poste de travail
+672;fr;2;/;Table forme libre
+672;fr;3;/;Piétement symétrique
+672;nl;1;/;TALO.YOU Werkpleksysteem
+672;nl;2;/;Tafel vrijvorm
+672;nl;3;/;Frame symmetrisch
+693;de;1;/;TALO.YOU Arbeitsplatzsystem
+693;de;2;/;Schreibtisch Rechteckform
+693;de;3;/;Maße in mm (BxT): <@WIDTH> x <@DEPTH>
+693;de;4;/;Platte <@TOP> mm
+693;de;5;/;Gestellsystem <@FRAME>
+693;de;6;/;Gestell symmetrisch
+693;en;1;/;TALO.YOU Workplace system
+693;en;2;/;Desk rectangular shape
+693;en;3;/;Dimensions in mm (WxD): <@WIDTH> x <@DEPTH>
+693;en;4;/;Top <@TOP> mm
+693;en;5;/;Frame system <@FRAME>
+693;en;6;/;Frame symmetrical
+693;fr;1;/;TALO.YOU Système de poste de travail
+693;fr;2;/;Table forme rectangulaire
+693;fr;3;/;Dimensions en mm (LxP): <@WIDTH> x <@DEPTH>
+693;fr;4;/;Plateau <@TOP> mm
+693;fr;5;/;Piétement système <@FRAME>
+693;fr;6;/;Piétement symétrique
+693;nl;1;/;TALO.YOU Werkpleksysteem
+693;nl;2;/;Tafel rechthoekvorm
+693;nl;3;/;Afmeting in mm (BxD): <@WIDTH> x <@DEPTH>
+693;nl;4;/;Blad <@TOP> mm
+693;nl;5;/;Frame systeem <@FRAME>
+693;nl;6;/;Frame symmetrisch
+695;de;1;/;TALO.YOU Arbeitsplatzsystem
+695;de;2;/;Anbau-/ Returntisch
+695;de;3;/;Gestell symmetrisch
+695;de;4;/;für Anbau an Schreibtische mit Tischtiefe <@RETURNDEPTH> mm
+695;de;5;/;Maße in mm (T):  <@DEPTH>
+695;en;1;/;TALO.YOU Workplace system
+695;en;2;/;Extension/return desk
+695;en;3;/;Frame symmetrical
+695;en;4;/;for extension to desks with depth <@RETURNDEPTH> mm
+695;en;5;/;Dimensions in mm (D):  <@DEPTH>
+695;fr;1;/;TALO.YOU Système de poste de travail
+695;fr;2;/;Table juxtaposable/table de retour
+695;fr;3;/;Piétement symétrique
+695;fr;4;/;pour annexe aux bureaux de travail avec profondeur <@RETURNDEPTH> mm
+695;fr;5;/;Dimensions en mm (P):  <@DEPTH>
+695;nl;1;/;TALO.YOU Werkpleksysteem
+695;nl;2;/;Aanbouw-/returntafel
+695;nl;3;/;Frame symmetrisch
+695;nl;4;/;voor aanbouw aan bureautafels met diepte <@RETURNDEPTH> mm
+695;nl;5;/;Afmeting in mm (D):  <@DEPTH>
+974;de;1;/;Dies ist ein Gruppenplanungsartikel.
+974;de;2;/;Enthalten sind  TALO.YOU Tische, die mit
+974;de;3;/;unseren Abstandshaltern in Blockstellung
+974;de;4;/;verbunden sind.
+974;de;5;/;Interaktoren erlauben das Anbauen weiterer
+974;de;6;/;Tische sowie das Platzieren von Stühlen und
+974;de;7;/;Containern.
+974;de;8;/;Die Abstandshalter sind in der Länge variabel einstellbar.
+974;en;1;/;This is a group planning article.
+974;en;2;/;Included are TALO.YOU tables that are connected
+974;en;3;/;in block position with our spacers.
+974;en;4;/;Interactors allow the addition of further tables
+974;en;5;/;as well as the placement of chairs and pedestal.
+974;en;6;/;The spacers are variably adjustable in length.
+974;fr;1;/;Il s’agit d’un article de planification de groupe.
+974;fr;2;/;Sont inclus TALO.YOU tables, qui sont disponibles
+974;fr;3;/;avec nos entretoises en position bloc.
+974;fr;4;/;Les interacteurs permettent l’ajout d’autres tables
+974;fr;5;/;ainsi que le placement des chaises et caissons.
+974;fr;6;/;Les entretoises sont réglables en longueur variable.
+974;nl;1;/;Dit is een artikel over groepsplanning.
+974;nl;2;/;Inbegrepen zijn TALO.YOU tafels, die in blokpositie verbonden zijn
+974;nl;3;/;met onze afstandhouders.
+974;nl;4;/;Interactoren maken de toevoeging van verdere Tafels
+974;nl;5;/;evenals de plaatsing van stoelen en ladenblokken.
+974;nl;6;/;De afstandhouders zijn variabel in lengte verstelbaar.
+1026;de;1;/;TALO.YOU Arbeitsplatzsystem
+1026;de;2;/;Konferenztisch, Endelement Bootsform 1400-1600 mm
+1026;de;3;/;Gestelltyp 4-Fuß
+1026;en;1;/;TALO.YOU Workplace system
+1026;en;2;/;Conference table, end element boat-shaped 1400-1600 mm
+1026;en;3;/;Frame type 4-foot
+1026;fr;1;/;TALO.YOU Système de poste de travail
+1026;fr;2;/;Table de réunion, élément final forme bateau 1400-1600 mm
+1026;fr;3;/;Type de piétement 4 pieds
+1026;nl;1;/;TALO.YOU Werkpleksysteem
+1026;nl;2;/;Vergadertafel, eindelement tonvorm 1400-1600 mm
+1026;nl;3;/;Frame type 4-poot
+1029;de;1;/;TALO.YOU Arbeitsplatzsystem
+1029;de;2;/;Konferenztisch, Endelement Rechteckform 1400-1600 mm
+1029;de;3;/;Gestelltyp 4-Fuß
+1029;en;1;/;TALO.YOU Workplace system
+1029;en;2;/;Conference table, end element rectangular shaped 1400-1600 mm
+1029;en;3;/;Frame type 4-foot
+1029;fr;1;/;TALO.YOU Système de poste de travail
+1029;fr;2;/;Table de réunion, élément final forme rectangulaire 1400-1600 mm
+1029;fr;3;/;Type de piétement 4 pieds
+1029;nl;1;/;TALO.YOU Werkpleksysteem
+1029;nl;2;/;Vergadertafel, eindelement rechthoekvorm 1400-1600 mm
+1029;nl;3;/;Frame type 4-poot
+1031;de;1;/;TALO.YOU Arbeitsplatzsystem
+1031;de;2;/;Konferenztisch, Zwischenelement Rechteckform 1400-1600 mm
+1031;de;3;/;Gestelltyp 4-Fuß
+1031;en;1;/;TALO.YOU Workplace system
+1031;en;2;/;Conference table, intermediate element rectangular shaped 1400-1600 mm
+1031;en;3;/;Frame type 4-foot
+1031;fr;1;/;TALO.YOU Système de poste de travail
+1031;fr;2;/;Table de réunion, élément intermédiaire forme rectangulaire 1400-1600 mm
+1031;fr;3;/;Type de piétement 4 pieds
+1031;nl;1;/;TALO.YOU Werkpleksysteem
+1031;nl;2;/;Vergadertafel, tussenelement rechthoekvorm 1400-1600 mm
+1031;nl;3;/;Frame type 4-poot
+1033;de;1;/;TALO.YOU Arbeitsplatzsystem
+1033;de;2;/;Konferenztisch, Anfangselement Bootsform 1400-1600 mm
+1033;de;3;/;Gestelltyp 4-Fuß
+1033;en;1;/;TALO.YOU Workplace system
+1033;en;2;/;Conference table, starter element boat-shaped 1400-1600 mm
+1033;en;3;/;Frame type 4-foot
+1033;fr;1;/;TALO.YOU Système de poste de travail
+1033;fr;2;/;Table de réunion, élément de départ forme bateau 1400-1600 mm
+1033;fr;3;/;Type de piétement 4 pieds
+1033;nl;1;/;TALO.YOU Werkpleksysteem
+1033;nl;2;/;Vergadertafel, beginelement tonvorm 1400-1600 mm
+1033;nl;3;/;Frame type 4-poot
+1035;de;1;/;TALO.YOU Arbeitsplatzsystem
+1035;de;2;/;Konferenztisch, Anfangselement Rechteckform 1400-1600 mm
+1035;de;3;/;Gestelltyp 4-Fuß
+1035;en;1;/;TALO.YOU Workplace system
+1035;en;2;/;Conference table, starter element rectangular shaped 1400-1600 mm
+1035;en;3;/;Frame type 4-foot
+1035;fr;1;/;TALO.YOU Système de poste de travail
+1035;fr;2;/;Table de réunion, élément de départ forme rectangulaire 1400-1600 mm
+1035;fr;3;/;Type de piétement 4 pieds
+1035;nl;1;/;TALO.YOU Werkpleksysteem
+1035;nl;2;/;Vergadertafel, beginelement rechthoekvorm 1400-1600 mm
+1035;nl;3;/;Frame type 4-poot
+1037;de;1;/;TALO.YOU Arbeitsplatzsystem
+1037;de;2;/;Konferenztisch, Bootsform 1400-1600 mm
+1037;de;3;/;Gestelltyp 4-Fuß
+1037;en;1;/;TALO.YOU Workplace system
+1037;en;2;/;Conference table, boat-shaped 1400-1600 mm
+1037;en;3;/;Frame type 4-foot
+1037;fr;1;/;TALO.YOU Système de poste de travail
+1037;fr;2;/;Table de réunion, forme bateau 1400-1600 mm
+1037;fr;3;/;Type de piétement 4 pieds
+1037;nl;1;/;TALO.YOU Werkpleksysteem
+1037;nl;2;/;Vergadertafel, tonvorm 1400-1600 mm
+1037;nl;3;/;Frame type 4-poot
+1039;de;1;/;TALO.YOU Arbeitsplatzsystem
+1039;de;2;/;Konferenztisch, Rechteckform 1400-1600 mm
+1039;de;3;/;Gestelltyp 4-Fuß
+1039;en;1;/;TALO.YOU Workplace system
+1039;en;2;/;Conference table, rectangular shaped 1400-1600 mm
+1039;en;3;/;Frame type 4-foot
+1039;fr;1;/;TALO.YOU Système de poste de travail
+1039;fr;2;/;Table de réunion, forme rectangulaire 1400-1600 mm
+1039;fr;3;/;Type de piétement 4 pieds
+1039;nl;1;/;TALO.YOU Werkpleksysteem
+1039;nl;2;/;Vergadertafel, rechthoekvorm 1400-1600 mm
+1039;nl;3;/;Frame type 4-poot
+1041;de;1;/;TALO.YOU Arbeitsplatzsystem
+1041;de;2;/;Konferenztisch, Anfangselement Bootsform
+1041;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1041;en;1;/;TALO.YOU Workplace system
+1041;en;2;/;Conference table, starter element boat-shaped
+1041;en;3;/;Frame type T-foot, symmetrical
+1041;fr;1;/;TALO.YOU Système de poste de travail
+1041;fr;2;/;Table de réunion, élément de départ forme bateau
+1041;fr;3;/;Type de piétement pied en T,  symétrique
+1041;nl;1;/;TALO.YOU Werkpleksysteem
+1041;nl;2;/;Vergadertafel, beginelement tonvorm
+1041;nl;3;/;Frame type T-poot, symmetrisch
+1043;de;1;/;TALO.YOU Arbeitsplatzsystem
+1043;de;2;/;Konferenztisch, Anfangselement Rechteckform
+1043;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1043;en;1;/;TALO.YOU Workplace system
+1043;en;2;/;Conference table, starter element rectangular shaped
+1043;en;3;/;Frame type T-foot, symmetrical
+1043;fr;1;/;TALO.YOU Système de poste de travail
+1043;fr;2;/;Table de réunion, élément de départ forme rectangulaire
+1043;fr;3;/;Type de piétement pied en T,  symétrique
+1043;nl;1;/;TALO.YOU Werkpleksysteem
+1043;nl;2;/;Vergadertafel, beginelement rechthoekvorm
+1043;nl;3;/;Frame type T-poot, symmetrisch
+1045;de;1;/;TALO.YOU Arbeitsplatzsystem
+1045;de;2;/;Konferenztisch, Anfangselement Trapezform
+1045;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1045;en;1;/;TALO.YOU Workplace system
+1045;en;2;/;Conference table, starter element trapezoidal shaped
+1045;en;3;/;Frame type T-foot, symmetrical
+1045;fr;1;/;TALO.YOU Système de poste de travail
+1045;fr;2;/;Table de réunion, élément de départ forme trapézoïdale
+1045;fr;3;/;Type de piétement pied en T,  symétrique
+1045;nl;1;/;TALO.YOU Werkpleksysteem
+1045;nl;2;/;Vergadertafel, beginelement trapeziumvorm
+1045;nl;3;/;Frame type T-poot, symmetrisch
+1047;de;1;/;TALO.YOU Arbeitsplatzsystem
+1047;de;2;/;Konferenztisch Bootsform
+1047;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1047;en;1;/;TALO.YOU Workplace system
+1047;en;2;/;Conference table boat-shaped
+1047;en;3;/;Frame type T-foot, symmetrical
+1047;fr;1;/;TALO.YOU Système de poste de travail
+1047;fr;2;/;Table de réunion, forme bateau
+1047;fr;3;/;Type de piétement pied en T,  symétrique
+1047;nl;1;/;TALO.YOU Werkpleksysteem
+1047;nl;2;/;Vergadertafel tonvorm
+1047;nl;3;/;Frame type T-poot, symmetrisch
+1055;de;1;/;TALO.YOU Arbeitsplatzsystem
+1055;de;2;/;Konferenztisch, Endelement Bootsform
+1055;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1055;en;1;/;TALO.YOU Workplace system
+1055;en;2;/;Conference table, end element boat-shaped
+1055;en;3;/;Frame type T-foot, symmetrical
+1055;fr;1;/;TALO.YOU Système de poste de travail
+1055;fr;2;/;Table de réunion, élément final forme bateau
+1055;fr;3;/;Type de piétement pied en T,  symétrique
+1055;nl;1;/;TALO.YOU Werkpleksysteem
+1055;nl;2;/;Vergadertafel, eindelement tonvorm
+1055;nl;3;/;Frame type T-poot, symmetrisch
+1057;de;1;/;TALO.YOU Arbeitsplatzsystem
+1057;de;2;/;Konferenztisch, Endelement Rechteckform
+1057;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1057;en;1;/;TALO.YOU Workplace system
+1057;en;2;/;Conference table, end element rectangular shaped
+1057;en;3;/;Frame type T-foot, symmetrical
+1057;fr;1;/;TALO.YOU Système de poste de travail
+1057;fr;2;/;Table de réunion, élément final forme rectangulaire
+1057;fr;3;/;Type de piétement pied en T,  symétrique
+1057;nl;1;/;TALO.YOU Werkpleksysteem
+1057;nl;2;/;Vergadertafel, eindelement rechthoekvorm
+1057;nl;3;/;Frame type T-poot, symmetrisch
+1059;de;1;/;TALO.YOU Arbeitsplatzsystem
+1059;de;2;/;Konferenztisch, Endelement Trapezform
+1059;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1059;en;1;/;TALO.YOU Workplace system
+1059;en;2;/;Conference table, end element trapezoidal shaped
+1059;en;3;/;Frame type T-foot, symmetrical
+1059;fr;1;/;TALO.YOU Système de poste de travail
+1059;fr;2;/;Table de réunion, élément final forme trapézoïdale
+1059;fr;3;/;Type de piétement pied en T,  symétrique
+1059;nl;1;/;TALO.YOU Werkpleksysteem
+1059;nl;2;/;Vergadertafel, eindelement trapeziumvorm
+1059;nl;3;/;Frame type T-poot, symmetrisch
+1061;de;1;/;TALO.YOU Arbeitsplatzsystem
+1061;de;2;/;Konferenztisch, halbe Bootsform
+1061;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1061;en;1;/;TALO.YOU Workplace system
+1061;en;2;/;Conference table, half boat shape
+1061;en;3;/;Frame type T-foot, symmetrical
+1061;fr;1;/;TALO.YOU Système de poste de travail
+1061;fr;2;/;Table de réunion, forme de demi-bateau
+1061;fr;3;/;Type de piétement pied en T,  symétrique
+1061;nl;1;/;TALO.YOU Werkpleksysteem
+1061;nl;2;/;Vergadertafel, halve tonvorm
+1061;nl;3;/;Frame type T-poot, symmetrisch
+1063;de;1;/;TALO.YOU Arbeitsplatzsystem
+1063;de;2;/;Konferenztisch Rechteckform
+1063;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1063;en;1;/;TALO.YOU Workplace system
+1063;en;2;/;Conference table rectangular
+1063;en;3;/;Frame type T-foot, symmetrical
+1063;fr;1;/;TALO.YOU Système de poste de travail
+1063;fr;2;/;Table de réunion, rectangulaire
+1063;fr;3;/;Type de piétement pied en T,  symétrique
+1063;nl;1;/;TALO.YOU Werkpleksysteem
+1063;nl;2;/;Vergadertafel rechthoekvorm
+1063;nl;3;/;Frame type T-poot, symmetrisch
+1067;de;1;/;TALO.YOU Arbeitsplatzsystem
+1067;de;2;/;Konferenztisch Ovalform
+1067;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1067;en;1;/;TALO.YOU Workplace system
+1067;en;2;/;Conference table oval-shaped
+1067;en;3;/;Frame type T-foot, symmetrical
+1067;fr;1;/;TALO.YOU Système de poste de travail
+1067;fr;2;/;Table de réunion, forme ovale
+1067;fr;3;/;Type de piétement pied en T,  symétrique
+1067;nl;1;/;TALO.YOU Werkpleksysteem
+1067;nl;2;/;Vergadertafel ovaalvorm
+1067;nl;3;/;Frame type T-poot, symmetrisch
+1069;de;1;/;TALO.YOU Arbeitsplatzsystem
+1069;de;2;/;Konferenztisch, Stadionform
+1069;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1069;en;1;/;TALO.YOU Workplace system
+1069;en;2;/;Conference table, stadium-shaped
+1069;en;3;/;Frame type T-foot, symmetrical
+1069;fr;1;/;TALO.YOU Système de poste de travail
+1069;fr;2;/;Table de réunion, forme de stade
+1069;fr;3;/;Type de piétement pied en T,  symétrique
+1069;nl;1;/;TALO.YOU Werkpleksysteem
+1069;nl;2;/;Vergadertafel, stadionvorm
+1069;nl;3;/;Frame type T-poot, symmetrisch
+1071;de;1;/;TALO.YOU Arbeitsplatzsystem
+1071;de;2;/;Konferenztisch, Trapezform
+1071;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1071;en;1;/;TALO.YOU Workplace system
+1071;en;2;/;Conference table, trapezoidal shaped
+1071;en;3;/;Frame type T-foot, symmetrical
+1071;fr;1;/;TALO.YOU Système de poste de travail
+1071;fr;2;/;Table de réunion, forme trapézoïdale
+1071;fr;3;/;Type de piétement pied en T,  symétrique
+1071;nl;1;/;TALO.YOU Werkpleksysteem
+1071;nl;2;/;Vergadertafel, trapeziumvorm
+1071;nl;3;/;Frame type T-poot, symmetrisch
+1073;de;1;/;TALO.YOU Arbeitsplatzsystem
+1073;de;2;/;Konferenztisch, Zwischenelement Rechteckform
+1073;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1073;en;1;/;TALO.YOU Workplace system
+1073;en;2;/;Conference table, intermediate element rectangular shaped
+1073;en;3;/;Frame type T-foot, symmetrical
+1073;fr;1;/;TALO.YOU Système de poste de travail
+1073;fr;2;/;Table de réunion, élément intermédiaire forme rectangulaire
+1073;fr;3;/;Type de piétement pied en T,  symétrique
+1073;nl;1;/;TALO.YOU Werkpleksysteem
+1073;nl;2;/;Vergadertafel, tussenelement rechthoekvorm
+1073;nl;3;/;Frame type T-poot, symmetrisch
+1078;de;1;/;TALO.YOU - Sichtschutzpaneel / Beinraumblende
+1078;de;2;/;für Monosäulentisch TALO.YOU.One
+1078;de;3;/;recyceltes PET faltbar
+1078;en;1;/;TALO.YOU - Privacy screen / legroom cover
+1078;en;2;/;for monocolumn table TALO.YOU.One
+1078;en;3;/;recycled PET foldable
+1078;fr;1;/;TALO.YOU - Panneau d’intimité / couvercle d’espace pour les jambes
+1078;fr;2;/;pour table monocolonne TALO.YOU.One
+1078;fr;3;/;PET recyclé pliable
+1078;nl;1;/;TALO.YOU - Privacy paneel / beenruimte cover
+1078;nl;2;/;voor monozuil tafel TALO.YOU.One
+1078;nl;3;/;gerecycled PET opvouwbaar
+1092;de;1;/;TALO.YOU Flachbildschirmhalter
+1092;de;2;/;Tragfähigkeit 2,3-7,0 kg
+1092;en;1;/;TALO.YOU Flat screen holder
+1092;en;2;/;Load capacity 2,3-7,0 kg
+1092;fr;1;/;TALO.YOU Support pour écran plat
+1092;fr;2;/;Capacité de charge 2,3-7,0 kg
+1092;nl;1;/;TALO.YOU Flatscreen Beeldschermhouder
+1092;nl;2;/;Draagvermogen 2,3-7,0 kg
+1152;de;1;/;TALO.YOU Arbeitsplatzsystem
+1152;de;2;/;Kollisionsschutzsensor für Motortische
+1152;de;3;/;Regelbarer Sensor mit Verbindungskabel 350 mm zur Steuerung
+1152;de;4;/;Maße in mm (BxTxH): 77 x 11 x 21
+1152;de;5;/;Farbe  RAL 9005
+1152;en;1;/;TALO.YOU Workplace system
+1152;en;2;/;Collision prevention sensor for motorized desks
+1152;en;3;/;Adjustable sensor with connecting lead 350 mm onto controls
+1152;en;4;/;Dimensions in mm (WxDxH): 77 x 11 x 21
+1152;en;5;/;Colour  RAL 9005
+1152;fr;1;/;TALO.YOU Système de poste de travail
+1152;fr;2;/;Protection anticollisions pour tables à réglage motorisé
+1152;fr;3;/;Sensor réglable avec câble de jonction 350 mm au commande
+1152;fr;4;/;Dimensions en mm (LxPxH): 77 x 11 x 21
+1152;fr;5;/;Couleur  RAL 9005
+1152;nl;1;/;TALO.YOU Werkpleksysteem
+1152;nl;2;/;Stootbescherming voor motortafels
+1152;nl;3;/;Regelbare sensor met verbindingskabel 350 mm tot sturing
+1152;nl;4;/;Afmeting in mm (BxDxH): 77 x 11 x 21
+1152;nl;5;/;Kleur  RAL 9005
+1158;de;1;/;TALO.YOU Arbeitsplatzsystem
+1158;de;2;/;Staffeltisch auf Rollen
+1158;de;3;/;Gestell symmetrisch
+1158;de;4;/;Plattenstärke 25 mm
+1158;de;5;/;Platte mit Klappmechanismus, mittiger Auslösegriff
+1158;de;6;/;Rollen Ø 75 mm
+1158;de;7;/;Höhe 750 mm
+1158;en;1;/;TALO.YOU Workplace system
+1158;en;2;/;Nesting table on castors
+1158;en;3;/;Frame symmetrical
+1158;en;4;/;Top thickness 25 mm
+1158;en;5;/;Top with folding mechanism, centered release handle
+1158;en;6;/;Castors Ø 75 mm
+1158;en;7;/;Height 750 mm
+1158;fr;1;/;TALO.YOU Système de poste de travail
+1158;fr;2;/;Table emboîtable sur roulettes
+1158;fr;3;/;Piétement symétrique
+1158;fr;4;/;Épaisseur de plateau 25 mm
+1158;fr;5;/;Plateau avec mécanisme relevable, poignée-poussoir centrée
+1158;fr;6;/;Roulettes Ø 75 mm
+1158;fr;7;/;Hauteur 750 mm
+1158;nl;1;/;TALO.YOU Werkpleksysteem
+1158;nl;2;/;Stapeltafel op wielen
+1158;nl;3;/;Frame symmetrisch
+1158;nl;4;/;Bladdikte 25 mm
+1158;nl;5;/;Blad met klapmechaniek, midden ontgrendelgreep
+1158;nl;6;/;Wielen Ø 75 mm
+1158;nl;7;/;Hoogte 750 mm
+1163;de;1;/;TALO.YOU Arbeitsplatzsystem
+1163;de;2;/;Kabelwanne mit Ausklinkung zur Aufnahme von Kabelketten
+1163;de;3;/;Oberfläche Metall/Kunststoff
+1163;en;1;/;TALO.YOU Workplace system
+1163;en;2;/;Cable tray with notch for recieving cable chains
+1163;en;3;/;Surface metal/melamine
+1163;fr;1;/;TALO.YOU Système de poste de travail
+1163;fr;2;/;Goulotte de câblage avec déverrouillage pour l'intégration des chaînes de câble
+1163;fr;3;/;Surface métal/mélamine
+1163;nl;1;/;TALO.YOU Werkpleksysteem
+1163;nl;2;/;Kabelgoot met ontkoppeling voor opneming van kabelkettingen
+1163;nl;3;/;Afwerking metaal/kunststof
+1179;de;1;/;Dies ist ein Gruppenplanungsartikel.
+1179;de;2;/;Enthalten sind  TALO.YOU-Tische, die mit
+1179;de;3;/;unseren Abstandshaltern linear verbunden
+1179;de;4;/;sind.
+1179;de;5;/;Interaktoren erlauben das Anbauen weiterer
+1179;de;6;/;Tische sowie das Platzieren von Stühlen und
+1179;de;7;/;Containern.
+1179;de;8;/;Die Abstandshalter sind in der Länge variabel einstellbar.
+1179;en;1;/;This is a group planning article.
+1179;en;2;/;Included are TALO.YOU tables that are linearly connected
+1179;en;3;/;with our spacers.
+1179;en;4;/;Interactors allow the addition of further tables
+1179;en;5;/;as well as the placement of chairs and pedestal.
+1179;en;6;/;The spacers are variably adjustable in length.
+1179;fr;1;/;Il s’agit d’un article de planification de groupe.
+1179;fr;2;/;Sont inclus TALO.YOU tables, qui sont disponibles
+1179;fr;3;/;linéairement avec nos entretoises.
+1179;fr;4;/;Les interacteurs permettent l’ajout d’autres tables
+1179;fr;5;/;ainsi que le placement des chaises et caissons.
+1179;fr;6;/;Les entretoises sont réglables en longueur variable.
+1179;nl;1;/;Dit is een artikel over groepsplanning.
+1179;nl;2;/;Inbegrepen zijn TALO.YOU tafels, die lineair verbonden zijn
+1179;nl;3;/;met onze afstandhouders.
+1179;nl;4;/;Interactoren maken de toevoeging van verdere Tafels
+1179;nl;5;/;evenals de plaatsing van stoelen en ladenblokken.
+1179;nl;6;/;De afstandhouders zijn variabel in lengte verstelbaar.
+1181;de;1;/;TALO.YOU
+1181;de;2;/;Paar Distanzhalter für Doppelbench
+1181;de;3;/;für  25 mm Spaltmaß zwischen mehreren Anlagen
+1181;de;4;/;Oberfläche Metall gepulvert
+1181;en;1;/;TALO.YOU
+1181;en;2;/;Pair of spacers for double-bench
+1181;en;3;/;for 25 mm gap between several systems
+1181;en;4;/;Surface finish metal powder coated
+1181;fr;1;/;TALO.YOU
+1181;fr;2;/;Pair d´entretoises pour Bench Double
+1181;fr;3;/;pour un écart de 25 mm entre plusieurs systèmes
+1181;fr;4;/;Finition métallique époxydées
+1181;nl;1;/;TALO.YOU
+1181;nl;2;/;Paar afstandhouder voor dubbel-bench
+1181;nl;3;/;voor  25 mm spleet tussen verschillende opstellingen
+1181;nl;4;/;Afwerking metaal poedercoating
+1187;de;1;/;TALO.YOU Arbeitsplatzsystem
+1187;de;2;/;Zentrale Kabelwanne für Doppelbench
+1187;de;3;/;mit Ausklinkung zur Aufnahme von Kabelketten
+1187;de;4;/;Höhe vom Boden: 420 mm
+1187;de;5;/;Maße in mm (HxT): 100 x 249/219
+1187;de;6;/;Oberfläche Metall gepulvert
+1187;en;1;/;TALO.YOU Workplace system
+1187;en;2;/;central cable tray for double bench
+1187;en;3;/;with notch for recieving cable chains
+1187;en;4;/;Height from floor: 420 mm
+1187;en;5;/;Dimensions in mm (HxD): 100 x 249/219
+1187;en;6;/;Surface finish metal powder coated
+1187;fr;1;/;TALO.YOU Système de poste de travail
+1187;fr;2;/;Goulotte de câblage centrale pour bench double
+1187;fr;3;/;avec déverrouillage pour l'intégration des chaînes de câble
+1187;fr;4;/;Hauteur du sol: 420 mm
+1187;fr;5;/;Dimensions en mm (HxP): 100 x 249/219
+1187;fr;6;/;Finition métallique époxydées
+1187;nl;1;/;TALO.YOU Werkpleksysteem
+1187;nl;2;/;centrale kabelgoot voor dubbel-bench
+1187;nl;3;/;met ontkoppeling voor opneming van kabelkettingen
+1187;nl;4;/;Hoogte van vloer: 420 mm
+1187;nl;5;/;Afmeting in mm (HxD): 100 x 249/219
+1187;nl;6;/;Afwerking metaal poedercoating
+1210;de;1;/;TALO.YOU Arbeitsplatzsystem
+1210;de;2;/;Smart Connector für Motortische
+1210;de;3;/;Mit Adapterkabel 1750 mm zur Verbindung mit PC
+1210;de;4;/;Maße in mm (BxTxH): 72 x 21 x 11
+1210;de;5;/;Farbe  RAL 9005
+1210;en;1;/;TALO.YOU Workplace system
+1210;en;2;/;Smart connector for motorized desks
+1210;en;3;/;With adapter cable 1750 mm for connection to PC
+1210;en;4;/;Dimensions in mm (WxDxH): 72 x 21 x 11
+1210;en;5;/;Colour  RAL 9005
+1210;fr;1;/;TALO.YOU Système de poste de travail
+1210;fr;2;/;Connecteur smart pour tables à réglage motorisé
+1210;fr;3;/;Avec câble d'adaptateur 1750 mm pour la connexion à PC
+1210;fr;4;/;Dimensions en mm (LxPxH): 72 x 21 x 11
+1210;fr;5;/;Couleur  RAL 9005
+1210;nl;1;/;TALO.YOU Werkpleksysteem
+1210;nl;2;/;Smart connector voor motortafels
+1210;nl;3;/;Met adapterkabel 1750 mm voor verbinding met PC
+1210;nl;4;/;Afmeting in mm (BxDxH): 72 x 21 x 11
+1210;nl;5;/;Kleur  RAL 9005
+1214;de;1;/;TALO.YOU One - Monosäulentisch
+1214;de;2;/;Platte in Rechteckform
+1214;de;3;/;Fußplatte mit 2 Rollen
+1214;en;1;/;TALO.YOU One - Monocolumn table
+1214;en;2;/;Top in rectangular shape
+1214;en;3;/;Base plate with 2 castors
+1214;fr;1;/;TALO.YOU One - Table monocolonne
+1214;fr;2;/;Plateau en forme rectangulaire
+1214;fr;3;/;Plaque de base avec 2 roulettes
+1214;nl;1;/;TALO.YOU One - Monozuil tafel
+1214;nl;2;/;Blad in rechthoekvorm
+1214;nl;3;/;Steunvoet met 2 wielen
+1216;de;1;/;Staffeltisch (Gruppenplanung)
+1216;en;1;/;Nesting table (Group planning)
+1216;fr;1;/;Table emboîtable (Planification de groupe)
+1216;nl;1;/;Stapeltafel (Groepsplanning)
+1220;de;1;/;TALO.YOU Arbeitsplatzsystem
+1220;de;2;/;CPU-Halter mit Gurt
+1220;de;3;/;zur Montage gestellseitig innen oder außen
+1220;de;4;/;Belastung: max. 15 kg
+1220;de;5;/;Maße Auflage in mm (BxTxH): 286 x 125 x 490
+1220;de;6;/;Oberfläche Metall gepulvert
+1220;en;1;/;TALO.YOU Workplace system
+1220;en;2;/;CPU holder with belt
+1220;en;3;/;to be mounted to outer or inner frame
+1220;en;4;/;Load: max. 15 kg
+1220;en;5;/;Dimensions overlay in mm (WxDxH): 286 x 125 x 490
+1220;en;6;/;Surface finish metal powder coated
+1220;fr;1;/;TALO.YOU Système de poste de travail
+1220;fr;2;/;Porte-unité centrale avec sangle
+1220;fr;3;/;pour montage au piétement à l´intérieur ou à l´extérieur
+1220;fr;4;/;Charge: max. 15 kg
+1220;fr;5;/;Dimensions revêtement en mm (LxPxH): 286 x 125 x 490
+1220;fr;6;/;Finition métallique époxydées
+1220;nl;1;/;TALO.YOU Werkpleksysteem
+1220;nl;2;/;PC-houder met riem
+1220;nl;3;/;voor montage aan frame binnen of buiten
+1220;nl;4;/;Belasting: max. 15 kg
+1220;nl;5;/;Afmeting oplegger in mm (BxDxH): 286 x 125 x 490
+1220;nl;6;/;Afwerking metaal poedercoating
+1222;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1222;de;2;/;CPU Rollwagen
+1222;de;3;/;Maße in mm (BxHxT): 296 x 470 x 600
+1222;de;4;/;Oberfläche Metall gepulvert
+1222;en;1;/;Accessories TALO.YOU for Workplace systems
+1222;en;2;/;CPU trolley
+1222;en;3;/;Dimension in mm (WxHxD): 296 x 470 x 600
+1222;en;4;/;Surface finish metal powder coated
+1222;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1222;fr;2;/;Chariot UC
+1222;fr;3;/;Dimensions en mm (LxHxP): 296 x 470 x 600
+1222;fr;4;/;Finition métallique époxydées
+1222;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1222;nl;2;/;PC-trolley
+1222;nl;3;/;Afmeting in mm (BxHxD): 296 x 470 x 600
+1222;nl;4;/;Afwerking metaal poedercoating
+1228;de;1;/;TALO.YOU Arbeitsplatzsystem
+1228;de;2;/;Seitenverkleidung 2-teilig gelocht
+1228;de;3;/;für Gestelltyp TALO.S 2 oder LIFE.S 2
+1228;de;4;/;Oberfläche Metall gepulvert
+1228;en;1;/;TALO.YOU Workplace system
+1228;en;2;/;Side cover, 2-sections, perforated
+1228;en;3;/;for frame type TALO.S 2 or LIFE.S 2
+1228;en;4;/;Surface finish metal powder coated
+1228;fr;1;/;TALO.YOU Système de poste de travail
+1228;fr;2;/;Habillage latéral, en 2 parties, perforé
+1228;fr;3;/;pour type de piètement TALO.S 2 ou LIFE.S 2
+1228;fr;4;/;Finition métallique époxydées
+1228;nl;1;/;TALO.YOU Werkpleksysteem
+1228;nl;2;/;Zijpaneel, 2-delig, geperforeerd
+1228;nl;3;/;voor frametype TALO.S 2 of LIFE.S 2
+1228;nl;4;/;Afwerking metaal poedercoating
+1232;de;1;/;TALO.YOU Arbeitsplatzsystem
+1232;de;2;/;Seitenverkleidung 2-teilig ungelocht
+1232;de;3;/;für Gestelltyp TALO.S 2 oder LIFE.S 2
+1232;de;4;/;Oberfläche Metall gepulvert
+1232;en;1;/;TALO.YOU Workplace system
+1232;en;2;/;Side cover, 2-sections, unperforated
+1232;en;3;/;for frame type TALO.S 2 or LIFE.S 2
+1232;en;4;/;Surface finish metal powder coated
+1232;fr;1;/;TALO.YOU Système de poste de travail
+1232;fr;2;/;Habillage latéral, en 2 parties, non perforé
+1232;fr;3;/;pour type de piètement TALO.S 2 ou LIFE.S 2
+1232;fr;4;/;Finition métallique époxydées
+1232;nl;1;/;TALO.YOU Werkpleksysteem
+1232;nl;2;/;Zijpaneel, 2-delig, ongeperforeerd
+1232;nl;3;/;voor frametype TALO.S 2 of LIFE.S 2
+1232;nl;4;/;Afwerking metaal poedercoating
+1235;de;1;/;TALO.YOU Arbeitsplatzsystem
+1235;de;2;/;Einzeladapter zur Montage auf Konsolen
+1235;de;3;/;Oberfläche Metall
+1235;en;1;/;TALO.YOU Workplace system
+1235;en;2;/;Single adapter to be mounted to concoles
+1235;en;3;/;Surface metal
+1235;fr;1;/;TALO.YOU Système de poste de travail
+1235;fr;2;/;Adaptateur individuel pour montage aux concoles
+1235;fr;3;/;Surface métal
+1235;nl;1;/;TALO.YOU Werkpleksysteem
+1235;nl;2;/;Afzonderlijke adapter voor montage aan consolen
+1235;nl;3;/;Afwerking metaal
+1241;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1241;de;2;/;Halterung für Kabelkette zur Montage an Platte
+1241;en;1;/;Accessories TALO.YOU for Workplace systems
+1241;en;2;/;Holder for cable chain for assembly on top
+1241;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1241;fr;2;/;Support pour chaîne à câbles à monter à plateau
+1241;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1241;nl;2;/;Houder voor kabelketting ter montage aan blad
+1254;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1254;de;2;/;Kabelklammer
+1254;de;3;/;Zur Montage unter Tischplatte
+1254;en;1;/;Accessories TALO.YOU for Workplace systems
+1254;en;2;/;Cable clip
+1254;en;3;/;to be mounted under desk top
+1254;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1254;fr;2;/;Pince pour câbles
+1254;fr;3;/;pour montage sous le plateau de table
+1254;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1254;nl;2;/;Kabelklem
+1254;nl;3;/;voor montage onder tafelblad
+1256;de;1;/;TALO.YOU Arbeitsplatzsystem
+1256;de;2;/;Kabelköcher für Gestellseitenteil Quadratrohr
+1256;de;3;/;Werkzeuglose Montage über Klebeverbindung
+1256;de;4;/;Oberfläche Metall gepulvert
+1256;en;1;/;TALO.YOU Workplace system
+1256;en;2;/;Cable tube for side frame square tube
+1256;en;3;/;Tool-free assembly with adhesive connection
+1256;en;4;/;Surface finish metal powder coated
+1256;fr;1;/;TALO.YOU Système de poste de travail
+1256;fr;2;/;Carquois à câble pour cadre latéral tube carré
+1256;fr;3;/;Assemblage sans outils avec connexion collage
+1256;fr;4;/;Finition métallique époxydées
+1256;nl;1;/;TALO.YOU Werkpleksysteem
+1256;nl;2;/;Kabelkoker zij-frame vierkante buis
+1256;nl;3;/;zonder gereedschap monteerbaar met plakverbinding
+1256;nl;4;/;Afwerking metaal poedercoating
+1258;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1258;de;2;/;Kabelkette für Bench-Tische
+1258;de;3;/;zur Montage an zentrale Wanne und Wanne unter Platte
+1258;de;4;/;Oberfläche Kunststoff
+1258;en;1;/;Accessories TALO.YOU for Workplace systems
+1258;en;2;/;Cable chain for bench tables
+1258;en;3;/;to be mounted on central cable tray and cable tray under top
+1258;en;4;/;Surface melamine
+1258;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1258;fr;2;/;Chaînes à câbles pour tables bench
+1258;fr;3;/;pour montage à goulotte de câblage centrale et goulotte de câblage sous plateau
+1258;fr;4;/;Surface mélaminée
+1258;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1258;nl;2;/;Kabelketting voor bench-tafels
+1258;nl;3;/;voor montage aan centrale kabelgoot en kabelgoot onder blad
+1258;nl;4;/;Afwerking kunststof
+1260;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1260;de;2;/;Kabelkette für höheneinstellbare/fixe Tische
+1260;de;3;/;zur Montage an Kabelwanne
+1260;de;4;/;Oberfläche Kunststoff
+1260;en;1;/;Accessories TALO.YOU for Workplace systems
+1260;en;2;/;Cable chain for fixed/adjustable height desks
+1260;en;3;/;to be mounted on cable tray
+1260;en;4;/;Surface melamine
+1260;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1260;fr;2;/;Chaîne à câbles pour tables en hauteur fixe/réglable
+1260;fr;3;/;pour montage à goulotte de câblage
+1260;fr;4;/;Surface mélaminée
+1260;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1260;nl;2;/;Kabelketting voor tafels met hoogte fix/verstellbaar
+1260;nl;3;/;voor montage aan kabelgoot
+1260;nl;4;/;Afwerking kunststof
+1262;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1262;de;2;/;Kabelkette für höheneinstellbare/fixe Tische
+1262;de;3;/;zur Montage unter Tischplatte
+1262;de;4;/;Oberfläche Kunststoff
+1262;en;1;/;Accessories TALO.YOU for Workplace systems
+1262;en;2;/;Cable chain for fixed/adjustable height desks
+1262;en;3;/;to be mounted under desk top
+1262;en;4;/;Surface melamine
+1262;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1262;fr;2;/;Chaîne à câbles pour tables en hauteur fixe/réglable
+1262;fr;3;/;pour montage sous le plateau de table
+1262;fr;4;/;Surface mélaminée
+1262;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1262;nl;2;/;Kabelketting voor tafels met hoogte fix/verstellbaar
+1262;nl;3;/;voor montage onder tafelblad
+1262;nl;4;/;Afwerking kunststof
+1264;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1264;de;2;/;Kabelkette für Motortische
+1264;de;3;/;nur in Verbindung mit Kabelköcher nutzbar
+1264;de;4;/;Oberfläche Kunststoff
+1264;en;1;/;Accessories TALO.YOU for Workplace systems
+1264;en;2;/;Cable chain for motorized desks
+1264;en;3;/;only useable in connection with cable tube
+1264;en;4;/;Surface melamine
+1264;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1264;fr;2;/;Chaîne à câbles pour tables à réglage motorisé
+1264;fr;3;/;seulement utilisable avec les options de carquois à câble
+1264;fr;4;/;Surface mélaminée
+1264;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1264;nl;2;/;Kabelketting voor motortafels
+1264;nl;3;/;alleen te gebruiken in combinatie met kabelkoker
+1264;nl;4;/;Afwerking kunststof
+1266;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1266;de;2;/;Kabelkette für Motortische
+1266;de;3;/;zur Montage an Kabelwanne
+1266;de;4;/;Oberfläche Kunststoff
+1266;en;1;/;Accessories TALO.YOU for Workplace systems
+1266;en;2;/;Cable chain for motorized desks
+1266;en;3;/;to be mounted on cable tray
+1266;en;4;/;Surface melamine
+1266;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1266;fr;2;/;Chaîne à câbles pour tables à réglage motorisé
+1266;fr;3;/;pour montage à goulotte de câblage
+1266;fr;4;/;Surface mélaminée
+1266;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1266;nl;2;/;Kabelketting voor motortafels
+1266;nl;3;/;voor montage aan kabelgoot
+1266;nl;4;/;Afwerking kunststof
+1268;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1268;de;2;/;Kabelkette für Motortische
+1268;de;3;/;zur Montage unter Tischplatte
+1268;de;4;/;Oberfläche Kunststoff
+1268;en;1;/;Accessories TALO.YOU for Workplace systems
+1268;en;2;/;Cable chain for motorized desks
+1268;en;3;/;to be mounted under desk top
+1268;en;4;/;Surface melamine
+1268;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1268;fr;2;/;Chaîne à câbles pour tables à réglage motorisé
+1268;fr;3;/;pour montage sous le plateau de table
+1268;fr;4;/;Surface mélaminée
+1268;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1268;nl;2;/;Kabelketting voor motortafels
+1268;nl;3;/;voor montage onder tafelblad
+1268;nl;4;/;Afwerking kunststof
+1271;de;1;/;TALO.YOU Arbeitsplatzsystem
+1271;de;2;/;Kabelstrumpf für höheneinstellbare/fixe Tische
+1271;de;3;/;zur Montage an Kabelwanne
+1271;de;4;/;Oberfläche 3-D Netzgewebe
+1271;en;1;/;TALO.YOU Workplace system
+1271;en;2;/;Cable sleeve for fixed/adjustable height desks
+1271;en;3;/;to be mounted on cable tray
+1271;en;4;/;Surface 3D mesh fabric
+1271;fr;1;/;TALO.YOU Système de poste de travail
+1271;fr;2;/;Gaine à câbles pour table en hauteur fixe/réglable
+1271;fr;3;/;pour montage à goulotte de câblage
+1271;fr;4;/;Surface résille 3D
+1271;nl;1;/;TALO.YOU Werkpleksysteem
+1271;nl;2;/;Kabelkous voor tafels met hoogte fix/verstellbaar
+1271;nl;3;/;voor montage aan kabelgoot
+1271;nl;4;/;Afwerking 3D-netweefsel
+1280;de;1;/;TALO.YOU Arbeitsplatzsystem
+1280;de;2;/;Kabelstrumpf für höheneinstellbare/fixe Tische
+1280;de;3;/;zur Montage unter Tischplatte
+1280;de;4;/;Oberfläche 3-D Netzgewebe
+1280;en;1;/;TALO.YOU Workplace system
+1280;en;2;/;Cable sleeve for fixed/adjustable height desks
+1280;en;3;/;to be mounted under desk top
+1280;en;4;/;Surface 3D mesh fabric
+1280;fr;1;/;TALO.YOU Système de poste de travail
+1280;fr;2;/;Gaine à câbles pour table en hauteur fixe/réglable
+1280;fr;3;/;pour montage sous le plateau de table
+1280;fr;4;/;Surface résille 3D
+1280;nl;1;/;TALO.YOU Werkpleksysteem
+1280;nl;2;/;Kabelkous voor tafels met hoogte fix/verstellbaar
+1280;nl;3;/;voor montage onder tafelblad
+1280;nl;4;/;Afwerking 3D-netweefsel
+1282;de;1;/;TALO.YOU Arbeitsplatzsystem
+1282;de;2;/;Kabelstrumpf für Motortische mit Quadratrohr
+1282;de;3;/;zur gestellseitigen Montage
+1282;de;4;/;Werkzeuglose Montage über Klettverbindung
+1282;de;5;/;Oberfläche 3-D Netzgewebe
+1282;en;1;/;TALO.YOU Workplace system
+1282;en;2;/;Cable sleeve for motorized desks with square tube
+1282;en;3;/;to be mounted to frame
+1282;en;4;/;Tool-free assembly with Velcro® fastening
+1282;en;5;/;Surface 3D mesh fabric
+1282;fr;1;/;TALO.YOU Système de poste de travail
+1282;fr;2;/;Gaine à câbles pour tables à réglage motorisé avec tube carré
+1282;fr;3;/;pour montage au piétement
+1282;fr;4;/;Assemblage sans outils avec bande auto-agrippante
+1282;fr;5;/;Surface résille 3D
+1282;nl;1;/;TALO.YOU Werkpleksysteem
+1282;nl;2;/;Kabelkous voor motortafels met vierkant buis
+1282;nl;3;/;voor montage aan frame
+1282;nl;4;/;zonder gereedschap monteerbaar met klittenbandbevestiging
+1282;nl;5;/;Afwerking 3D-netweefsel
+1284;de;1;/;TALO.YOU Arbeitsplatzsystem
+1284;de;2;/;Kabelstrumpf für Motortische
+1284;de;3;/;zur Montage an Kabelwanne
+1284;de;4;/;Oberfläche 3-D Netzgewebe
+1284;en;1;/;TALO.YOU Workplace system
+1284;en;2;/;Cable sleeve for motorized desks
+1284;en;3;/;to be mounted on cable tray
+1284;en;4;/;Surface 3D mesh fabric
+1284;fr;1;/;TALO.YOU Système de poste de travail
+1284;fr;2;/;Gaine à câbles pour tables à réglage motorisé
+1284;fr;3;/;pour montage à goulotte de câblage
+1284;fr;4;/;Surface résille 3D
+1284;nl;1;/;TALO.YOU Werkpleksysteem
+1284;nl;2;/;Kabelkous voor motortafels
+1284;nl;3;/;voor montage aan kabelgoot
+1284;nl;4;/;Afwerking 3D-netweefsel
+1286;de;1;/;TALO.YOU Arbeitsplatzsystem
+1286;de;2;/;Kabelstrumpf für Motortische
+1286;de;3;/;zur Montage unter Tischplatte
+1286;de;4;/;Oberfläche 3-D Netzgewebe
+1286;en;1;/;TALO.YOU Workplace system
+1286;en;2;/;Cable sleeve for motorized desks
+1286;en;3;/;to be mounted under desk top
+1286;en;4;/;Surface 3D mesh fabric
+1286;fr;1;/;TALO.YOU Système de poste de travail
+1286;fr;2;/;Gaine à câbles pour tables à réglage motorisé
+1286;fr;3;/;pour montage sous le plateau de table
+1286;fr;4;/;Surface résille 3D
+1286;nl;1;/;TALO.YOU Werkpleksysteem
+1286;nl;2;/;Kabelkous voor motortafels
+1286;nl;3;/;voor montage onder tafelblad
+1286;nl;4;/;Afwerking 3D-netweefsel
+1288;de;1;/;"Personalbox Kunststoff, Tür mit ""Softclose"" Einzugsdämpfung,"
+1288;de;2;/;abschließbar
+1288;de;3;/;Maße in mm (HxBxT): 425 x 280 x 465.
+1288;de;4;/;Rollcontainer unter Personalbox nicht möglich.
+1288;en;1;/;"Personal box melamine, door with ""Softclose"" draw-in damping,"
+1288;en;2;/;lockable
+1288;en;3;/;Dimensions in mm (HxWxD): 425 x 280 x 465.
+1288;en;4;/;Mobile pedestal not possible under Personal Box.
+1288;fr;1;/;Personal Box mélamine, porte avec amortissement par tirage «Softclose »,
+1288;fr;2;/;verrouillable
+1288;fr;3;/;Dimensions en mm (HxLxP): 425 x 280 x 465.
+1288;fr;4;/;Caisson mobile pas possible sous Personal Box.
+1288;nl;1;/;"Personalbox kunststof, deur met ""Softclose"" intrekdemping,"
+1288;nl;2;/;afsluitbaar
+1288;nl;3;/;Afmeting in mm (HxBxD): 425 x 280 x 465.
+1288;nl;4;/;Verrijdbare ladenblok niet mogelijk onder Personalbox.
+1317;de;1;/;TALO.YOU Arbeitsplatzsystem
+1317;de;2;/;Rückwandverblendung für Schreibtische
+1317;de;3;/;Maße in mm (H): 415
+1317;de;4;/;Oberfläche Metall gepulvert
+1317;en;1;/;TALO.YOU Workplace system
+1317;en;2;/;Modesty panel for desks
+1317;en;3;/;Dimensions in mm (H): 415
+1317;en;4;/;Surface finish metal powder coated
+1317;fr;1;/;TALO.YOU Système de poste de travail
+1317;fr;2;/;Voile de fond pour bureaux de travail
+1317;fr;3;/;Dimensions en mm (H): 415
+1317;fr;4;/;Finition métallique époxydées
+1317;nl;1;/;TALO.YOU Werkpleksysteem
+1317;nl;2;/;Achterschot voor bureautafels
+1317;nl;3;/;Afmeting in mm (H): 415
+1317;nl;4;/;Afwerking metaal poedercoating
+1329;de;1;/;TALO.YOU Arbeitsplatzsystem
+1329;de;2;/;Rückwandverblendung für Staffeltisch
+1329;de;3;/;Maße in mm (H): 235 mm / 268 mm
+1329;de;4;/;Lochblech geschlitzt, mit Tisch klappbar
+1329;de;5;/;Oberfläche Metall gepulvert
+1329;en;1;/;TALO.YOU Workplace system
+1329;en;2;/;Modesty panel for nesting table
+1329;en;3;/;Dimensions in mm (H): 235 mm / 268 mm
+1329;en;4;/;Perforated slotted steel, folding with table
+1329;en;5;/;Surface finish metal powder coated
+1329;fr;1;/;TALO.YOU Système de poste de travail
+1329;fr;2;/;Recouvrement de parois arrière pour table emboîtable
+1329;fr;3;/;Dimensions en mm (H): 235 mm / 268 mm
+1329;fr;4;/;Tôle perforée et rainurée, rabattable avec table
+1329;fr;5;/;Finition métallique époxydées
+1329;nl;1;/;TALO.YOU Werkpleksysteem
+1329;nl;2;/;Achterschot voor stapeltafel
+1329;nl;3;/;Afmeting in mm (H): 235 mm / 268 mm
+1329;nl;4;/;Geperforeerd splitten plaatstaal, klapbaar met tafel
+1329;nl;5;/;Afwerking metaal poedercoating
+1331;de;1;/;TALO.YOU Arbeitsplatzsystem
+1331;de;2;/;Druckeransatzplatte
+1331;de;3;/;zur gestellseitigen Montage außen
+1331;de;4;/;Maße in mm (BxT): 600 x 370
+1331;en;1;/;TALO.YOU Workplace system
+1331;en;2;/;printer add-on panel
+1331;en;3;/;to be mounted to outer frame
+1331;en;4;/;Dimensions in mm (WxD): 600 x 370
+1331;fr;1;/;TALO.YOU Système de poste de travail
+1331;fr;2;/;plateau d´extension latéral pour imprimante
+1331;fr;3;/;pour montage au piétement à l´extérieur
+1331;fr;4;/;Dimensions en mm (LxP): 600 x 370
+1331;nl;1;/;TALO.YOU Werkpleksysteem
+1331;nl;2;/;printer aanzetblad
+1331;nl;3;/;voor montage aan frame buiten
+1331;nl;4;/;Afmeting in mm (BxD): 600 x 370
+1334;de;1;/;TALO.YOU Arbeitsplatzsystem
+1334;de;2;/;Smart-CPU-Halter
+1334;de;3;/;zur Adaption unter Tischplatte
+1334;de;4;/;Belastung: max. 5 kg
+1334;de;5;/;Maße in mm (BxTxH): 256 x 180 x 56
+1334;en;1;/;TALO.YOU Workplace system
+1334;en;2;/;Smart CPU holder
+1334;en;3;/;For adaptation under top
+1334;en;4;/;Load: max. 5 kg
+1334;en;5;/;Dimensions in mm (WxDxH): 256 x 180 x 56
+1334;fr;1;/;TALO.YOU Système de poste de travail
+1334;fr;2;/;Porte-unité centrale intelligent
+1334;fr;3;/;À adapter sous le plateau de table
+1334;fr;4;/;Charge: max. 5 kg
+1334;fr;5;/;Dimensions en mm (LxPxH): 256 x 180 x 56
+1334;nl;1;/;TALO.YOU Werkpleksysteem
+1334;nl;2;/;Slimme PC-houder
+1334;nl;3;/;Ter bevestiging onder tafel
+1334;nl;4;/;Belasting: max. 5 kg
+1334;nl;5;/;Afmeting in mm (BxDxH): 256 x 180 x 56
+1336;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1336;de;2;/;Toolbox ohne Bechereinsatz
+1336;de;3;/;Maße in mm (BxTxH): 325 x 160 x 120
+1336;de;4;/;Oberfläche Kunststoff
+1336;en;1;/;Accessories TALO.YOU for Workplace systems
+1336;en;2;/;Toolbox without inset for beaker
+1336;en;3;/;Dimension in mm (WxDxH): 325 x 160 x 120
+1336;en;4;/;Surface melamine
+1336;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1336;fr;2;/;Toolbox sans insert pour gobelet
+1336;fr;3;/;Dimensions en mm (LxPxH): 325 x 160 x 120
+1336;fr;4;/;Surface mélaminée
+1336;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1336;nl;2;/;Toolbox zonder beker inzet
+1336;nl;3;/;Afmeting in mm (BxDxH): 325 x 160 x 120
+1336;nl;4;/;Afwerking kunststof
+1338;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1338;de;2;/;Bechereinsatz für Toolbox
+1338;de;3;/;1 Stück
+1338;de;4;/;Oberfläche Kunststoff
+1338;en;1;/;Accessories TALO.YOU for Workplace systems
+1338;en;2;/;Inset for beaker for Toolbox
+1338;en;3;/;1 piece
+1338;en;4;/;Surface melamine
+1338;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1338;fr;2;/;Insert pour gobelet pour Toolbox
+1338;fr;3;/;1 unité
+1338;fr;4;/;Surface mélaminée
+1338;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1338;nl;2;/;Bekerinzet voor Toolbox
+1338;nl;3;/;1 stuk
+1338;nl;4;/;Afwerking kunststof
+1342;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1342;de;2;/;Unterbauschublade, abschließbar
+1342;de;3;/;zur Montage unter Platte
+1342;de;4;/;Max. Belastung 4 kg
+1342;de;5;/;Einsetzbar für Platte Normalform 19 mm und 25 mm, Tiefe 800-1000 mm
+1342;de;6;/;Für Tischbreiten 1600-2000 mm
+1342;de;7;/;Rollcontainer bzw. CPU-Halter unter Schublade nicht möglich.
+1342;de;8;/;Einbaumaße in mm (BxTxH): 430 x 410 x 123 inkl. Abstandshalter
+1342;de;9;/;Schublade Innenmaße in mm (BxTxH): 305 x 342 x 40
+1342;de;10;/;Oberfläche Kunststoff
+1342;en;1;/;Accessories TALO.YOU for Workplace systems
+1342;en;2;/;Chassis drawer, lockable
+1342;en;3;/;to be mounted under top
+1342;en;4;/;Max. load 4 kg
+1342;en;5;/;Applicable to standard shaped top 19 mm and 25 mm, depth 800-1000 mm
+1342;en;6;/;For table widths 1600-2000 mm
+1342;en;7;/;Mobile pedestal resp. CPU holder not possible under drawer
+1342;en;8;/;Assembly dimensions in mm (WxDxH): 430 x 410 x 123 incl. Spacer
+1342;en;9;/;Drawer inside dimensions in mm (WxDxH): 305 x 342 x 40
+1342;en;10;/;Surface melamine
+1342;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1342;fr;2;/;Tiroir bâti, verrouillable
+1342;fr;3;/;pour montage sous plateau
+1342;fr;4;/;Max. charge 4 kg
+1342;fr;5;/;Utilisable en cas de plateau de forme normale 19 mm et 25 mm, profondeur 800-1000 mm
+1342;fr;6;/;Pour largeurs de table 1600-2000 mm
+1342;fr;7;/;Caisson mobile resp. Porte-unité centrale pas possible sous tiroir
+1342;fr;8;/;Cotes d'implantation en mm (LxPxH): 430 x 410 x 123 y.c. entretoise
+1342;fr;9;/;Tiroir dimensions intérieures en mm (LxPxH): 305 x 342 x 40
+1342;fr;10;/;Surface mélaminée
+1342;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1342;nl;2;/;Onderbouwlade, afsluitbaar
+1342;nl;3;/;voor montage onder blad
+1342;nl;4;/;Max. belasting 4 kg
+1342;nl;5;/;Inzetbaar voor blad met standaardvorm 19 mm en 25 mm, diepte 800-1000 mm
+1342;nl;6;/;Voor tafelbreedten 1600-2000 mm
+1342;nl;7;/;Verrijdbare ladenblok resp. PC-houder niet mogelijk onder schuiflade
+1342;nl;8;/;Inbouwdimensies in mm (BxDxH): 430 x 410 x 123 incl. Afstandhouder
+1342;nl;9;/;Schuiflade binnenafmetingen in mm (BxDxH): 305 x 342 x 40
+1342;nl;10;/;Afwerking kunststof
+1344;de;1;/;TALO.YOU Arbeitsplatzsystem
+1344;de;2;/;Kabelwannenüberbrückung für Bench Tische
+1344;de;3;/;zur Verbindung von zentralen Kabelwannen
+1344;de;4;/;Maße in mm (BxT): 224 x 233 / 323
+1344;de;5;/;Oberfläche Metall gepulvert
+1344;en;1;/;TALO.YOU Workplace system
+1344;en;2;/;Cable tray bridge for benches
+1344;en;3;/;to connect central cable trays
+1344;en;4;/;Dimensions in mm (WxD): 224 x 233 / 323
+1344;en;5;/;Surface finish metal powder coated
+1344;fr;1;/;TALO.YOU Système de poste de travail
+1344;fr;2;/;Jonction pour goulotte de câblage pour bench
+1344;fr;3;/;pour la connexion aux goulottes de câblage centrales
+1344;fr;4;/;Dimensions en mm (LxP): 224 x 233 / 323
+1344;fr;5;/;Finition métallique époxydées
+1344;nl;1;/;TALO.YOU Werkpleksysteem
+1344;nl;2;/;Kabelgoot-overbrugging voor bench
+1344;nl;3;/;voor verbinding van centrale kabelgoten
+1344;nl;4;/;Afmeting in mm (BxD): 224 x 233 / 323
+1344;nl;5;/;Afwerking metaal poedercoating
+1360;de;1;/;TALO.YOU Arbeitsplatzsystem
+1360;de;2;/;Videokonferenztisch, halbe Achteckform
+1360;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1360;en;1;/;TALO.YOU Workplace system
+1360;en;2;/;Video conference table, half octagonal shape
+1360;en;3;/;Frame type T-foot, symmetrical
+1360;fr;1;/;TALO.YOU Système de poste de travail
+1360;fr;2;/;Table de vidéoconférence, forme semi-octogonale
+1360;fr;3;/;Type de piétement pied en T,  symétrique
+1360;nl;1;/;TALO.YOU Werkpleksysteem
+1360;nl;2;/;Videokonferentietafel, halve achthoekvorm
+1360;nl;3;/;Frame type T-poot, symmetrisch
+1363;de;1;/;TALO.YOU Arbeitsplatzsystem
+1363;de;2;/;Videokonferenztisch, Rautenform
+1363;de;3;/;Gestelltyp T-Fuß, symmetrisch
+1363;en;1;/;TALO.YOU Workplace system
+1363;en;2;/;Video conference table, diamond shape
+1363;en;3;/;Frame type T-foot, symmetrical
+1363;fr;1;/;TALO.YOU Système de poste de travail
+1363;fr;2;/;Table de vidéoconférence, forme de diamant
+1363;fr;3;/;Type de piétement pied en T,  symétrique
+1363;nl;1;/;TALO.YOU Werkpleksysteem
+1363;nl;2;/;Videokonferentietafel, diamant vorm
+1363;nl;3;/;Frame type T-poot, symmetrisch
+1365;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1365;de;2;/;Kupplungskabel für Steckdosen
+1365;de;3;/;GST 18 System
+1365;en;1;/;Accessories TALO.YOU for Workplace systems
+1365;en;2;/;Connection lead for socket modules
+1365;en;3;/;GST 18 System
+1365;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1365;fr;2;/;Câble de couplage pour bloc des prises
+1365;fr;3;/;GST 18 Système
+1365;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1365;nl;2;/;Koppelingskabel voor contactdooselementen
+1365;nl;3;/;GST 18 Systeem
+1367;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1367;de;2;/;Steckdosenelement ohne Kabel
+1367;de;3;/;GST 18 System
+1367;en;1;/;Accessories TALO.YOU for Workplace systems
+1367;en;2;/;Socket module without cable
+1367;en;3;/;GST 18 System
+1367;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1367;fr;2;/;Élément de prise sans câble
+1367;fr;3;/;GST 18 Système
+1367;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1367;nl;2;/;Contactdooselement zonder kabel
+1367;nl;3;/;GST 18 Systeem
+1369;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1369;de;2;/;Kabelklammernset
+1369;de;3;/;best. aus 5 Kabelklammern und 3-fach Schuko Steckdose
+1369;de;4;/;inkl. Stromzuführung 3500 mm
+1369;en;1;/;Accessories TALO.YOU for Workplace systems
+1369;en;2;/;Set of cable clip
+1369;en;3;/;consists of 5 cable clips and threefold socket
+1369;en;4;/;incl. mains lead 3500 mm
+1369;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1369;fr;2;/;Jeu de pinces pour câbles
+1369;fr;3;/;composé de 5 pinces pour câbles et bloc de 3 prises
+1369;fr;4;/;y.c. câble d’alimentation 3500 mm
+1369;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1369;nl;2;/;Kabelklemmenset
+1369;nl;3;/;bestaat uit 5 kabelklemmen en 3-voudige contactdoos
+1369;nl;4;/;incl. stroomtoevoerkabel 3500 mm
+1376;de;1;/;Zubehör für TALO.YOU Arbeitsplatzsysteme
+1376;de;2;/;Stromzuführungskabel für Steckdosen
+1376;de;3;/;GST 18 System
+1376;en;1;/;Accessories TALO.YOU for Workplace systems
+1376;en;2;/;Mains leadcfor socket modules
+1376;en;3;/;GST 18 System
+1376;fr;1;/;Accessoires pour TALO.YOU Système de poste de travail
+1376;fr;2;/;Câble d´alimentation pour bloc des prises
+1376;fr;3;/;GST 18 Système
+1376;nl;1;/;Toebehoren voor TALO.YOU Werkpleksysteem
+1376;nl;2;/;Stroomtoevoerkabel voor contactdooselementen
+1376;nl;3;/;GST 18 Systeem

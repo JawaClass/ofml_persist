@@ -1,0 +1,20 @@
+NT_EDIT_SCREENS_COLOR;"methodCall(""AC_MC_WIDTH"")*0.5-0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_SCREENS_DIMENSIONS;0;"methodCall(""AC_MC_HEIGHT"")+0.05";0
+NT_EDIT_SCREENS_PROPS;"methodCall(""AC_MC_WIDTH"")*0.5+0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_SCREENSACC_COLOR;"methodCall(""AC_MC_WIDTH"")*0.5-0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_SIDECOVER_COLOR;0;"methodCall(""AC_MC_HEIGHT"")+0.05";GT1__TI*0.001*0.5-0.1-0.85*(GPN_Variant == @PN_SideCoverClamp)
+NT_EDIT_SIDECOVER_DIMENSIONS;0;"methodCall(""AC_MC_HEIGHT"")+0.05";0
+NT_EDIT_SIDECOVER_PROPS;0;"methodCall(""AC_MC_HEIGHT"")+0.05";GT1__TI*0.001*0.5+0.1-0.85*(GPN_Variant == @PN_SideCoverClamp)
+NT_EDIT_RAIL_COLOR;"methodCall(""AC_MC_WIDTH"")*0.5-0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_RAIL_DIMENSIONS;0;"methodCall(""AC_MC_HEIGHT"")+0.05";0
+NT_EDIT_RAIL_PROPS;"methodCall(""AC_MC_WIDTH"")*0.5+0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_WALL_COLOR;(GB1__PN*0.001*0.5-0.1)*(GPN_Variant == @PN_Wall);GH1__PN*0.001+0.05;(GB1__PN*0.001*0.5-0.1)*(GPN_Variant == @PN_WallPanel)
+NT_EDIT_WALL_DIMENSIONS;0;GH1__PN*0.001+0.05;0
+NT_EDIT_WALL_PROPS;(GB1__PN*0.001*0.5+0.1)*(GPN_Variant == @PN_Wall);GH1__PN*0.001+0.05;(GB1__PN*0.001*0.5+0.1)*(GPN_Variant == @PN_WallPanel)
+NT_ADD_BOARD;"(methodCall(""AC_MC_WIDTH"")*0.5)*(GPN_Variant==@PN_Wall)- (0.20)*(GPN_Variant!=@PN_Wall)";"methodCall(""AC_MC_HEIGHT"")*0.8";0.05*(GPN_Variant==@PN_Wall) + (0.4)*(GPN_Variant!=@PN_Wall)
+NT_DEL_BOARD;"(methodCall(""AC_MC_WIDTH"")*0.5)*(GPN_Variant==@PN_Wall)- (0.20)*(GPN_Variant!=@PN_Wall)";"methodCall(""AC_MC_HEIGHT"")*0.8";0.10*(GPN_Variant==@PN_Wall) + (0.4)*(GPN_Variant!=@PN_Wall)
+NT_EDIT_HYSCREENS_COLOR;"methodCall(""AC_MC_WIDTH"")*0.5-0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_HYSCREENS_DIMENSIONS;0;"methodCall(""AC_MC_HEIGHT"")+0.05";0
+NT_EDIT_HYSCREENS_PROPS;"methodCall(""AC_MC_WIDTH"")*0.5+0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_HYADAPTER_COLOR;"methodCall(""AC_MC_WIDTH"")*0.5-0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"
+NT_EDIT_HYSCREENSACC_COLOR;"methodCall(""AC_MC_WIDTH"")*0.5-0.1";"methodCall(""AC_MC_HEIGHT"")+0.05";"methodCall(""AC_MC_DEPTH"")*0.5"

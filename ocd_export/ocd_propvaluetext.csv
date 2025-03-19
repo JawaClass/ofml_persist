@@ -1,0 +1,2128 @@
+17;de;1;/;400 mm
+17;en;1;/;400 mm
+17;fr;1;/;400 mm
+17;nl;1;/;400 mm
+18;de;1;/;500 mm
+18;en;1;/;500 mm
+18;fr;1;/;500 mm
+18;nl;1;/;500 mm
+20;de;1;/;800 mm
+20;en;1;/;800 mm
+20;fr;1;/;800 mm
+20;nl;1;/;800 mm
+22;de;1;/;900 mm
+22;en;1;/;900 mm
+22;fr;1;/;900 mm
+22;nl;1;/;900 mm
+23;de;1;/;1000 mm
+23;en;1;/;1000 mm
+23;fr;1;/;1000 mm
+23;nl;1;/;1000 mm
+25;de;1;/;TALO.YOU - Quadratrohr
+25;en;1;/;TALO.YOU - Square tube
+25;fr;1;/;TALO.YOU - Tube carré
+25;nl;1;/;TALO.YOU - Vierkante buis
+26;de;1;/;TALO.YOU - Rundrohr
+26;en;1;/;TALO.YOU - Round tube
+26;fr;1;/;TALO.YOU - Tube rond
+26;nl;1;/;TALO.YOU - Ronde buis
+28;de;1;/;Alufarbig
+28;en;1;/;Aluminium-coloured
+28;fr;1;/;Couleur alu
+28;nl;1;/;Aluminiumkleurig
+29;de;1;/;Anthrazit metallic
+29;en;1;/;Anthracite metallic
+29;fr;1;/;Anthracite métallique
+29;nl;1;/;Antraciet metallic
+30;de;1;/;Grau
+30;en;1;/;Grey
+30;fr;1;/;Gris
+30;nl;1;/;Grijs
+31;de;1;/;Grauweiß
+31;en;1;/;Off-white
+31;fr;1;/;Gris blanc
+31;nl;1;/;Grijswit
+32;de;1;/;Lichtgrau
+32;en;1;/;Light grey
+32;fr;1;/;Gris clair
+32;nl;1;/;Lichtgrijs
+33;de;1;/;Schwarz
+33;en;1;/;Black
+33;fr;1;/;Noir
+33;nl;1;/;Zwart
+34;de;1;/;Reinweiß
+34;en;1;/;Pure white
+34;fr;1;/;Blanc pur
+34;nl;1;/;Zuiver wit
+35;de;1;/;Urban Style/Klarlack (inkl. typischer Fertigungsspuren)
+35;en;1;/;Urban style/Clear varnish (incl. typical production traces)
+35;fr;1;/;Urban Style/Vernis incolore (traces de fabrication typiques inclus)
+35;nl;1;/;Urban Style/transparante lak ( incl. typische productiesporen)
+37;de;1;/;Kunststoff Uni/Dekor
+37;en;1;/;Laminate solid colour/patterned
+37;fr;1;/;Mélamine unie/avec décor
+37;nl;1;/;Kunststof uni/decor
+38;de;1;/;Kunststoff Fenix
+38;en;1;/;Melamine Fenix
+38;fr;1;/;Mélamine Fenix
+38;nl;1;/;Kunststof Fenix
+39;de;1;/;Trendkollektion
+39;en;1;/;Trend collection
+39;fr;1;/;Collection de tendances
+39;nl;1;/;Trend collectie
+40;de;1;/;Furnier
+40;en;1;/;Veneer
+40;fr;1;/;Placage
+40;nl;1;/;Fineer
+42;de;1;/;Alufarbig Kunststoff
+42;en;1;/;Aluminium-coloured melamine
+42;fr;1;/;Couleur alu Mélaminé
+42;nl;1;/;Aluminiumkleurig kunststof
+43;de;1;/;Uni Melange
+43;en;1;/;Uni Melange
+43;fr;1;/;Uni Mélange
+43;nl;1;/;Uni Melange
+44;de;1;/;Ahorn
+44;en;1;/;Maple
+44;fr;1;/;Erable
+44;nl;1;/;Ahorn
+45;de;1;/;Akazie
+45;en;1;/;Acacia
+45;fr;1;/;Acacia
+45;nl;1;/;Acacia
+46;de;1;/;Ulme
+46;en;1;/;Elm
+46;fr;1;/;Orme
+46;nl;1;/;Lep
+47;de;1;/;Buche
+47;en;1;/;Beech
+47;fr;1;/;Hêtre
+47;nl;1;/;Beuken
+48;de;1;/;Nussbaum
+48;en;1;/;Walnut
+48;fr;1;/;Noyer
+48;nl;1;/;Noten
+49;de;1;/;Eiche Natur
+49;en;1;/;Oak natural
+49;fr;1;/;Chêne naturel
+49;nl;1;/;Eiken naturel
+50;de;1;/;Softtouch Beige
+50;en;1;/;Softtouch Beige
+50;fr;1;/;Softtouch Beige
+50;nl;1;/;Softtouch Beige
+51;de;1;/;Softtouch Grau
+51;en;1;/;Softtouch Grey
+51;fr;1;/;Softtouch Gris
+51;nl;1;/;Softtouch Grijs
+52;de;1;/;Softtouch Weiß
+52;en;1;/;Softtouch White
+52;fr;1;/;Softtouch Blanc
+52;nl;1;/;Softtouch Wit
+53;de;1;/;Softtouch Schwarz
+53;en;1;/;Softtouch Black
+53;fr;1;/;Softtouch Noir
+53;nl;1;/;Softtouch Zwart
+54;de;1;/;Buche ungebeizt
+54;en;1;/;Beech unstained
+54;fr;1;/;Hêtre non teinté
+54;nl;1;/;Beuken ongebeitst
+55;de;1;/;Kanad. Ahorn ungebeizt
+55;en;1;/;Canadian maple unstained
+55;fr;1;/;Erable canad. non teinté
+55;nl;1;/;Canad. ahorn ongebeitst
+56;de;1;/;Eiche Natur
+56;en;1;/;Oak natural
+56;fr;1;/;Chêne naturel
+56;nl;1;/;Eiken naturel
+57;de;1;/;Amerik. Kirschbaum
+57;en;1;/;American cherry
+57;fr;1;/;Merisier d’Amérique
+57;nl;1;/;Amerikaans kersen
+58;de;1;/;Amerik. Nussbaum natur
+58;en;1;/;American walnut natural
+58;fr;1;/;Noyer d’Amérique naturel
+58;nl;1;/;Amerikaans noten naturel
+59;de;1;/;Eiche HALIFAX, natur
+59;en;1;/;Oak HALIFAX, natural
+59;fr;1;/;Chêne HALIFAX, naturel
+59;nl;1;/;Eiken HALIFAX, naturel
+60;de;1;/;Mittelgrau
+60;en;1;/;Medium grey
+60;fr;1;/;Gris moyen
+60;nl;1;/;Medium grijs
+61;de;1;/;Beton Optik
+61;en;1;/;Concrete optics
+61;fr;1;/;Optique béton
+61;nl;1;/;Betonoptiek
+62;de;1;/;Beige
+62;en;1;/;Beige
+62;fr;1;/;Beige
+62;nl;1;/;Beige
+64;de;1;/;Anthrazit
+64;en;1;/;Anthracite
+64;fr;1;/;Anthracite
+64;nl;1;/;Antraciet
+65;de;1;/;Schwarz
+65;en;1;/;Black
+65;fr;1;/;Noir
+65;nl;1;/;Zwart
+66;de;1;/;Buche Multiplex
+66;en;1;/;Beech multiplex
+66;fr;1;/;Hêtre Multiplex
+66;nl;1;/;Beuken multiplex
+68;de;1;/;Plattenstärke 25 mm
+68;en;1;/;Top thickness 25 mm
+68;fr;1;/;Épaisseur de plateau 25 mm
+68;nl;1;/;Bladdikte 25 mm
+69;de;1;/;Plattenstärke 19 mm
+69;en;1;/;Top thickness 19 mm
+69;fr;1;/;Épaisseur de plateau 19 mm
+69;nl;1;/;Bladdikte 19 mm
+70;de;1;/;Plattenstärke 13 mm
+70;en;1;/;Top thickness 13 mm
+70;fr;1;/;Épaisseur de plateau 13 mm
+70;nl;1;/;Bladdikte 13 mm
+72;de;1;/;eckig
+72;en;1;/;angled
+72;fr;1;/;angulaire
+72;nl;1;/;hoekig
+73;de;1;/;gerundet
+73;en;1;/;rounded
+73;fr;1;/;arrondi
+73;nl;1;/;afgerond
+75;de;1;/;gerade
+75;en;1;/;straight
+75;fr;1;/;droit
+75;nl;1;/;recht
+77;de;1;/;Schwarz Struktur
+77;en;1;/;Black textured
+77;fr;1;/;Noir structurée
+77;nl;1;/;Zwart structuur
+79;de;1;/;geschlossen
+79;en;1;/;closed
+79;fr;1;/;fermé
+79;nl;1;/;gesloten
+80;de;1;/;organic
+80;en;1;/;organic
+80;fr;1;/;organic
+80;nl;1;/;organic
+82;de;1;/;links
+82;en;1;/;left
+82;fr;1;/;à gauche
+82;nl;1;/;links
+83;de;1;/;rechts
+83;en;1;/;right
+83;fr;1;/;à droite
+83;nl;1;/;rechts
+85;de;1;/;demontiert in Karton
+85;en;1;/;disassembled in cardboard box
+85;fr;1;/;démontée en carton
+85;nl;1;/;gedemonteered in karton
+93;de;1;/;Linearstellung
+93;en;1;/;Linear position
+93;fr;1;/;Position linéaire
+93;nl;1;/;Lineaire positie
+94;de;1;/;Blockstellung
+94;en;1;/;Block position
+94;fr;1;/;Position bloc
+94;nl;1;/;Blokpositie
+95;de;1;/;zu Container/Schrank
+95;en;1;/;to pedestal/cabinet
+95;fr;1;/;par rapport au caisson/à l'armoire
+95;nl;1;/;aan ladenblok/kast
+207;de;1;/;2438 mm
+207;en;1;/;2438 mm
+207;fr;1;/;2438 mm
+207;nl;1;/;2438 mm
+208;de;1;/;2180 mm
+208;en;1;/;2180 mm
+208;fr;1;/;2180 mm
+208;nl;1;/;2180 mm
+209;de;1;/;1030 mm/830 mm
+209;en;1;/;1030 mm/830 mm
+209;fr;1;/;1030 mm/830 mm
+209;nl;1;/;1030 mm/830 mm
+210;de;1;/;1050 mm
+210;en;1;/;1050 mm
+210;fr;1;/;1050 mm
+210;nl;1;/;1050 mm
+213;de;1;/;Chrom
+213;en;1;/;Chrome
+213;fr;1;/;Chrome
+213;nl;1;/;Chroom
+215;de;1;/;Höhenverstellung 650-850 mm
+215;en;1;/;Height adjustment 650-850 mm
+215;fr;1;/;Réglage en hauteur 650-850 mm
+215;nl;1;/;Hoogteverstelling 650-850 mm
+216;de;1;/;Höhenverstellung 650-850 mm
+216;en;1;/;Height adjustment 650-850 mm
+216;fr;1;/;Réglage en hauteur 650-850 mm
+216;nl;1;/;Hoogteverstelling 650-850 mm
+217;de;1;/;Motorverstellung 640-1300 mm
+217;en;1;/;Motorized adjustement 640-1300 mm
+217;fr;1;/;Réglage motorisé 640-1300 mm
+217;nl;1;/;Motorverstelling 640-1300 mm
+218;de;1;/;Liftverstellung 650-1250 mm
+218;en;1;/;Lift adjustment 650-1250 mm
+218;fr;1;/;Réglage lift 650-1250 mm
+218;nl;1;/;Liftverstelling 650-1250 mm
+220;de;1;/;Bedienfeld Auf-Ab
+220;en;1;/;up/down control
+220;fr;1;/;Commande montée/descente
+220;nl;1;/;op-en-neer bedienveld
+221;de;1;/;Bedienfeld mit Memory
+221;en;1;/;Control with memory
+221;fr;1;/;Commande avec fonction mémoire
+221;nl;1;/;Bedienveld met geheugen
+222;de;1;/;Bedienfeld ohne Memory
+222;en;1;/;Control without memory
+222;fr;1;/;Commande sans fonction mémoire
+222;nl;1;/;Bedienveld zonder geheugen
+223;de;1;/;Wippschalter Auf-Ab
+223;en;1;/;up/down rocker switch
+223;fr;1;/;Interrupteur à bascule montée/descente
+223;nl;1;/;op-en-neer tuimelschakelaar
+226;de;1;/;ohne Kollisionsschutzsensor
+226;en;1;/;without collision prevention sensor
+226;fr;1;/;sans protection anticollisions
+226;nl;1;/;zonder stootbescherming
+227;de;1;/;mit Kollisionsschutzsensor
+227;en;1;/;with collision prevention sensor
+227;fr;1;/;avec protection anticollisions
+227;nl;1;/;met stootbescherming
+229;de;1;/;TALO.YOU ''CURVE'', 800 mm
+229;en;1;/;TALO.YOU ''CURVE'', 800 mm
+229;fr;1;/;TALO.YOU ''CURVE'', 800 mm
+229;nl;1;/;TALO.YOU ''CURVE'', 800 mm
+230;de;1;/;TALO.YOU ''CURVE'', rund 800 mm
+230;en;1;/;TALO.YOU ''CURVE'', round 800 mm
+230;fr;1;/;TALO.YOU ''CURVE'', ronde 800 mm
+230;nl;1;/;TALO.YOU ''CURVE'', rond 800 mm
+231;de;1;/;TALO.YOU ''FLAT'', 800 mm
+231;en;1;/;TALO.YOU ''FLAT'', 800 mm
+231;fr;1;/;TALO.YOU ''FLAT'', 800 mm
+231;nl;1;/;TALO.YOU ''FLAT'', 800 mm
+232;de;1;/;TALO.YOU ''STEEL'', 800 mm
+232;en;1;/;TALO.YOU ''STEEL'', 800 mm
+232;fr;1;/;TALO.YOU ''STEEL'', 800 mm
+232;nl;1;/;TALO.YOU ''STEEL'', 800 mm
+233;de;1;/;TALO.YOU ''FLAT'', rund 600 mm
+233;en;1;/;TALO.YOU ''FLAT'', round 600 mm
+233;fr;1;/;TALO.YOU ''FLAT'', ronde 600 mm
+233;nl;1;/;TALO.YOU ''FLAT'', rond 600 mm
+234;de;1;/;TALO.YOU ''FLAT'', rund 800 mm
+234;en;1;/;TALO.YOU ''FLAT'', round 800 mm
+234;fr;1;/;TALO.YOU ''FLAT'', ronde 800 mm
+234;nl;1;/;TALO.YOU ''FLAT'', rond 800 mm
+235;de;1;/;TALO.YOU ''SOLID'', 800 mm
+235;en;1;/;TALO.YOU ''SOLID'', 800 mm
+235;fr;1;/;TALO.YOU ''SOLID'', 800 mm
+235;nl;1;/;TALO.YOU ''SOLID'', 800 mm
+236;de;1;/;TALO.YOU ''SOLID'', rund 800 mm
+236;en;1;/;TALO.YOU ''SOLID'', round 800 mm
+236;fr;1;/;TALO.YOU ''SOLID'', ronde 800 mm
+236;nl;1;/;TALO.YOU ''SOLID'', rond 800 mm
+239;de;1;/;ohne A-Fuß
+239;en;1;/;without A-leg
+239;fr;1;/;sans pied-A
+239;nl;1;/;zonder A-poot
+240;de;1;/;A-Fuß Rundrohr, Stahl
+240;en;1;/;A-leg round tube, steel
+240;fr;1;/;Pied-A tube rond, acier
+240;nl;1;/;A-poot ronde buis, staal
+241;de;1;/;A-Fuß Quadratrohr, Stahl
+241;en;1;/;A-leg square tube, steel
+241;fr;1;/;Pied-A tube carré, acier
+241;nl;1;/;A-poot vierkante buis, staal
+242;de;1;/;A-Fuß Rundrohr, Eiche Echtholz
+242;en;1;/;A-leg round tube, solid oak wood
+242;fr;1;/;Pied-A tube rond, bois véritable de chêne
+242;nl;1;/;A-poot ronde buis, eiken echthout
+243;de;1;/;A-Fuß Quadratrohr, Eiche Echtholz
+243;en;1;/;A-leg square tube, solid oak wood
+243;fr;1;/;Pied-A tube carré, bois véritable de chêne
+243;nl;1;/;A-poot vierkante buis, eiken echthout
+247;de;1;/;ohne erweiterten Höhenausgleich
+247;en;1;/;without extended levelling adjustment
+247;fr;1;/;sans plage de réglage élargie
+247;nl;1;/;zonder verdere hoogte gelijkmaking
+248;de;1;/;zusätzlich 15 mm Bodenabstand
+248;en;1;/;additional 15 mm floor clearance
+248;fr;1;/;Distance sol 15 mm additionnelle
+248;nl;1;/;extra 15 mm bodemafstand
+250;de;1;/;ohne Kabelwanne
+250;en;1;/;without cable tray
+250;fr;1;/;sans goulotte de câblage
+250;nl;1;/;zonder kabelgoot
+251;de;1;/;Klappwanne, Metall
+251;en;1;/;Clip-down cable tray, metal
+251;fr;1;/;Goulotte de câblage rabattable, métallique
+251;nl;1;/;Klapgoot, metaal
+252;de;1;/;Klappwanne, Kunststoff
+252;en;1;/;Clip-down cable tray, plastic
+252;fr;1;/;Goulotte de câblage rabattable, plastique
+252;nl;1;/;Klapgoot, kunststof
+255;de;1;/;Deutschland
+255;en;1;/;Germany
+255;fr;1;/;Allemagne
+255;nl;1;/;Duitsland
+256;de;1;/;England
+256;en;1;/;Great Britain
+256;fr;1;/;Angleterre
+256;nl;1;/;Engeland
+257;de;1;/;Belgien/Frankreich
+257;en;1;/;Belgium/France
+257;fr;1;/;Belgique/France
+257;nl;1;/;Belgie/Frankrijk
+258;de;1;/;Schweiz
+258;en;1;/;Switzerland
+258;fr;1;/;Suisse
+258;nl;1;/;Zwitserland
+260;de;1;/;ohne Elektrifizierung
+260;en;1;/;without electrification
+260;fr;1;/;sans électrification
+260;nl;1;/;zonder elektrificatie
+261;de;1;/;Steckdose 3-fach/Stromzuführungskabel 3500 mm
+261;en;1;/;Triple socket and mains lead 3500 mm
+261;fr;1;/;Bloc de 3 prises et câble d’alimentation 3500 mm
+261;nl;1;/;Contactdoos, 3-voudig/stroomtoevoerkabel 3500 mm
+262;de;1;/;Steckdose 3-fach/Kupplungskabel 4000 mm
+262;en;1;/;Triple socket and connection lead 4000 mm
+262;fr;1;/;Bloc de 3 prises et câble de couplage 4000 mm
+262;nl;1;/;Contactdoos, 3-voudig/koppelkabel 4000 mm
+263;de;1;/;Steckdose 3-fach/Kupplungskabel 2000 mm
+263;en;1;/;Triple socket and connection lead 2000 mm
+263;fr;1;/;Bloc de 3 prises et câble de couplage 2000 mm
+263;nl;1;/;Contactdoos, 3-voudig/koppelkabel 2000 mm
+264;de;1;/;Steckdosenelement (2 x Steckdosen, 1 x Daten (2x RJ45))/Stromzuführungskabel 3500 mm
+264;en;1;/;Socket box (2 x sockets, 1 data (2x RJ45))/mains lead 3500 mm
+264;fr;1;/;Bloc de prise (2 x prises de courant, 1 x données (2x RJ45))/câble d’alimentation 3500 mm
+264;nl;1;/;Contactdooselement (2 x contactdozen, 1 x data (2x RJ45))/stroomtoevoerkabel 3500 mm
+265;de;1;/;Steckdosenelement (3 x Steckdosen, 1 x Daten (2x RJ45))/Stromzuführungskabel 3500 mm
+265;en;1;/;Socket box (3 x sockets, 1 data (2x RJ45))/mains lead 3500 mm
+265;fr;1;/;Bloc de prise (3 x prises de courant, 1 x données (2x RJ45))/câble d’alimentation 3500 mm
+265;nl;1;/;Contactdooselement (3 x contactdozen, 1 x data (2x RJ45))/stroomtoevoerkabel 3500 mm
+266;de;1;/;modulare Elektrifizierung
+266;en;1;/;modular electrification
+266;fr;1;/;Électrification modulaire
+266;nl;1;/;modulaire elektrificatie
+268;de;1;/;ohne 2-fach-Steckdose
+268;en;1;/;without 2-way socket
+268;fr;1;/;sans bloc de 2 prises
+268;nl;1;/;zonder 2-voudige contactdoos
+269;de;1;/;1x 2-fach-Steckdose
+269;en;1;/;1x 2-way socket
+269;fr;1;/;1x double prises
+269;nl;1;/;1x 2-voudige contactdoos
+270;de;1;/;2x 2-fach-Steckdose
+270;en;1;/;2x 2-way socket
+270;fr;1;/;2x double prises
+270;nl;1;/;2x 2-voudige contactdoos
+272;de;1;/;2x Schuko
+272;en;1;/;2x Schuko
+272;fr;1;/;2x Schuko
+272;nl;1;/;2x Schuko
+273;de;1;/;2x Schuko rot
+273;en;1;/;2x Schuko red
+273;fr;1;/;2x Schuko rouge
+273;nl;1;/;2x Schuko rood
+276;de;1;/;ohne 3-fach-Steckdose
+276;en;1;/;without 3-way socket
+276;fr;1;/;sans bloc de 3 prises
+276;nl;1;/;zonder 3-voudige contactdoos
+277;de;1;/;1x 3-fach-Steckdose
+277;en;1;/;1x 3-way socket
+277;fr;1;/;1x triple prises
+277;nl;1;/;1x 3-voudige contactdoos
+278;de;1;/;2x 3-fach-Steckdose
+278;en;1;/;2x 3-way socket
+278;fr;1;/;2x triple prises
+278;nl;1;/;2x 3-voudige contactdoos
+280;de;1;/;3x Schuko
+280;en;1;/;3x Schuko
+280;fr;1;/;3x Schuko
+280;nl;1;/;3x Schuko
+281;de;1;/;3x Schuko rot
+281;en;1;/;3x Schuko red
+281;fr;1;/;3x Schuko rouge
+281;nl;1;/;3x Schuko rood
+282;de;1;/;3x Schuko weiß
+282;en;1;/;3x Schuko white
+282;fr;1;/;3x Schuko blanc
+282;nl;1;/;3x Schuko wit
+283;de;1;/;3x Schuko mit Rahmen (wsw)
+283;en;1;/;3x Schuko with frame (hvh)
+283;fr;1;/;3x Schuko avec cadre (hvh)
+283;nl;1;/;3x Schuko met frame (hvh)
+284;de;1;/;2x Schuko, 1x2 RJ45 CAT.6, mit Rahmen
+284;en;1;/;2x Schuko, 1x2 RJ45 CAT.6, with frame
+284;fr;1;/;2x Schuko, 1x2 RJ45 CAT.6, avec cadre
+284;nl;1;/;2x Schuko, 1x2 RJ45 CAT.6, met frame
+285;de;1;/;2x Schuko, 1x2 USB-Charger Typ A+C
+285;en;1;/;2x Schuko, 1x2 USB-Charger Type A+C
+285;fr;1;/;2x Schuko, 1x2 USB-Charger Type A+C
+285;nl;1;/;2x Schuko, 1x2 USB-Charger Type A+C
+288;de;1;/;ohne 4-fach-Steckdose
+288;en;1;/;without 4-way socket
+288;fr;1;/;sans bloc de 4 prises
+288;nl;1;/;zonder 4-voudige contactdoos
+289;de;1;/;1x 4-fach-Steckdose
+289;en;1;/;1x 4-way socket
+289;fr;1;/;1x quadruple prises
+289;nl;1;/;1x 4-voudige contactdoos
+290;de;1;/;2x 4-fach-Steckdose
+290;en;1;/;2x 4-way socket
+290;fr;1;/;2x quadruple prises
+290;nl;1;/;2x 4-voudige contactdoos
+292;de;1;/;3x Schuko, 1x2 RJ45 CAT.6, 2 Schrauben
+292;en;1;/;3x Schuko, 1x2 RJ45 CAT.6, 2 screws
+292;fr;1;/;3x Schuko, 1x2 RJ45 CAT.6, 2 vis
+292;nl;1;/;3x Schuko, 1x2 RJ45 CAT.6, 2 schroeven
+293;de;1;/;2x Schuko, 1x2 RJ45, 1x HDMI
+293;en;1;/;2x Schuko, 1x2 RJ45, 1x HDMI
+293;fr;1;/;2x Schuko, 1x2 RJ45, 1x HDMI
+293;nl;1;/;2x Schuko, 1x2 RJ45, 1x HDMI
+294;de;1;/;3x Schuko, 1x2 USB Daten
+294;en;1;/;3x Schuko, 1x2 USB data
+294;fr;1;/;3x Schuko, 1x2 USB données
+294;nl;1;/;3x Schuko, 1x2 USB data
+295;de;1;/;4x Schuko rot (dddd)
+295;en;1;/;4x Schuko red (dddd)
+295;fr;1;/;4x Schuko rouge (dddd)
+295;nl;1;/;4x Schuko rood (dddd)
+296;de;1;/;4x Schuko mit Rahmen (dddd)
+296;en;1;/;4x Schuko with frame (dddd)
+296;fr;1;/;4x Schuko avec cadre (dddd)
+296;nl;1;/;4x Schuko met frame (dddd)
+297;de;1;/;4x Schuko mit Rahmen (ssss)
+297;en;1;/;4x Schuko with frame (vvvv)
+297;fr;1;/;4x Schuko avec cadre (vvvv)
+297;nl;1;/;4x Schuko met frame (vvvv)
+298;de;1;/;2x Schuko, 1x2 RJ45, 1x2 USB Daten
+298;en;1;/;2x Schuko, 1x2 RJ45, 1x2 USB data
+298;fr;1;/;2x Schuko, 1x2 RJ45, 1x2 USB données
+298;nl;1;/;2x Schuko, 1x2 RJ45, 1x2 USB data
+299;de;1;/;3x Schuko, 1x2 USB-Charger A+C
+299;en;1;/;3x Schuko, 1x2 USB-Charger A+C
+299;fr;1;/;3x Schuko, 1x2 USB-Charger A+C
+299;nl;1;/;3x Schuko, 1x2 USB-Charger A+C
+300;de;1;/;2x Schuko, 1x2 USB Charger A+C, 1x HDMI
+300;en;1;/;2x Schuko, 1x2 USB Charger A+C, 1x HDMI
+300;fr;1;/;2x Schuko, 1x2 USB Charger A+C, 1x HDMI
+300;nl;1;/;2x Schuko, 1x2 USB Charger A+C, 1x HDMI
+301;de;1;/;2x Schuko, 1x2 RJ45, 1x2 USB Charger A+C
+301;en;1;/;2x Schuko, 1x2 RJ45, 1x2 USB Charger A+C
+301;fr;1;/;2x Schuko, 1x2 RJ45, 1x2 USB Charger A+C
+301;nl;1;/;2x Schuko, 1x2 RJ45, 1x2 USB Charger A+C
+304;de;1;/;ohne 5-fach-Steckdose
+304;en;1;/;without 5-way socket
+304;fr;1;/;sans bloc de 5 prises
+304;nl;1;/;zonder 5-voudige contactdoos
+305;de;1;/;1x 5-fach-Steckdose
+305;en;1;/;1x 5-way socket
+305;fr;1;/;1x quintuple prises
+305;nl;1;/;1x 5-voudige contactdoos
+306;de;1;/;2x 5-fach-Steckdose
+306;en;1;/;2x 5-way socket
+306;fr;1;/;2x quintuple prises
+306;nl;1;/;2x 5-voudige contactdoos
+308;de;1;/;3x Schuko, 1x2 USB Charger, 1x RJ45
+308;en;1;/;3x Schuko, 1x2 USB Charger, 1x RJ45
+308;fr;1;/;3x Schuko, 1x2 USB Charger, 1x RJ45
+308;nl;1;/;3x Schuko, 1x2 USB Charger, 1x RJ45
+309;de;1;/;5x Schuko
+309;en;1;/;5x Schuko
+309;fr;1;/;5x Schuko
+309;nl;1;/;5x Schuko
+312;de;1;/;ohne Profilbox
+312;en;1;/;without profilebox
+312;fr;1;/;sans boîtier profilé
+312;nl;1;/;zonder profielbox
+313;de;1;/;3x Schuko, 1x2 USB Charger A+C
+313;en;1;/;3x Schuko, 1x2 USB Charger A+C
+313;fr;1;/;3x Schuko, 1x2 USB Charger A+C
+313;nl;1;/;3x Schuko, 1x2 USB Charger A+C
+314;de;1;/;5x Schuko
+314;en;1;/;5x Schuko
+314;fr;1;/;5x Schuko
+314;nl;1;/;5x Schuko
+315;de;1;/;3x Schuko, 1x2 RJ45, 1x2 HDMI
+315;en;1;/;3x Schuko, 1x2 RJ45, 1x2 HDMI
+315;fr;1;/;3x Schuko, 1x2 RJ45, 1x2 HDMI
+315;nl;1;/;3x Schuko, 1x2 RJ45, 1x2 HDMI
+316;de;1;/;6x Schuko
+316;en;1;/;6x Schuko
+316;fr;1;/;6x Schuko
+316;nl;1;/;6x Schuko
+317;de;1;/;1x Thermo-Sicherung, 7x Schuko
+317;en;1;/;1x Thermo-fuse, 7x Schuko
+317;fr;1;/;1x Thermo-fusible, 7x Schuko
+317;nl;1;/;1x Thermo-zekering, 7x Schuko
+318;de;1;/;9x Schuko schwarz/rot
+318;en;1;/;9x Schuko black/red
+318;fr;1;/;9x Schuko noir/rouge
+318;nl;1;/;9x Schuko zwart/rood
+319;de;1;/;6x Schuko, 3x2 USB Daten
+319;en;1;/;6x Schuko, 3x2 USB data
+319;fr;1;/;6x Schuko, 3x2 USB données
+319;nl;1;/;6x Schuko, 3x2 USB data
+321;de;1;/;ohne Stromzuführungskabel
+321;en;1;/;without mains lead
+321;fr;1;/;sans câble d´alimentation
+321;nl;1;/;zonder stroomtoevoerkabel
+322;de;1;/;1,5m GST18 - Stecker
+322;en;1;/;1,5m GST18 - plug
+322;fr;1;/;1,5m GST18 - Connecteur
+322;nl;1;/;1,5m GST18 - stekker
+323;de;1;/;2,0m GST18 - Stecker
+323;en;1;/;2,0m GST18 - plug
+323;fr;1;/;2,0m GST18 - Connecteur
+323;nl;1;/;2,0m GST18 - stekker
+324;de;1;/;2,0m GST18 rot - Stecker
+324;en;1;/;2,0m GST18 red - plug
+324;fr;1;/;2,0m GST18 rouge - Connecteur
+324;nl;1;/;2,0m GST18 rood - stekker
+325;de;1;/;3,5m GST18 - Stecker
+325;en;1;/;3,5m GST18 - plug
+325;fr;1;/;3,5m GST18 - Connecteur
+325;nl;1;/;3,5m GST18 - stekker
+326;de;1;/;3,5m GST18 - Stecker weiß
+326;en;1;/;3,5m GST18 - plug white
+326;fr;1;/;3,5m GST18 - Connecteur blanc
+326;nl;1;/;3,5m GST18 - stekker wit
+327;de;1;/;3,5m GST18 schw.- Stecker rot
+327;en;1;/;3,5m GST18 black - plug red
+327;fr;1;/;3,5m GST18 noir - Connecteur rouge
+327;nl;1;/;3,5m GST18 zwart - stekker rood
+328;de;1;/;3,5m GST18 rot - Stecker
+328;en;1;/;3,5m GST18 red - plug
+328;fr;1;/;3,5m GST18 rouge - Connecteur
+328;nl;1;/;3,5m GST18 rood - stekker
+329;de;1;/;4,0m GST18 - Stecker
+329;en;1;/;4,0m GST18 - plug
+329;fr;1;/;4,0m GST18 - Connecteur
+329;nl;1;/;4,0m GST18 - stekker
+330;de;1;/;4,0m GST18 - Stecker weiß
+330;en;1;/;4,0m GST18 - plug white
+330;fr;1;/;4,0m GST18 - Connecteur blanc
+330;nl;1;/;4,0m GST18 - stekker wit
+331;de;1;/;4,5m GST18 - Stecker
+331;en;1;/;4,5m GST18 - plug
+331;fr;1;/;4,5m GST18 - Connecteur
+331;nl;1;/;4,5m GST18 - stekker
+332;de;1;/;5,0m GST18 - Stecker
+332;en;1;/;5,0m GST18 - plug
+332;fr;1;/;5,0m GST18 - Connecteur
+332;nl;1;/;5,0m GST18 - stekker
+333;de;1;/;6,0m GST18 - Stecker
+333;en;1;/;6,0m GST18 - plug
+333;fr;1;/;6,0m GST18 - Connecteur
+333;nl;1;/;6,0m GST18 - stekker
+334;de;1;/;7,0m GST18 - Stecker
+334;en;1;/;7,0m GST18 - plug
+334;fr;1;/;7,0m GST18 - Connecteur
+334;nl;1;/;7,0m GST18 - stekker
+335;de;1;/;8,0m GST18 - Stecker
+335;en;1;/;8,0m GST18 - plug
+335;fr;1;/;8,0m GST18 - Connecteur
+335;nl;1;/;8,0m GST18 - stekker
+337;de;1;/;ohne 2. Stromzuführungskabel
+337;en;1;/;without 2. mains lead
+337;fr;1;/;sans 2. câble d´alimentation
+337;nl;1;/;zonder 2. stroomtoevoerkabel
+339;de;1;/;ohne Kupplungskabel
+339;en;1;/;without connection lead
+339;fr;1;/;sans câble de couplage
+339;nl;1;/;zonder koppelingskabel
+340;de;1;/;0,3 m GST18
+340;en;1;/;0,3 m GST18
+340;fr;1;/;0,3 m GST18
+340;nl;1;/;0,3 m GST18
+341;de;1;/;0,35 m GST18
+341;en;1;/;0,35 m GST18
+341;fr;1;/;0,35 m GST18
+341;nl;1;/;0,35 m GST18
+342;de;1;/;0,50 m GST18
+342;en;1;/;0,50 m GST18
+342;fr;1;/;0,50 m GST18
+342;nl;1;/;0,50 m GST18
+343;de;1;/;0,56 m GST18
+343;en;1;/;0,56 m GST18
+343;fr;1;/;0,56 m GST18
+343;nl;1;/;0,56 m GST18
+344;de;1;/;0,6 m GST18
+344;en;1;/;0,6 m GST18
+344;fr;1;/;0,6 m GST18
+344;nl;1;/;0,6 m GST18
+345;de;1;/;1,0 m GST18
+345;en;1;/;1,0 m GST18
+345;fr;1;/;1,0 m GST18
+345;nl;1;/;1,0 m GST18
+346;de;1;/;1,0 m GST18 rot
+346;en;1;/;1,0 m GST18 red
+346;fr;1;/;1,0 m GST18 rouge
+346;nl;1;/;1,0 m GST18 rood
+347;de;1;/;2,0 m GST18
+347;en;1;/;2,0 m GST18
+347;fr;1;/;2,0 m GST18
+347;nl;1;/;2,0 m GST18
+348;de;1;/;2,0 m GST18 rot
+348;en;1;/;2,0 m GST18 red
+348;fr;1;/;2,0 m GST18 rouge
+348;nl;1;/;2,0 m GST18 rood
+349;de;1;/;3,0 m GST18
+349;en;1;/;3,0 m GST18
+349;fr;1;/;3,0 m GST18
+349;nl;1;/;3,0 m GST18
+350;de;1;/;4,0 m GST18
+350;en;1;/;4,0 m GST18
+350;fr;1;/;4,0 m GST18
+350;nl;1;/;4,0 m GST18
+351;de;1;/;4,0 m GST18 rot
+351;en;1;/;4,0 m GST18 red
+351;fr;1;/;4,0 m GST18 rouge
+351;nl;1;/;4,0 m GST18 rood
+352;de;1;/;5,0 m GST18
+352;en;1;/;5,0 m GST18
+352;fr;1;/;5,0 m GST18
+352;nl;1;/;5,0 m GST18
+353;de;1;/;5,0 m GST18 rot
+353;en;1;/;5,0 m GST18 red
+353;fr;1;/;5,0 m GST18 rouge
+353;nl;1;/;5,0 m GST18 rood
+354;de;1;/;6,0 m GST18
+354;en;1;/;6,0 m GST18
+354;fr;1;/;6,0 m GST18
+354;nl;1;/;6,0 m GST18
+356;de;1;/;ohne 2. Kupplungskabel
+356;en;1;/;without 2. connection lead
+356;fr;1;/;sans 2. câble de couplage
+356;nl;1;/;zonder 2. koppelingskabel
+358;de;1;/;ohne Verteiler
+358;en;1;/;without splitter
+358;fr;1;/;sans distributeur
+358;nl;1;/;zonder verdeler
+359;de;1;/;H-Verteiler GST18I3
+359;en;1;/;H-splitter GST18I3
+359;fr;1;/;H-Distributeur GST18I3
+359;nl;1;/;H-verdeler GST18I3
+360;de;1;/;T-Verteiler GST18I3
+360;en;1;/;T-splitter GST18I3
+360;fr;1;/;T-Distributeur GST18I3
+360;nl;1;/;T-verdeler GST18I3
+361;de;1;/;1/2 Drehsteckdosenset
+361;en;1;/;1/2 roll-over socket set
+361;fr;1;/;1/2 Set de prise de courant pivotante
+361;nl;1;/;1/2 Draaibare contactdoos set
+362;de;1;/;Verteilerblock 1E/3A GST18 weiß
+362;en;1;/;Splitter block 1E/3A GST18 white
+362;fr;1;/;Bloc de distribution 1E/3A GST18 blanc
+362;nl;1;/;Verdelerblok 1E/3A GST18 wit
+363;de;1;/;T-Verteiler 1E/2A GST18I3
+363;en;1;/;T-splitter 1E/2A GST18I3
+363;fr;1;/;T-Distributeur 1E/2A GST18I3
+363;nl;1;/;T-verdeler 1E/2A GST18I3
+364;de;1;/;vormontiert
+364;en;1;/;premounted
+364;fr;1;/;préassemblé
+364;nl;1;/;voorgemonteerd
+422;de;1;/;1200 mm
+422;en;1;/;1200 mm
+422;fr;1;/;1200 mm
+422;nl;1;/;1200 mm
+423;de;1;/;1400 mm
+423;en;1;/;1400 mm
+423;fr;1;/;1400 mm
+423;nl;1;/;1400 mm
+424;de;1;/;1600 mm
+424;en;1;/;1600 mm
+424;fr;1;/;1600 mm
+424;nl;1;/;1600 mm
+425;de;1;/;1800 mm
+425;en;1;/;1800 mm
+425;fr;1;/;1800 mm
+425;nl;1;/;1800 mm
+426;de;1;/;2000 mm
+426;en;1;/;2000 mm
+426;fr;1;/;2000 mm
+426;nl;1;/;2000 mm
+427;de;1;/;1480 mm
+427;en;1;/;1480 mm
+427;fr;1;/;1480 mm
+427;nl;1;/;1480 mm
+428;de;1;/;1680 mm
+428;en;1;/;1680 mm
+428;fr;1;/;1680 mm
+428;nl;1;/;1680 mm
+429;de;1;/;1880 mm
+429;en;1;/;1880 mm
+429;fr;1;/;1880 mm
+429;nl;1;/;1880 mm
+430;de;1;/;Kabelwanne starr
+430;en;1;/;Fixed cable tray
+430;fr;1;/;Goulotte à câblage fixe
+430;nl;1;/;Kabelgoot vast
+433;de;1;/;ohne zentrale Kabelwanne
+433;en;1;/;w/o central cable tray
+433;fr;1;/;sans goulotte de câblage centrale
+433;nl;1;/;zonder centraale kabelgoot
+434;de;1;/;Zentrale Kabelwanne mit Abdeckung
+434;en;1;/;Central cable tray with cover
+434;fr;1;/;Goulotte de câblage centrale avec cache
+434;nl;1;/;Centrale kabelgoot met afdekking
+435;de;1;/;Zentrale Kabelwanne ohne Abdeckung
+435;en;1;/;Central cable tray without cover
+435;fr;1;/;Goulotte de câblage centrale sans cache
+435;nl;1;/;Centrale kabelgoot zonder afdekking
+437;de;1;/;ohne Bucht
+437;en;1;/;without cut-out
+437;fr;1;/;sans découpe
+437;nl;1;/;zonder richel
+438;de;1;/;Bucht mit Funktionsschiene
+438;en;1;/;Cut-out with functional rail
+438;fr;1;/;Découpe avec rail fonctionnel
+438;nl;1;/;Richel met functie rail
+440;de;1;/;ohne Adapter
+440;en;1;/;without adapter
+440;fr;1;/;sans adaptatuer
+440;nl;1;/;zonder adapter
+441;de;1;/;Adapter, links
+441;en;1;/;Adapter, left
+441;fr;1;/;Adaptateur, à gauche
+441;nl;1;/;Adapter, links
+442;de;1;/;Adapter, rechts
+442;en;1;/;Adapter, right
+442;fr;1;/;Adaptateur, à droite
+442;nl;1;/;Adapter, rechts
+443;de;1;/;Adapter, Mitte
+443;en;1;/;Adapter, middle
+443;fr;1;/;Adaptateur, centre
+443;nl;1;/;Adapter, midden
+444;de;1;/;Adapter, links/rechts
+444;en;1;/;Adapter, left/right
+444;fr;1;/;Adaptateur, à gauche/à droite
+444;nl;1;/;Adapter, links/rechts
+445;de;1;/;Adapter, links/Mitte
+445;en;1;/;Adapter, left/middle
+445;fr;1;/;Adaptateur, à gauche/centre
+445;nl;1;/;Adapter, links/midden
+446;de;1;/;Adapter, Mitte/rechts
+446;en;1;/;Adapter, middle/right
+446;fr;1;/;Adaptateur, centre/à droite
+446;nl;1;/;Adapter, midden/rechts
+447;de;1;/;Adapter, links/Mitte/rechts
+447;en;1;/;Adapter, left/middle/right
+447;fr;1;/;Adaptateur, à gauche/centre/à droite
+447;nl;1;/;Adapter, links/midden/rechts
+449;de;1;/;nicht eingerückt
+449;en;1;/;not inset
+449;fr;1;/;pas raccourci
+449;nl;1;/;niet inspringend
+450;de;1;/;eingerückt
+450;en;1;/;inset
+450;fr;1;/;raccourci
+450;nl;1;/;inspringend
+460;de;1;/;600 mm
+460;en;1;/;600 mm
+460;fr;1;/;600 mm
+460;nl;1;/;600 mm
+461;de;1;/;700 mm
+461;en;1;/;700 mm
+461;fr;1;/;700 mm
+461;nl;1;/;700 mm
+462;de;1;/;TALO.YOU ''CURVE'', 600 mm
+462;en;1;/;TALO.YOU ''CURVE'', 600 mm
+462;fr;1;/;TALO.YOU ''CURVE'', 600 mm
+462;nl;1;/;TALO.YOU ''CURVE'', 600 mm
+463;de;1;/;TALO.YOU ''CURVE'', rund 600 mm
+463;en;1;/;TALO.YOU ''CURVE'', round 600 mm
+463;fr;1;/;TALO.YOU ''CURVE'', ronde 600 mm
+463;nl;1;/;TALO.YOU ''CURVE'', rond 600 mm
+464;de;1;/;TALO.YOU ''FLAT'', 600 mm
+464;en;1;/;TALO.YOU ''FLAT'', 600 mm
+464;fr;1;/;TALO.YOU ''FLAT'', 600 mm
+464;nl;1;/;TALO.YOU ''FLAT'', 600 mm
+465;de;1;/;TALO.YOU ''STEEL'', 600 mm
+465;en;1;/;TALO.YOU ''STEEL'', 600 mm
+465;fr;1;/;TALO.YOU ''STEEL'', 600 mm
+465;nl;1;/;TALO.YOU ''STEEL'', 600 mm
+466;de;1;/;TALO.YOU ''FLAT'', 800 mm
+466;en;1;/;TALO.YOU ''FLAT'', 800 mm
+466;fr;1;/;TALO.YOU ''FLAT'', 800 mm
+466;nl;1;/;TALO.YOU ''FLAT'', 800 mm
+467;de;1;/;TALO.YOU ''FLAT'', 800 mm, auf Rollen
+467;en;1;/;TALO.YOU ''FLAT'', 800 mm, on castors
+467;fr;1;/;TALO.YOU ''FLAT'', 800 mm, sur roulettes
+467;nl;1;/;TALO.YOU ''FLAT'', 800 mm, op wielen
+468;de;1;/;TALO.YOU ''FLAT'', 600 mm
+468;en;1;/;TALO.YOU ''FLAT'', 600 mm
+468;fr;1;/;TALO.YOU ''FLAT'', 600 mm
+468;nl;1;/;TALO.YOU ''FLAT'', 600 mm
+469;de;1;/;TALO.YOU ''FLAT'', 800 mm, auf Rollen
+469;en;1;/;TALO.YOU ''FLAT'', 800 mm, on castors
+469;fr;1;/;TALO.YOU ''FLAT'', 800 mm, sur roulettes
+469;nl;1;/;TALO.YOU ''FLAT'', 800 mm, op wielen
+470;de;1;/;TALO.YOU ''FLAT'', 600 mm, auf Rollen
+470;en;1;/;TALO.YOU ''FLAT'', 600 mm, on castors
+470;fr;1;/;TALO.YOU ''FLAT'', 600 mm, sur roulettes
+470;nl;1;/;TALO.YOU ''FLAT'', 600 mm, op wielen
+471;de;1;/;TALO.YOU ''FLAT'', 600 mm, auf Rollen
+471;en;1;/;TALO.YOU ''FLAT'', 600 mm, on castors
+471;fr;1;/;TALO.YOU ''FLAT'', 600 mm, sur roulettes
+471;nl;1;/;TALO.YOU ''FLAT'', 600 mm, op wielen
+472;de;1;/;TALO.S, 800 mm
+472;en;1;/;TALO.S, 800 mm
+472;fr;1;/;TALO.S, 800 mm
+472;nl;1;/;TALO.S, 800 mm
+473;de;1;/;TALO.S, 600 mm
+473;en;1;/;TALO.S, 600 mm
+473;fr;1;/;TALO.S, 600 mm
+473;nl;1;/;TALO.S, 600 mm
+475;de;1;/;ohne Rollen
+475;en;1;/;without castors
+475;fr;1;/;sans roulettes
+475;nl;1;/;zonder wielen
+476;de;1;/;mit Rollen (+ 75 mm Tischhöhe)
+476;en;1;/;with castors (+ 75 mm desk height)
+476;fr;1;/;avec roulettes (+ 75 mm hauteur de table)
+476;nl;1;/;met wielen (+ 75 mm tafelhoogte)
+479;de;1;/;ohne Vorbereitung
+479;en;1;/;without preparation
+479;fr;1;/;sans préparation
+479;nl;1;/;zonder voorbereiding
+480;de;1;/;mit Vorbereitung
+480;en;1;/;with preparation
+480;fr;1;/;avec préparation
+480;nl;1;/;met voorbereiding
+481;de;1;/;montiert
+481;en;1;/;mounted
+481;fr;1;/;assemblé
+481;nl;1;/;gemonteerd
+526;de;1;/;Anbau am Tisch links
+526;en;1;/;For installation at the left hand of desk
+526;fr;1;/;Montage à la table à gauche
+526;nl;1;/;Aanbouw aan tafel links
+527;de;1;/;Anbau am Tisch rechts
+527;en;1;/;For installation at the right hand of desk
+527;fr;1;/;Montage à la table à droite
+527;nl;1;/;Aanbouw aan tafel rechts
+548;de;1;/;unterfräst 15°
+548;en;1;/;undercut 15°
+548;fr;1;/;chanfrein à 15°
+548;nl;1;/;verstek 15°
+550;de;1;/;ohne Schiebeplatte
+550;en;1;/;Without sliding top
+550;fr;1;/;sans plateau coulissant
+550;nl;1;/;zonder schuifblad
+571;de;1;/;gerundet, Benutzerseite
+571;en;1;/;rounded, user side
+571;fr;1;/;arrondi, côté utilisateur
+571;nl;1;/;afgerond, werkzijde
+572;de;1;/;unterfräst 15°, dreiseitig
+572;en;1;/;undercut 15°, three-sided
+572;fr;1;/;chanfrein à 15°, trilatéral
+572;nl;1;/;verstek 15°, driezijdig
+574;de;1;/;ohne Adapterausschnitt
+574;en;1;/;without adapter cut-out
+574;fr;1;/;Sans découpe adaptateur
+574;nl;1;/;zonder adapteruitsparing
+575;de;1;/;mit 2 Adapterausschnitten
+575;en;1;/;with 2 cut-outs for adapters
+575;fr;1;/;avec 2 découpes pour adaptateurs
+575;nl;1;/;met 2 adapteruitsparingen
+576;de;1;/;mit 3 Adapterausschnitten
+576;en;1;/;with 3 cut-outs for adapters
+576;fr;1;/;avec 3 découpes pour adaptateurs
+576;nl;1;/;met 3 adapteruitsparingen
+577;de;1;/;Adapterausschnitt positionierbar
+577;en;1;/;positionable cut-out for adapter
+577;fr;1;/;Découpe pour adaptateur positionnable
+577;nl;1;/;Adapteruitsparing positionierbar
+579;de;1;/;Ausschnitt, links
+579;en;1;/;Cut-out, left
+579;fr;1;/;Découpe, à gauche
+579;nl;1;/;Uitsparing, links
+580;de;1;/;Ausschnitt, rechts
+580;en;1;/;Cut-out, right
+580;fr;1;/;Découpe, à droite
+580;nl;1;/;Uitsparing, rechts
+581;de;1;/;Ausschnitt, mitte
+581;en;1;/;Cut-out, middle
+581;fr;1;/;Découpe, centre
+581;nl;1;/;Uitsparing, midden
+582;de;1;/;Ausschnitt, links/rechts
+582;en;1;/;Cut-out, left/right
+582;fr;1;/;Découpe, à gauche/à droite
+582;nl;1;/;Uitsparing, links/rechts
+583;de;1;/;Ausschnitt, links/mitte
+583;en;1;/;Cut-out, left/middle
+583;fr;1;/;Découpe, à gauche/centre
+583;nl;1;/;Uitsparing, links/midden
+584;de;1;/;Ausschnitt, mitte/rechts
+584;en;1;/;Cut-out, middle/right
+584;fr;1;/;Découpe, centre/à droite
+584;nl;1;/;Uitsparing, midden/rechts
+585;de;1;/;Ausschnitt, links/mitte/rechts
+585;en;1;/;Cut-out, left/middle/right
+585;fr;1;/;Découpe, à gauche/centre/à droite
+585;nl;1;/;Uitsparing, links/midden/rechts
+586;de;1;/;mit Schiebeplatte
+586;en;1;/;with sliding panel
+586;fr;1;/;avec plateau coulissant
+586;nl;1;/;met schuifblad
+587;de;1;/;Bucht ohne Bürste
+587;en;1;/;Cut-out without brush
+587;fr;1;/;Découpe sans brosse
+587;nl;1;/;Richel zonder borstel
+588;de;1;/;Bucht mit Bürste
+588;en;1;/;Cut-out with brush
+588;fr;1;/;Découpe avec brosse
+588;nl;1;/;Richel met borstel
+590;de;1;/;vermittelt
+590;en;1;/;centered
+590;fr;1;/;centré
+590;nl;1;/;centraal
+595;de;1;/;nach rechts
+595;en;1;/;to the right
+595;fr;1;/;vers la droite
+595;nl;1;/;naar rechts
+596;de;1;/;nach links
+596;en;1;/;to the left
+596;fr;1;/;vers la gauche
+596;nl;1;/;naar links
+615;de;1;/;10 kg ( +/- 10 kg)
+615;en;1;/;10 kg ( +/- 10 kg)
+615;fr;1;/;10 kg ( +/- 10 kg)
+615;nl;1;/;10 kg ( +/- 10 kg)
+616;de;1;/;20 kg (+/- 10 kg)
+616;en;1;/;20 kg (+/- 10 kg)
+616;fr;1;/;20 kg (+/- 10 kg)
+616;nl;1;/;20 kg (+/- 10 kg)
+617;de;1;/;30 kg (+/- 10 kg)
+617;en;1;/;30 kg (+/- 10 kg)
+617;fr;1;/;30 kg (+/- 10 kg)
+617;nl;1;/;30 kg (+/- 10 kg)
+622;de;1;/;ohne Kabelklammern
+622;en;1;/;without cable clips
+622;fr;1;/;sans pinces pour câbles
+622;nl;1;/;zonder kabelklemmen
+623;de;1;/;mit 5 Kabelklammern
+623;en;1;/;with 5 cable clips
+623;fr;1;/;avec 5 pinces pour câbles
+623;nl;1;/;met 5 kabelklemmen
+625;de;1;/;ohne Ausfräsung
+625;en;1;/;without cut-out
+625;fr;1;/;sans découpe
+625;nl;1;/;zonder uitsparing
+626;de;1;/;links
+626;en;1;/;left
+626;fr;1;/;à gauche
+626;nl;1;/;links
+627;de;1;/;rechts
+627;en;1;/;right
+627;fr;1;/;à droite
+627;nl;1;/;rechts
+628;de;1;/;links und rechts
+628;en;1;/;left and right
+628;fr;1;/;à gauche et à droite
+628;nl;1;/;links en rechts
+630;de;1;/;mit Kabeldurchlassdose Ø 80 mm
+630;en;1;/;with cable box Ø 80 mm
+630;fr;1;/;avec boîte de passage de câbles Ø 80 mm
+630;nl;1;/;met kabeldoorvoerdoos Ø 80 mm
+631;de;1;/;mit Wireless Charging verdeckt
+631;en;1;/;with covered Wireless Charging
+631;fr;1;/;avec Chargeur Wi-Fi caché
+631;nl;1;/;met bedekte Wireless Charging
+632;de;1;/;Ø 80 mm (für NETBOX POINT)
+632;en;1;/;Ø 80 mm (for NETBOX POINT)
+632;fr;1;/;Ø 80 mm (pour NETBOX POINT)
+632;nl;1;/;Ø 80 mm (voor NETBOX POINT)
+635;de;1;/;ohne Plattenausschnitt
+635;en;1;/;without cut-out in table top
+635;fr;1;/;sans découpe du plateau
+635;nl;1;/;zonder tafelbladuitsparing
+636;de;1;/;Links
+636;en;1;/;left
+636;fr;1;/;à gauche
+636;nl;1;/;links
+637;de;1;/;Rechts
+637;en;1;/;right
+637;fr;1;/;à droite
+637;nl;1;/;rechts
+638;de;1;/;Mitte
+638;en;1;/;Middle
+638;fr;1;/;Centre
+638;nl;1;/;midden
+639;de;1;/;Links und Rechts
+639;en;1;/;left and right
+639;fr;1;/;à gauche et à droite
+639;nl;1;/;links en rechts
+640;de;1;/;Links und Mitte
+640;en;1;/;left and middle
+640;fr;1;/;à gauche et centre
+640;nl;1;/;links en midden
+641;de;1;/;Mitte und Rechts
+641;en;1;/;middle and right
+641;fr;1;/;centre et à droite
+641;nl;1;/;midden en rechts
+642;de;1;/;Links, Mitte, Rechts
+642;en;1;/;left, middle, right
+642;fr;1;/;à gauche, centre, à droite
+642;nl;1;/;links, midden, rechts
+644;de;1;/;für Drehsteckdose 3-fach
+644;en;1;/;for 3-way roll-over sockets
+644;fr;1;/;pour blocs de 3 prises pivotantes
+644;nl;1;/;voor 3-voudige draaibare contactdoos
+645;de;1;/;für Drehsteckdose 4-fach
+645;en;1;/;for 4-way roll-over sockets
+645;fr;1;/;pour blocs de 4 prises pivotantes
+645;nl;1;/;voor 4-voudige draaibare contactdoos
+646;de;1;/;für Drehsteckdose 5-fach
+646;en;1;/;for 5-way roll-over sockets
+646;fr;1;/;pour blocs de 5 prises pivotantes
+646;nl;1;/;voor 5-voudige draaibare contactdoos
+647;de;1;/;mit Tischklappe, Metall, beidseitig klappbar
+647;en;1;/;with metal table flap, flap opens two directions
+647;fr;1;/;avec trappe de table métallique, trappe rabattable des 2 côtés
+647;nl;1;/;met metalen tafelklep, aan beide zijden klapbaar
+648;de;1;/;Ausfräsung nach Kundenvorgabe
+648;en;1;/;Cut-out according to customer
+648;fr;1;/;Découpe selon client
+648;nl;1;/;Uitsparing volgens de klant
+652;de;1;/;Edelstahl
+652;en;1;/;Stainless steel
+652;fr;1;/;Inox
+652;nl;1;/;Edelstaal
+656;de;1;/;HV32_HV33
+656;en;1;/;*HV32_HV33
+656;fr;1;/;*HV32_HV33
+656;nl;1;/;*HV32_HV33
+667;de;1;/;für INSIDE.25/INSIDE.30
+667;en;1;/;for INSIDE.25/INSIDE.30
+667;fr;1;/;pour INSIDE.25/INSIDE.30
+667;nl;1;/;voor INSIDE.25/INSIDE.30
+668;de;1;/;Bucht mit Bürste und Funktionsschiene
+668;en;1;/;Cut-out with brush and functional rail
+668;fr;1;/;Découpe avec brosse et rail fonctionnel
+668;nl;1;/;Richel met borstel en functie rail
+674;de;1;/;ohne Seitenverkleidung
+674;en;1;/;without side cover
+674;fr;1;/;sans habillage latéral
+674;nl;1;/;zonder zijpaneel
+675;de;1;/;Seitenverkleidung links
+675;en;1;/;Side cover, left
+675;fr;1;/;Habillage latéral à gauche
+675;nl;1;/;Zijpaneel links
+676;de;1;/;Seitenverkleidung rechts
+676;en;1;/;Side cover, right
+676;fr;1;/;Habillage latéral à droite
+676;nl;1;/;Zijpaneel rechts
+677;de;1;/;Seitenverkleidung beidseitig
+677;en;1;/;Side cover on both sides
+677;fr;1;/;Habillage latéral des deux côtés
+677;nl;1;/;Zijpaneel aan beide zijden
+687;de;1;/;Kosten für Direktlieferungen sind immer beim Customer-Service-Team anzufragen!
+687;en;1;/;Costs for direct deliveries should always be requested from the customer service team!
+687;fr;1;/;Les coûts pour les livraisons directes doivent toujours être demandés à l’équipe du service à la clientèle!
+687;nl;1;/;Kosten voor directe leveringen moeten altijd worden aangevraagd bij de klantenservice!
+689;de;1;/;keine Direktlieferung
+689;en;1;/;no direct delivery
+689;fr;1;/;Pas de livraison directe
+689;nl;1;/;geen directe levering
+690;de;1;/;Lieferung direkt
+690;en;1;/;Delivery directly
+690;fr;1;/;Livraison directe
+690;nl;1;/;Levering direct
+691;de;1;/;Lieferung direkt und montiert
+691;en;1;/;Delivery direct and assembled
+691;fr;1;/;Livraison directe et montée
+691;nl;1;/;Levering direct en geassembleerd
+698;de;1;/;Höhenverstellung
+698;en;1;/;Height adjustment
+698;fr;1;/;Réglage en hauteur
+698;nl;1;/;Hoogteverstelling
+699;de;1;/;Motorverstellung
+699;en;1;/;Motorized adjustement
+699;fr;1;/;Réglage motorisé
+699;nl;1;/;Motorverstelling
+701;de;1;/;Anbauelement, Rechteckform
+701;en;1;/;Extension element, rectangular shape
+701;fr;1;/;Élément rapporté de forme rectangulaire
+701;nl;1;/;Aanbouwelement, rechthoekige vorm
+702;de;1;/;Anbauelement, Bogenform
+702;en;1;/;Extension element, arch shape
+702;fr;1;/;Élément rapporté de forme l’arche
+702;nl;1;/;Aanbouwelement, boogvorm
+703;de;1;/;Regalanbauelement
+703;en;1;/;Shelf extension element
+703;fr;1;/;Élément rapporté de rayonnage
+703;nl;1;/;Open kast aanbouwelement
+704;de;1;/;Anbautisch, 135°-Kreis
+704;en;1;/;Extension desk, 135°-circle
+704;fr;1;/;Table juxtaposable, 135° cercle
+704;nl;1;/;Aanbouwtafel, 135° cirkel
+705;de;1;/;Anbautisch, Rundbogen
+705;en;1;/;Extension desk, round arch
+705;fr;1;/;Table juxtaposable, arche ronde
+705;nl;1;/;Aanbouwtafel, ronde boog
+706;de;1;/;Anbautisch rund mit Anschnittkante
+706;en;1;/;Extension desk round with straight edge
+706;fr;1;/;Table juxtaposable rond avec bord chanfreiné
+706;nl;1;/;Aanbouwtafel rond met avgeflakte zijde
+707;de;1;/;Anbautisch, 3/4-Kreis
+707;en;1;/;Extension desk, 3/4-circle
+707;fr;1;/;Table juxtaposable, 3/4-cercle
+707;nl;1;/;Aanbouwtafel, 3/4-cirkel
+708;de;1;/;Anbautisch für Doppelarbeitsplatz, Bogenform
+708;en;1;/;Extension desk for back to back workstation, arch shape
+708;fr;1;/;Table juxtaposable pour poste de travail double, forme l’arche
+708;nl;1;/;Aanbouwtafel voor dubbele werkplek, boogvorm
+714;de;1;/;Schreibtisch, Rechteckform
+714;en;1;/;Desk, rectangular shape
+714;fr;1;/;Table, forme rectangulaire
+714;nl;1;/;Tafel, rechthoekvorm
+715;de;1;/;Schreibtisch, Freiform
+715;en;1;/;Desk, freeform
+715;fr;1;/;Table, forme libre
+715;nl;1;/;Tafel, vrijvorm
+716;de;1;/;Doppelbench
+716;en;1;/;Double bench
+716;fr;1;/;Bench double
+716;nl;1;/;Dubbel-bench
+717;de;1;/;2 x 800 mm
+717;en;1;/;2 x 800 mm
+717;fr;1;/;2 x 800 mm
+717;nl;1;/;2 x 800 mm
+718;de;1;/;2 x 900 mm
+718;en;1;/;2 x 900 mm
+718;fr;1;/;2 x 900 mm
+718;nl;1;/;2 x 900 mm
+719;de;1;/;2 x 1000 mm
+719;en;1;/;2 x 1000 mm
+719;fr;1;/;2 x 1000 mm
+719;nl;1;/;2 x 1000 mm
+720;de;1;/;ohne Paneelvorbereitung
+720;en;1;/;without preparation for screen
+720;fr;1;/;sans préparation panneau
+720;nl;1;/;zonder paneelvorbereiding
+743;de;1;/;mit Filzauflage
+743;en;1;/;with felt overlay
+743;fr;1;/;avec revêtement en feutre
+743;nl;1;/;met viltoplegger
+744;de;1;/;mit Sitzpolsterauflage
+744;en;1;/;with upholstered seat overlay
+744;fr;1;/;avec revêtement assise rembourré
+744;nl;1;/;met zitkussenoplegger
+745;de;1;/;mit Schaumstoffauflage
+745;en;1;/;with foam pad
+745;fr;1;/;avec tampon en mousse
+745;nl;1;/;met schuim pad
+747;de;1;/;Filz grau
+747;en;1;/;Felt grey
+747;fr;1;/;Feutre gris
+747;nl;1;/;Vilt grijs
+749;de;1;/;Preisgruppe Economy
+749;en;1;/;Price group Economy
+749;fr;1;/;Groupe de prix Economy
+749;nl;1;/;Prijsgroep Economy
+750;de;1;/;Preisgruppe Standard
+750;en;1;/;Price group Standard
+750;fr;1;/;Groupe de prix Standard
+750;nl;1;/;Prijsgroep Standaard
+751;de;1;/;Preisgruppe Comfort
+751;en;1;/;Price group Comfort
+751;fr;1;/;Groupe de prix Comfort
+751;nl;1;/;Prijsgroep Comfort
+753;de;1;/;(13) 100% post-consumer recyceltes Polyester Gabriel Tonal
+753;en;1;/;(13) 100% post-consumer recycled Polyester Gabriel Tonal
+753;fr;1;/;(13) 100% Polyester recyclé post-consommation Gabriel Tonal
+753;nl;1;/;(13) 100% gerecycled Post-Consumer Polyester Gabriel Tonal
+754;de;1;/;(14) 100% Polyester Gabriel Atlantic
+754;en;1;/;(14) 100% Polyester Gabriel Atlantic
+754;fr;1;/;(14) 100% Polyester Gabriel Atlantic
+754;nl;1;/;(14) 100% Polyester Gabriel Atlantic
+755;de;1;/;(20) 100% post-consumer recyceltes Polyester Camira Xtreme
+755;en;1;/;(20) 100% post-consumer recycled Polyester Camira Xtreme
+755;fr;1;/;(20) 100% Polyester recyclé post-consommation Camira Xtreme
+755;nl;1;/;(20) 100% gerecycled Post-Consumer Polyester Camira Xtreme
+756;de;1;/;(82) 100% Polyester Gabriel Atlantic Screen
+756;en;1;/;(82) 100% Polyester Gabriel Atlantic Screen
+756;fr;1;/;(82) 100% Polyester Gabriel Atlantic Screen
+756;nl;1;/;(82) 100% Polyester Gabriel Atlantic Screen
+757;de;1;/;(28) 95% Schurwolle, 5% Polyamid Gabriel Fame
+757;en;1;/;(28) 95% New wool, 5% Polyamid Gabriel Fame
+757;fr;1;/;(28) 95% Laine vierge, 5% Polyamid Gabriel Fame
+757;nl;1;/;(28) 95% Scheerwol, 5% Polyamid Gabriel Fame
+758;de;1;/;(201) 42,5% post-consumer recycelte Schurwolle, 32,5% Schurwolle, 17,5% Polyamid, 5% Anderes, 2,5% post-consumer recyceltes Polyamid Pugi Jungla
+758;en;1;/;(201) 42,5% post-consumer recycled New wool, 32,5% New wool, 17,5% Polyamid, 5% other, 2,5% post-consumer recycled Polyamid Pugi Jungla
+758;fr;1;/;(201) 42,5% Laine vierge recyclé post-consommation, 32,5% Laine vierge, 17,5% Polyamid, 5% Autre, 2,5% Polyamid recyclé post-consommation Pugi Jungla
+758;nl;1;/;(201) 42,5% Post-consumer gerecyclede Scheerwol, 32,5% Scheerwol, 17,5% Polyamid, 5% Anders, 2,5% gerecycled Post-Consumer Polyamid Pugi Jungla
+759;de;1;/;(202) 100% post-consumer recyceltes Polyester Gabriel Cyber
+759;en;1;/;(202) 100% post-consumer recycled Polyester Gabriel Cyber
+759;fr;1;/;(202) 100% Polyester recyclé post-consommation Gabriel Cyber
+759;nl;1;/;(202) 100% gerecycled Post-Consumer Polyester Gabriel Cyber
+760;de;1;/;(203) 100% Trevira CS Gabriel Step Melange
+760;en;1;/;(203) 100% Trevira CS Gabriel Step Melange
+760;fr;1;/;(203) 100% Trevira CS Gabriel Step Melange
+760;nl;1;/;(203) 100% Trevira CS Gabriel Step Melange
+761;de;1;/;(31) 90% Schurwolle, 10% Helanca Kvadrat Tonus4
+761;en;1;/;(31)90% New wool, 10% Helanca Kvadrat Tonus4
+761;fr;1;/;(31) 90% Laine vierge, 10% Helanca Kvadrat Tonus4
+761;nl;1;/;(31) 90% Scheerwol, 10% Helanca Kvadrat Tonus4
+762;de;1;/;(33) 100% Schurwolle Camira Blazer
+762;en;1;/;(33) 100% New wool Camira Blazer
+762;fr;1;/;(33) 100% Laine vierge Camira Blazer
+762;nl;1;/;(33) 100% Scheerwol Camira Blazer
+764;de;1;/;1325 Beige (Tonal 2490-61179)
+764;en;1;/;1325 Beige (Tonal 2490-61179)
+764;fr;1;/;1325 Beige (Tonal 2490-61179)
+764;nl;1;/;1325 Beige (Tonal 2490-61179)
+765;de;1;/;1331 Hellgrün (Tonal 2490-62092)
+765;en;1;/;1331 Light green (Tonal 2490-62092)
+765;fr;1;/;1331 Vert clair (Tonal 2490-62092)
+765;nl;1;/;1331 Lichtgroen (Tonal 2490-62092)
+766;de;1;/;1332 Grün (Tonal 2490-68207)
+766;en;1;/;1332 Green (Tonal 2490-68207)
+766;fr;1;/;1332 Vert (Tonal 2490-68207)
+766;nl;1;/;1332 Groen (Tonal 2490-68207)
+767;de;1;/;1340 Blaugrau (Tonal 2490-66186)
+767;en;1;/;1340 Blue grey (Tonal 2490-66186)
+767;fr;1;/;1340 Bleu gris (Tonal 2490-66186)
+767;nl;1;/;1340 Blauwgrijs (Tonal 2490-66186)
+768;de;1;/;1343 Hellblau (Tonal 2490-66184)
+768;en;1;/;1343 Light blue (Tonal 2490-66184)
+768;fr;1;/;1343 Bleu clair (Tonal 2490-66184)
+768;nl;1;/;1343 Lichtblauw (Tonal 2490-66184)
+769;de;1;/;1355 Dunkelgrau (Tonal 2490-60124)
+769;en;1;/;1355 Dark grey (Tonal 2490-60124)
+769;fr;1;/;1355 Gris foncé (Tonal 2490-60124)
+769;nl;1;/;1355 Donkergrijs (Tonal 2490-60124)
+770;de;1;/;1357 Grau (Tonal 2490-60123)
+770;en;1;/;1357 Grau (Tonal 2490-60123)
+770;fr;1;/;1357 Grau (Tonal 2490-60123)
+770;nl;1;/;1357 Grau (Tonal 2490-60123)
+771;de;1;/;1362 Schwarz (Tonal 2490-60999)
+771;en;1;/;1362 Black (Tonal 2490-60999)
+771;fr;1;/;1362 Noir (Tonal 2490-60999)
+771;nl;1;/;1362 Zwart (Tonal 2490-60999)
+772;de;1;/;1371 Gelb (Tonal 2490-62057)
+772;en;1;/;1371 Yellow (Tonal 2490-62057)
+772;fr;1;/;1371 Jaune (Tonal 2490-62057)
+772;nl;1;/;1371 Geel (Tonal 2490-62057)
+773;de;1;/;1395 Tiefrot (Tonal 2490-64209)
+773;en;1;/;1395 Deep red (Tonal 2490-64209)
+773;fr;1;/;1395 Rouge profond (Tonal 2490-64209)
+773;nl;1;/;1395 Dieprood (Tonal 2490-64209)
+774;de;1;/;1425 Beige (Atlantic 61078)
+774;en;1;/;1425 Beige (Atlantic 61078)
+774;fr;1;/;1425 Beige (Atlantic 61078)
+774;nl;1;/;1425 Beige (Atlantic 61078)
+775;de;1;/;1432 Grün (Atlantic 68110)
+775;en;1;/;1432 Green (Atlantic 68110)
+775;fr;1;/;1432 Vert (Atlantic 68110)
+775;nl;1;/;1432 Groen (Atlantic 68110)
+776;de;1;/;1439 Blau (Atlantic 66086)
+776;en;1;/;1439 Blue (Atlantic 66086)
+776;fr;1;/;1439 Bleu (Atlantic 66086)
+776;nl;1;/;1439 Blauw (Atlantic 66086)
+777;de;1;/;1443 Hellblau (Atlantic 66063)
+777;en;1;/;1443 Light blue (Atlantic 66063)
+777;fr;1;/;1443 Bleu clair (Atlantic 66063)
+777;nl;1;/;1443 Lichtblauw (Atlantic 66063)
+778;de;1;/;1453 Grau (Atlantic 60011)
+778;en;1;/;1453 Grey (Atlantic 60011)
+778;fr;1;/;1453 Gris (Atlantic 60011)
+778;nl;1;/;1453 Grijs (Atlantic 60011)
+779;de;1;/;1461 Rot (Atlantic 64089)
+779;en;1;/;1461 Red (Atlantic 64089)
+779;fr;1;/;1461 Rouge (Atlantic 64089)
+779;nl;1;/;1461 Rood (Atlantic 64089)
+780;de;1;/;1462 Schwarz (Atlantic 60999)
+780;en;1;/;1462 Black (Atlantic 60999)
+780;fr;1;/;1462 Noir (Atlantic 60999)
+780;nl;1;/;1462 Zwart (Atlantic 60999)
+781;de;1;/;1482 Orange (Atlantic 63034)
+781;en;1;/;1482 Orange (Atlantic 63034)
+781;fr;1;/;1482 Orange (Atlantic 63034)
+781;nl;1;/;1482 Oranje (Atlantic 63034)
+782;de;1;/;1491 Anthrazit (Atlantic 60025)
+782;en;1;/;1491 Anthracite (Atlantic 60025)
+782;fr;1;/;1491 Anthracite (Atlantic 60025)
+782;nl;1;/;1491 Antraciet (Atlantic 60025)
+783;de;1;/;1495 Tiefrot (Atlantic 64092)
+783;en;1;/;1495 Deep red (Atlantic 64092)
+783;fr;1;/;1495 Rouge profond (Atlantic 64092)
+783;nl;1;/;1495 Dieprood (Atlantic 64092)
+784;de;1;/;2032 Grün (Xtreme YS159)
+784;en;1;/;2032 Green (Xtreme YS159)
+784;fr;1;/;2032 Vert (Xtreme YS159)
+784;nl;1;/;2032 Groen (Xtreme YS159)
+785;de;1;/;2038 Mintgrün (Xtreme YS096)
+785;en;1;/;2038 Mint green (Xtreme YS096)
+785;fr;1;/;2038 Vert menthe (Xtreme YS096)
+785;nl;1;/;2038 Mintgroen (Xtreme YS096)
+786;de;1;/;2041 Mittelblau (Xtreme YS005)
+786;en;1;/;2041 Medium blue (Xtreme YS005)
+786;fr;1;/;2041 Bleu moyen (Xtreme YS005)
+786;nl;1;/;2041 Middelblauw (Xtreme YS005)
+787;de;1;/;2043 Hellblau (Xtreme YS095)
+787;en;1;/;2043 Light blue (Xtreme YS095)
+787;fr;1;/;2043 Bleu clair  (Xtreme YS095)
+787;nl;1;/;2043 Lichtblauw (Xtreme YS095)
+788;de;1;/;2053 Grau (Xtreme YS094)
+788;en;1;/;2053 Grey (Xtreme YS094)
+788;fr;1;/;2053 Gris (Xtreme YS094)
+788;nl;1;/;2053 Grijs (Xtreme YS094)
+789;de;1;/;2055 Dunkelgrau (Xtreme YS081)
+789;en;1;/;2055 Dark grey (Xtreme YS081)
+789;fr;1;/;2055 Gris foncé (Xtreme YS081)
+789;nl;1;/;2055 Donkergrijs (Xtreme YS081)
+790;de;1;/;2062 Schwarz (Xtreme YS009)
+790;en;1;/;2062 Black (Xtreme YS009)
+790;fr;1;/;2062 Noir (Xtreme YS009)
+790;nl;1;/;2062 Zwart (Xtreme YS009)
+791;de;1;/;2070 Ocker (Xtreme YS071)
+791;en;1;/;2070 Ochre (Xtreme YS071)
+791;fr;1;/;2070 Ocre (Xtreme YS071)
+791;nl;1;/;2070 Oker (Xtreme YS071)
+792;de;1;/;2071 Gelb (Xtreme YS072)
+792;en;1;/;2071 Yellow (Xtreme YS072)
+792;fr;1;/;2071 Jaune (Xtreme YS072)
+792;nl;1;/;2071 Geel (Xtreme YS072)
+793;de;1;/;2095 Tiefrot (Xtreme YS136)
+793;en;1;/;2095 Deep red (Xtreme YS136)
+793;fr;1;/;2095 Rouge profond (Xtreme YS136)
+793;nl;1;/;2095 Dieprood (Xtreme YS136)
+794;de;1;/;2833 Dunkelgrün (Fame 68146)
+794;en;1;/;2833 Dark green (Fame 68146)
+794;fr;1;/;2833 Vert foncé (Fame 68146)
+794;nl;1;/;2833 Donkergroen (Fame 68146)
+795;de;1;/;2834 Apfelgrün (Fame 68145)
+795;en;1;/;2834 Apple green (Fame 68145)
+795;fr;1;/;2834 Vert pomme (Fame 68145)
+795;nl;1;/;2834 Appelgroen (Fame 68145)
+796;de;1;/;2840 Blaugrau (Fame 67067)
+796;en;1;/;2840 Blue grey (Fame 67067)
+796;fr;1;/;2840 Bleu gris (Fame 67067)
+796;nl;1;/;2840 Blauwgrijs (Fame 67067)
+797;de;1;/;2849 Blaugrün (Fame 68143)
+797;en;1;/;2849 Blue green (Fame 68143)
+797;fr;1;/;2849 Bleu vert (Fame 68143)
+797;nl;1;/;2849 Blauwgroen (Fame 68143)
+798;de;1;/;2853 Hellgrau (Fame 61136)
+798;en;1;/;2853 Light grey (Fame 61136)
+798;fr;1;/;2853 Gris clair (Fame 61136)
+798;nl;1;/;2853 Lichtgrijs (Fame 61136)
+799;de;1;/;2857 Grau (Fame 60078)
+799;en;1;/;2857 Grey (Fame 60078)
+799;fr;1;/;2857 Gris (Fame 60078)
+799;nl;1;/;2857 Grijs (Fame 60078)
+800;de;1;/;2862 Schwarz (Fame 60999)
+800;en;1;/;2862 Black (Fame 60999)
+800;fr;1;/;2862 Noir (Fame 60999)
+800;nl;1;/;2862 Zwart (Fame 60999)
+801;de;1;/;2868 Pflaume (Fame 64055)
+801;en;1;/;2868 Plum (Fame 64055)
+801;fr;1;/;2868 Plum (Fame 64055)
+801;nl;1;/;2868 Pruim (Fame 64055)
+802;de;1;/;2870 Ocker (Fame 62068)
+802;en;1;/;2870 Ochre (Fame 62068)
+802;fr;1;/;2870 Ocre (Fame 62068)
+802;nl;1;/;2870 Oker (Fame 62068)
+803;de;1;/;2884 Orangerot (Fame 63078)
+803;en;1;/;2884 Orange red (Fame 63078)
+803;fr;1;/;2884 Orange rouge (Fame 63078)
+803;nl;1;/;2884 Oranjerood (Fame 63078)
+804;de;1;/;2895 Tiefrot (Fame 64167)
+804;en;1;/;2895 Deep red (Fame 64167)
+804;fr;1;/;2895 Rouge profond (Fame 64167)
+804;nl;1;/;2895 Dieprood (Fame 64167)
+805;de;1;/;20125 Beige (Jungla 12501)
+805;en;1;/;20125 Beige (Jungla 12501)
+805;fr;1;/;20125 Beige (Jungla 12501)
+805;nl;1;/;20125 Beige (Jungla 12501)
+806;de;1;/;20132 Grün (Jungla 12452)
+806;en;1;/;20132 Green (Jungla 12452)
+806;fr;1;/;20132 Vert (Jungla 12452)
+806;nl;1;/;20132 Groen (Jungla 12452)
+807;de;1;/;20139 Blau (Jungla 12301)
+807;en;1;/;20139 Blue (Jungla 12301)
+807;fr;1;/;20139 Blue (Jungla 12301)
+807;nl;1;/;20139 Blauw (Jungla 12301)
+808;de;1;/;20143 Hellblau (Jungla 12351)
+808;en;1;/;20143 Light blue (Jungla 12351)
+808;fr;1;/;20143 Bleu clair  (Jungla 12351)
+808;nl;1;/;20143 Lichtblauw (Jungla 12351)
+809;de;1;/;20153 Hellgrau (Jungla 12602)
+809;en;1;/;20153 Light grey (Jungla 12602)
+809;fr;1;/;20153 Gris clair (Jungla 12602)
+809;nl;1;/;20153 Lichtgrijs (Jungla 12602)
+810;de;1;/;20160 Rot (Jungla 12201)
+810;en;1;/;20160 Red (Jungla 12201)
+810;fr;1;/;20160 Rouge (Jungla 12201)
+810;nl;1;/;20160 Rot (Jungla 12201)
+811;de;1;/;20171 Gelb (Jungla 12051)
+811;en;1;/;20171 Yellow (Jungla 12051)
+811;fr;1;/;20171 Jaune (Jungla 12051)
+811;nl;1;/;20171 Geel (Jungla 12051)
+812;de;1;/;20182 Orange (Jungla 12101)
+812;en;1;/;20182 Orange (Jungla 12101)
+812;fr;1;/;20182 Orange (Jungla 12101)
+812;nl;1;/;20182 Oranje (Jungla 12101)
+813;de;1;/;20185 Rosé (Jungla 12151)
+813;en;1;/;20185 Rose (Jungla 12151)
+813;fr;1;/;20185 Rosé (Jungla 12151)
+813;nl;1;/;20185 Roze (Jungla 12151)
+814;de;1;/;20191 Anthrazit (Jungla 12604)
+814;en;1;/;20191 Anthracite (Jungla 12604)
+814;fr;1;/;20191 Anthracite (Jungla 12604)
+814;nl;1;/;20191 Antraciet (Jungla 12604)
+815;de;1;/;20225 Beige (Cyber 2001)
+815;en;1;/;20225 Beige (Cyber 2001)
+815;fr;1;/;20225 Beige (Cyber 2001)
+815;nl;1;/;20225 Beige (Cyber 2001)
+816;de;1;/;20228 Hellbeige (Cyber 1102)
+816;en;1;/;20228 Light beige (Cyber 1102)
+816;fr;1;/;20228 Beige clair (Cyber 1102)
+816;nl;1;/;20228 Lichtbeige (Cyber 1102)
+817;de;1;/;20235 Olivgrün (Cyber 2301)
+817;en;1;/;20235 Olive green (Cyber 2301)
+817;fr;1;/;20235 Vert olive (Cyber 2301)
+817;nl;1;/;20235 Olijfgroen (Cyber 2301)
+818;de;1;/;20248 Wasserblau (Cyber 2401)
+818;en;1;/;20248 Water blue (Cyber 2401)
+818;fr;1;/;20248 Bleu aquatique (Cyber 2401)
+818;nl;1;/;20248 Waterblauw (Cyber 2401)
+819;de;1;/;20249 Blaugrün (Cyber 2601)
+819;en;1;/;20249 Blue green (Cyber 2601)
+819;fr;1;/;20249 Bleu vert (Cyber 2601)
+819;nl;1;/;20249 Blauwgroen (Cyber 2601)
+820;de;1;/;20253 Hellgrau (Cyber 1901)
+820;en;1;/;20253 Light grey (Cyber 1901)
+820;fr;1;/;20253 Gris clair (Cyber 1901)
+820;nl;1;/;20253 Lichtgrijs (Cyber 1901)
+821;de;1;/;20261 Dunkelrot (Cyber 2801)
+821;en;1;/;20261 Dark red (Cyber 2801)
+821;fr;1;/;20261 Rouge foncé (Cyber 2801)
+821;nl;1;/;20261 Donkerrood (Cyber 2801)
+822;de;1;/;20280 Terracotta (Cyber 2201)
+822;en;1;/;20280 Terracotta (Cyber 2201)
+822;fr;1;/;20280 Terre cuite (Cyber 2201)
+822;nl;1;/;20280 Terracotta (Cyber 2201)
+823;de;1;/;20285 Rosé (Cyber 1201)
+823;en;1;/;20285 Rose (Cyber 1201)
+823;fr;1;/;20285 Rosé (Cyber 1201)
+823;nl;1;/;20285 Roze (Cyber 1201)
+824;de;1;/;20291 Anthrazit (Cyber 3101)
+824;en;1;/;20291 Anthracite (Cyber 3101)
+824;fr;1;/;20291 Anthracite (Cyber 3101)
+824;nl;1;/;20291 Antraciet (Cyber 3101)
+825;de;1;/;20329 Dunkelbeige (Step Melange 62143)
+825;en;1;/;20329 Dark beige (Step Melange 62143)
+825;fr;1;/;20329 Beige foncé (Step Melange 62143)
+825;nl;1;/;20329 Donkerbeige (Step Melange 62143)
+826;de;1;/;20331 Hellgrün (Step Melange 68301)
+826;en;1;/;20331 Light green (Step Melange 68301)
+826;fr;1;/;20331 Vert clair (Step Melange 68301)
+826;nl;1;/;20331 Lichtgroen (Step Melange 68301)
+827;de;1;/;20332 Grün (Step Melange 68119)
+827;en;1;/;20332 Green (Step Melange 68119)
+827;fr;1;/;20332 Vert (Step Melange 68119)
+827;nl;1;/;20332 Groen (Step Melange 68119)
+828;de;1;/;20340 Blaugrau (Step Melange 67135)
+828;en;1;/;20340 Blue grey (Step Melange 67135)
+828;fr;1;/;20340 Bleu gris (Step Melange 67135)
+828;nl;1;/;20340 Blauwgrijs (Step Melange 67135)
+829;de;1;/;20346 Türkisblau (Step Melange 67007)
+829;en;1;/;20346 Turquoise blue (Step Melange 67007)
+829;fr;1;/;20346 Bleu turquoise (Step Melange 67007)
+829;nl;1;/;20346 Turkooisblauw (Step Melange 67007)
+830;de;1;/;20353 Hellgrau (Step Melange 60345)
+830;en;1;/;20353 Light grey (Step Melange 60345)
+830;fr;1;/;20353 Gris clair (Step Melange 60345)
+830;nl;1;/;20353 Lichtgrijs (Step Melange 60345)
+831;de;1;/;20358 Graugrün (Step Melange 68118)
+831;en;1;/;20358 Grey green (Step Melange 68118)
+831;fr;1;/;20358 Gris vert (Step Melange 68118)
+831;nl;1;/;20358 Grijsgroen (Step Melange 68118)
+832;de;1;/;20361 Dunkelrot (Step Melange 64013)
+832;en;1;/;20361 Dark red (Step Melange 64013)
+832;fr;1;/;20361 Rouge foncé (Step Melange 64013)
+832;nl;1;/;20361 Donkerrood (Step Melange 64013)
+833;de;1;/;20362 Schwarz (Step 60999)
+833;en;1;/;20362 Black (Step 60999)
+833;fr;1;/;20362 Noir (Step 60999)
+833;nl;1;/;20362 Zwart (Step 60999)
+834;de;1;/;20370 Ocker (Step Melange 62057)
+834;en;1;/;20370 Ochre (Step Melange 62057)
+834;fr;1;/;20370 Ocre (Step Melange 62057)
+834;nl;1;/;20370 Oker (Step Melange 62057)
+835;de;1;/;20386 Apricot (Step Melange 63139)
+835;en;1;/;20386 Apricot (Step Melange 63139)
+835;fr;1;/;20386 Abricot (Step Melange 63139)
+835;nl;1;/;20386 Abrikoos (Step Melange 63139)
+836;de;1;/;20391 Anthrazit (Step Melange 60021)
+836;en;1;/;20391 Anthracite (Step Melange 60021)
+836;fr;1;/;20391 Anthracite (Step Melange 60021)
+836;nl;1;/;20391 Antraciet (Step Melange 60021)
+837;de;1;/;3129 Dunkelbeige (Tonus4 244)
+837;en;1;/;3129 Dark beige (Tonus4 244)
+837;fr;1;/;3129 Beige foncé (Tonus4 244)
+837;nl;1;/;3129 Donkerbeige (Tonus4 244)
+838;de;1;/;3130 Seegrün (Tonus4 619)
+838;en;1;/;3130 Sea green (Tonus4 619)
+838;fr;1;/;3130 Vert d‘eau (Tonus4 619)
+838;nl;1;/;3130 Zeegroen (Tonus4 619)
+839;de;1;/;3135 Olivgrün (Tonus4 964)
+839;en;1;/;3135 Olive green (Tonus4 964)
+839;fr;1;/;3135 Vert olive (Tonus4 964)
+839;nl;1;/;3135 Olijfgroen (Tonus4 964)
+840;de;1;/;3146 Türkisblau (Tonus4 854)
+840;en;1;/;3146 Turquoise blue (Tonus4 854)
+840;fr;1;/;3146 Bleu turquoise (Tonus4 854)
+840;nl;1;/;3146 Turkooisblauw (Tonus4 854)
+841;de;1;/;3153 Hellgrau (Tonus4 216)
+841;en;1;/;3153 Light grey (Tonus4 216)
+841;fr;1;/;3153 Gris clair (Tonus4 216)
+841;nl;1;/;3153 Lichtgrijs (Tonus4 216)
+842;de;1;/;3161 Dunkelrot (Tonus4 207)
+842;en;1;/;3161 Dark red (Tonus4 207)
+842;fr;1;/;3161 Rouge foncé (Tonus4 207)
+842;nl;1;/;3161 Donkerrood (Tonus4 207)
+843;de;1;/;3162 Schwarz (Tonus4 128)
+843;en;1;/;3162 Black (Tonus4 128)
+843;fr;1;/;3162 Noir (Tonus4 128)
+843;nl;1;/;3162 Zwart (Tonus4 128)
+844;de;1;/;3166 Kirschrot (Tonus4 610)
+844;en;1;/;3166 Cherry red (Tonus4 610)
+844;fr;1;/;3166 Cerise rouge (Tonus4 610)
+844;nl;1;/;3166 Kersenrood (Tonus4 610)
+845;de;1;/;3167 Brombeer (Tonus4 654)
+845;en;1;/;3167 Blackberry (Tonus4 654)
+845;fr;1;/;3167 Mûre (Tonus4 654)
+845;nl;1;/;3167 Braam (Tonus4 654)
+846;de;1;/;3178 Maisgelb (Tonus4 440)
+846;en;1;/;3178 Corn yellow (Tonus4 440)
+846;fr;1;/;3178 Jaune maïs (Tonus4 440)
+846;nl;1;/;3178 Maïsgeel (Tonus4 440)
+847;de;1;/;3180 Terracotta (Tonus4 464)
+847;en;1;/;3180 Terracotta (Tonus4 464)
+847;fr;1;/;3180 Terre cuite (Tonus4 464)
+847;nl;1;/;3180 Terracotta (Tonus4 464)
+848;de;1;/;3328 Hellbeige (Blazer CUZ2Q)
+848;en;1;/;3328 Light beige (Blazer CUZ2Q)
+848;fr;1;/;3328 Beige clair (Blazer CUZ2Q)
+848;nl;1;/;3328 Lichtbeige (Blazer CUZ2Q)
+849;de;1;/;3332 Grün (Blazer CUZ1K)
+849;en;1;/;3332 Green (Blazer CUZ1K)
+849;fr;1;/;3332 Vert (Blazer CUZ1K)
+849;nl;1;/;3332 Groen (Blazer CUZ1K)
+850;de;1;/;3333 Dunkelgrün (Blazer CUZ1N)
+850;en;1;/;3333 Dark green (Blazer CUZ1N)
+850;fr;1;/;3333 Vert foncé (Blazer CUZ1N)
+850;nl;1;/;3333 Donkergroen (Blazer CUZ1N)
+851;de;1;/;3346 Türkisblau (Blazer CUZ3B)
+851;en;1;/;3346 Turquoise blue (Blazer CUZ3B)
+851;fr;1;/;3346 Bleu turquoise (Blazer CUZ3B)
+851;nl;1;/;3346 Turkooisblauw (Blazer CUZ3B)
+852;de;1;/;3348 Wasserblau (Blazer CUZ1R)
+852;en;1;/;3348 Water blue (Blazer CUZ1R)
+852;fr;1;/;3348 Bleu aquatique (Blazer CUZ1R)
+852;nl;1;/;3348 Waterblauw (Blazer CUZ1R)
+853;de;1;/;3352 Mittelgrau (Blazer CUZ1E)
+853;en;1;/;3352 Medium grey (Blazer CUZ1E)
+853;fr;1;/;3352 Gris moyen (Blazer CUZ1E)
+853;nl;1;/;3352 Middelgrijs (Blazer CUZ1E)
+854;de;1;/;3368 Pflaume (Blazer CUZ2T)
+854;en;1;/;3368 Plum (Blazer CUZ2T)
+854;fr;1;/;3368 Plum (Blazer CUZ2T)
+854;nl;1;/;3368 Pruim (Blazer CUZ2T)
+855;de;1;/;3370 Ocker (Blazer CUZ2W)
+855;en;1;/;3370 Ochre (Blazer CUZ2W)
+855;fr;1;/;3370 Ocre (Blazer CUZ2W)
+855;nl;1;/;3370 Oker (Blazer CUZ2W)
+856;de;1;/;3384 Orangerot (Blazer CUZ90)
+856;en;1;/;3384 Orange red (Blazer CUZ90)
+856;fr;1;/;3384 Orange rouge (Blazer CUZ90)
+856;nl;1;/;3384 Oranjerood (Blazer CUZ90)
+857;de;1;/;3391 Anthrazit (Blazer CUZ67)
+857;en;1;/;3391 Anthracite (Blazer CUZ67)
+857;fr;1;/;3391 Anthracite (Blazer CUZ67)
+857;nl;1;/;3391 Antraciet (Blazer CUZ67)
+858;de;1;/;3392 Blauschwarz (Blazer CUZ62)
+858;en;1;/;3392 Blue black (Blazer CUZ62)
+858;fr;1;/;3392 Bleu noir (Blazer CUZ62)
+858;nl;1;/;3392 Blauwzwart (Blazer CUZ62)
+859;de;1;/;8291 Anthrazit (Atlantic Screen 60025)
+859;en;1;/;8291 Anthracite (Atlantic Screen 60025)
+859;fr;1;/;8291 Anthracite (Atlantic Screen 60025)
+859;nl;1;/;8291 Antraciet (Atlantic Screen 60025)
+860;de;1;/;8253 Grau (Atlantic Screen 60011)
+860;en;1;/;8253 Grey (Atlantic Screen 60011)
+860;fr;1;/;8253 Gris (Atlantic Screen 60011)
+860;nl;1;/;8253 Grijs (Atlantic Screen 60011)
+861;de;1;/;8282 Orange (Atlantic Screen 63034)
+861;en;1;/;8282 Orange (Atlantic Screen 63034)
+861;fr;1;/;8282 Orange (Atlantic Screen 63034)
+861;nl;1;/;8282 Oranje (Atlantic Screen 63034)
+862;de;1;/;8225 Beige (Atlantic Screen 61078)
+862;en;1;/;8225 Beige (Atlantic Screen 61078)
+862;fr;1;/;8225 Beige (Atlantic Screen 61078)
+862;nl;1;/;8225 Beige (Atlantic Screen 61078)
+863;de;1;/;8242 Dunkelblau (Atlantic Screen 66015)
+863;en;1;/;8242 Dark blue (Atlantic Screen 66015)
+863;fr;1;/;8242 Bleu foncé (Atlantic Screen 66015)
+863;nl;1;/;8242 Donkerblauw (Atlantic Screen 66015)
+864;de;1;/;8243 Hellblau (Atlantic Screen 66063)
+864;en;1;/;8243 Light blue (Atlantic Screen 66063)
+864;fr;1;/;8243 Bleu clair (Atlantic Screen 66063)
+864;nl;1;/;8243 Lichtblauw (Atlantic Screen 66063)
+865;de;1;/;8238 Mintgrün (Atlantic Screen 67015)
+865;en;1;/;8238 Mint green (Atlantic Screen 67015)
+865;fr;1;/;8238 Vert menthe (Atlantic Screen 67015)
+865;nl;1;/;8238 Mintgroen (Atlantic Screen 67015)
+866;de;1;/;8295 Tiefrot (Atlantic Screen 64094)
+866;en;1;/;8295 Deep red (Atlantic Screen 64094)
+866;fr;1;/;8295 Rouge profond (Atlantic Screen 64094)
+866;nl;1;/;8295 Dieprood (Atlantic Screen 64094)
+867;de;1;/;8289 Lila (Atlantic Screen 65050)
+867;en;1;/;8289 Lilac (Atlantic Screen 65050)
+867;fr;1;/;8289 Mauve (Atlantic Screen 65050)
+867;nl;1;/;8289 Paars (Atlantic Screen 65050)
+868;de;1;/;8271 Gelb (Atlantic Screen 62038)
+868;en;1;/;8271 Yellow (Atlantic Screen 62038)
+868;fr;1;/;8271 Jaune (Atlantic Screen 62038)
+868;nl;1;/;8271 Geel (Atlantic Screen 62038)
+871;de;1;/;in Organisationsschiene/Reling
+871;en;1;/;in organiser rail/rail
+871;fr;1;/;dans le rails d’organisation/rambarde
+871;nl;1;/;in organisatierail/reling
+872;de;1;/;an Klemmadapter für Plattenstärke 25 mm
+872;en;1;/;to clamp adaptor for top thickness 25 mm
+872;fr;1;/;sur pince de fixation pour épaisseur de plateau 25 mm
+872;nl;1;/;ann klemadapter voor bladdikte 25 mm
+877;de;1;/;unter Tischplatte
+877;en;1;/;under desk top
+877;fr;1;/;sous le plateau de table
+877;nl;1;/;onder tafelblad
+878;de;1;/;seitlich am Gestell
+878;en;1;/;sideways on the frame
+878;fr;1;/;latéralement sur le piétement
+878;nl;1;/;zijwaarts op het frame
+891;de;1;/;2100 mm
+891;en;1;/;2100 mm
+891;fr;1;/;2100 mm
+891;nl;1;/;2100 mm
+892;de;1;/;2200 mm
+892;en;1;/;2200 mm
+892;fr;1;/;2200 mm
+892;nl;1;/;2200 mm
+893;de;1;/;2400 mm
+893;en;1;/;2400 mm
+893;fr;1;/;2400 mm
+893;nl;1;/;2400 mm
+894;de;1;/;2800 mm
+894;en;1;/;2800 mm
+894;fr;1;/;2800 mm
+894;nl;1;/;2800 mm
+895;de;1;/;1100 mm
+895;en;1;/;1100 mm
+895;fr;1;/;1100 mm
+895;nl;1;/;1100 mm
+896;de;1;/;Fixe Höhe 750 mm
+896;en;1;/;Fixed height 750 mm
+896;fr;1;/;Hauteur fixe 750 mm
+896;nl;1;/;Vaste hoogte 750 mm
+897;de;1;/;Fixe Höhe 1060 mm
+897;en;1;/;Fixed Height 1060 mm
+897;fr;1;/;Hauteur fixe 1060 mm
+897;nl;1;/;Vaste hoogte 1060 mm
+898;de;1;/;Liftverstellung 720-1220 mm
+898;en;1;/;Lift adjustment 720-1220 mm
+898;fr;1;/;Réglage lift 720-1220 mm
+898;nl;1;/;Liftverstelling 720-1220 mm
+902;de;1;/;Anfangselement
+902;en;1;/;Starter element
+902;fr;1;/;Élément initial
+902;nl;1;/;Beginelement
+903;de;1;/;Zwischenelement
+903;en;1;/;Intermediate element
+903;fr;1;/;Élément intermédiaire
+903;nl;1;/;Tussenelement
+904;de;1;/;mit Rollen (+ 75 mm Tischhöhe bei Motorverstellung)
+904;en;1;/;with castors (+ 75 mm desk height with motorised desks)
+904;fr;1;/;avec roulettes (+ 75 mm hauteur de table motorisé)
+904;nl;1;/;met wielen (+ 75 mm tafelhoogte bij motortafels)
+978;de;1;/;nicht gerundet
+978;en;1;/;not rounded
+978;fr;1;/;non arrondi
+978;nl;1;/;niet afgerond
+979;de;1;/;gerundet
+979;en;1;/;rounded
+979;fr;1;/;arrondi
+979;nl;1;/;afgerond
+980;de;1;/;links gekürzt
+980;en;1;/;left shortened
+980;fr;1;/;raccourci á gauche
+980;nl;1;/;links ingekort
+981;de;1;/;rechts gekürzt
+981;en;1;/;right shortened
+981;fr;1;/;raccourci á droite
+981;nl;1;/;rechts ingekort
+984;de;1;/;hinten links
+984;en;1;/;rear left
+984;fr;1;/;arrière gauche
+984;nl;1;/;achteraan links
+985;de;1;/;hinten rechts
+985;en;1;/;rear right
+985;fr;1;/;arrière droit
+985;nl;1;/;achteraan rechts
+987;de;1;/;ohne Plattenausschnitt
+987;en;1;/;without cut-out in table top
+987;fr;1;/;sans découpe du plateau
+987;nl;1;/;zonder tafelbladuitsparing
+988;de;1;/;Links
+988;en;1;/;left
+988;fr;1;/;à gauche
+988;nl;1;/;links
+989;de;1;/;Rechts
+989;en;1;/;right
+989;fr;1;/;à droite
+989;nl;1;/;rechts
+990;de;1;/;Mitte
+990;en;1;/;Middle
+990;fr;1;/;Centre
+990;nl;1;/;midden
+991;de;1;/;Links und Rechts
+991;en;1;/;left and right
+991;fr;1;/;à gauche et à droite
+991;nl;1;/;links en rechts
+992;de;1;/;Links und Mitte
+992;en;1;/;left and middle
+992;fr;1;/;à gauche et centre
+992;nl;1;/;links en midden
+993;de;1;/;Mitte und Rechts
+993;en;1;/;middle and right
+993;fr;1;/;centre et à droite
+993;nl;1;/;midden en rechts
+994;de;1;/;Links, Mitte, Rechts
+994;en;1;/;left, middle, right
+994;fr;1;/;à gauche, centre, à droite
+994;nl;1;/;links, midden, rechts
+996;de;1;/;mit Tischklappe mit Elektrifizierungshalter (Platte unterfräst)
+996;en;1;/;with table flap with electrification holder (top undercut)
+996;fr;1;/;avec trappe de table avec support d’électrification (plateau chanfreiné)
+996;nl;1;/;met tafelklep met elektrificatiehouder (blad verstekrand)
+997;de;1;/;mit Tischklappe, Metall, mit Elektrifizierungshalter
+997;en;1;/;with metal table flap with electrification holder
+997;fr;1;/;avec trappe de table métallique avec support d’électrification
+997;nl;1;/;met metalen tafelklep met elektrificatiehouder
+1076;de;1;/;mit Dämpfung
+1076;en;1;/;with Damping
+1076;fr;1;/;Amortisseur de fermeture
+1076;nl;1;/;met demping
+1082;de;1;/;880 mm
+1082;en;1;/;880 mm
+1082;fr;1;/;880 mm
+1082;nl;1;/;880 mm
+1083;de;1;/;1080 mm
+1083;en;1;/;1080 mm
+1083;fr;1;/;1080 mm
+1083;nl;1;/;1080 mm
+1086;de;1;/;Hellgrau
+1086;en;1;/;Light grey
+1086;fr;1;/;Gris clair
+1086;nl;1;/;Lichtgrijs
+1087;de;1;/;Anthrazit
+1087;en;1;/;Anthracite
+1087;fr;1;/;Anthracite
+1087;nl;1;/;Antraciet
+1089;de;1;/;als Sichtschutzpaneel
+1089;en;1;/;as privacy screen
+1089;fr;1;/;comme panneau d’intimité
+1089;nl;1;/;als privacy paneel
+1090;de;1;/;als Beinraumblende
+1090;en;1;/;as legroom cover
+1090;fr;1;/;comme couvercle d’espace pour les jambes
+1090;nl;1;/;als beenruimte cover
+1097;de;1;/;2,3-7,0 kg
+1097;en;1;/;2,3-7,0 kg
+1097;fr;1;/;2,3-7,0 kg
+1097;nl;1;/;2,3-7,0 kg
+1099;de;1;/;ACTIVE.T
+1099;en;1;/;ACTIVE.T
+1099;fr;1;/;ACTIVE.T
+1099;nl;1;/;ACTIVE.T
+1100;de;1;/;BASIC.4
+1100;en;1;/;BASIC.4
+1100;fr;1;/;BASIC.4
+1100;nl;1;/;BASIC.4
+1101;de;1;/;DO IT.4
+1101;en;1;/;DO IT.4
+1101;fr;1;/;DO IT.4
+1101;nl;1;/;DO IT.4
+1102;de;1;/;TALO.S
+1102;en;1;/;TALO.S
+1102;fr;1;/;TALO.S
+1102;nl;1;/;TALO.S
+1103;de;1;/;TABLE.T
+1103;en;1;/;TABLE.T
+1103;fr;1;/;TABLE.T
+1103;nl;1;/;TABLE.T
+1104;de;1;/;LIFE.S
+1104;en;1;/;LIFE.S
+1104;fr;1;/;LIFE.S
+1104;nl;1;/;LIFE.S
+1105;de;1;/;an Klemmadapter für Plattenstärke 19 mm
+1105;en;1;/;to clamp adaptor for top thickness 19 mm
+1105;fr;1;/;sur pince de fixation pour épaisseur de plateau 19 mm
+1105;nl;1;/;ann klemadapter voor bladdikte 19 mm
+1106;de;1;/;an Tischadapter
+1106;en;1;/;to table adapters
+1106;fr;1;/;sur adaptateurs du table
+1106;nl;1;/;aan tafeladapters
+1107;de;1;/;in Rasterschiene
+1107;en;1;/;in support rail
+1107;fr;1;/;dans la crémaillère
+1107;nl;1;/;in rasterrail
+1114;de;1;/;Fixe Höhe 740 mm
+1114;en;1;/;Fixed height 740 mm
+1114;fr;1;/;Hauteur fixe 740 mm
+1114;nl;1;/;Vaste hoogte 740 mm
+1115;de;1;/;Liftverstellung 715-1150 mm
+1115;en;1;/;Lift adjustment 715-1150 mm
+1115;fr;1;/;Réglage lift 715-1150 mm
+1115;nl;1;/;Liftverstelling 715-1150 mm
+1116;de;1;/;TALO.YOU ''FLAT''
+1116;en;1;/;TALO.YOU ''FLAT''
+1116;fr;1;/;TALO.YOU ''FLAT''
+1116;nl;1;/;TALO.YOU ''FLAT''
+1117;de;1;/;TALO.YOU ''FLAT''
+1117;en;1;/;TALO.YOU ''FLAT''
+1117;fr;1;/;TALO.YOU ''FLAT''
+1117;nl;1;/;TALO.YOU ''FLAT''
+1119;de;1;/;ohne (Platte festehend)
+1119;en;1;/;without (top fixed)
+1119;fr;1;/;sans (plateau fixe)
+1119;nl;1;/;zonder (blad vast)
+1120;de;1;/;mit Klappfunktion
+1120;en;1;/;with folding function
+1120;fr;1;/;avec fonction pliante
+1120;nl;1;/;met klapfunctie
+1139;de;1;/;mit Keystone
+1139;en;1;/;with Keystone
+1139;fr;1;/;avec Keystone
+1139;nl;1;/;met Keystone
+1142;de;1;/;TALO.YOU ''FLAT'', 800 mm
+1142;en;1;/;TALO.YOU ''FLAT'', 800 mm
+1142;fr;1;/;TALO.YOU ''FLAT'', 800 mm
+1142;nl;1;/;TALO.YOU ''FLAT'', 800 mm
+1143;de;1;/;TALO.YOU ''FLAT'', 800 mm
+1143;en;1;/;TALO.YOU ''FLAT'', 800 mm
+1143;fr;1;/;TALO.YOU ''FLAT'', 800 mm
+1143;nl;1;/;TALO.YOU ''FLAT'', 800 mm
+1144;de;1;/;TALO.YOU ''FLAT'', 600 mm
+1144;en;1;/;TALO.YOU ''FLAT'', 600 mm
+1144;fr;1;/;TALO.YOU ''FLAT'', 600 mm
+1144;nl;1;/;TALO.YOU ''FLAT'', 600 mm
+1145;de;1;/;TALO.YOU ''FLAT'', 600 mm
+1145;en;1;/;TALO.YOU ''FLAT'', 600 mm
+1145;fr;1;/;TALO.YOU ''FLAT'', 600 mm
+1145;nl;1;/;TALO.YOU ''FLAT'', 600 mm
+1146;de;1;/;auf Rollen
+1146;en;1;/;on castors
+1146;fr;1;/;sur roulettes
+1146;nl;1;/;op wielen
+1148;de;1;/;ohne Dämpfung
+1148;en;1;/;without damping
+1148;fr;1;/;sans amortisseur de fermeture
+1148;nl;1;/;zonder demping
+1149;de;1;/;mit Dämpfung
+1149;en;1;/;with damping
+1149;fr;1;/;avec amortisseur de fermeture
+1149;nl;1;/;met demping
+1154;de;1;/;Whiteboard
+1154;en;1;/;Whiteboard
+1154;fr;1;/;Whiteboard
+1154;nl;1;/;Whiteboard
+1155;de;1;/;Whiteboard, magnetisch
+1155;en;1;/;Whiteboard, magnetic
+1155;fr;1;/;Whiteboard, magnétique
+1155;nl;1;/;Whiteboard, magnetisch
+1156;de;1;/;Königsweiß
+1156;en;1;/;Royal White
+1156;fr;1;/;Blanc royal
+1156;nl;1;/;Koninklijk Wit
+1164;de;1;/;Anbau-/Returntisch
+1164;en;1;/;Extension/return desk
+1164;fr;1;/;Table juxtaposable/table de retour
+1164;nl;1;/;Aanbouw-/returntafel
+1165;de;1;/;Beratertisch, Freiform
+1165;en;1;/;Consultant table, freeform
+1165;fr;1;/;Table conseiller, forme libre
+1165;nl;1;/;Consulenttafel, vrijvorm
+1166;de;1;/;Beratertisch, Eckform
+1166;en;1;/;Consultant table, corner desk
+1166;fr;1;/;Table conseiller, forme anguleuse
+1166;nl;1;/;Consulenttafel, hoekvorm
+1167;de;1;/;Staffeltisch
+1167;en;1;/;Nesting table
+1167;fr;1;/;Table emboîtable
+1167;nl;1;/;Stapeltafel
+1168;de;1;/;Besprechungstisch, Rechteckform
+1168;en;1;/;Meeting table, rectangular shape
+1168;fr;1;/;Table de réunion, forme rectangulaire
+1168;nl;1;/;Vergadertafel, rechthoekvorm
+1169;de;1;/;Besprechungstisch, Bootsform
+1169;en;1;/;Meeting table, boat-shaped
+1169;fr;1;/;Table de réunion, forme bateau
+1169;nl;1;/;Vergadertafel, tonvorm
+1170;de;1;/;Besprechungstisch, Ovalform
+1170;en;1;/;Meeting table, oval form
+1170;fr;1;/;Table de réunion, forme ovale
+1170;nl;1;/;Vergadertafel, ovale vorm
+1171;de;1;/;3200 mm
+1171;en;1;/;3200 mm
+1171;fr;1;/;3200 mm
+1171;nl;1;/;3200 mm
+1172;de;1;/;3600 mm
+1172;en;1;/;3600 mm
+1172;fr;1;/;3600 mm
+1172;nl;1;/;3600 mm
+1173;de;1;/;4000 mm
+1173;en;1;/;4000 mm
+1173;fr;1;/;4000 mm
+1173;nl;1;/;4000 mm
+1176;de;1;/;mit Konsole
+1176;en;1;/;with console
+1176;fr;1;/;avec console
+1176;nl;1;/;met console
+1177;de;1;/;ohne Konsole
+1177;en;1;/;without console
+1177;fr;1;/;sans console
+1177;nl;1;/;zonder console
+1184;de;1;/;vorn
+1184;en;1;/;in front of
+1184;fr;1;/;devant
+1184;nl;1;/;voor
+1185;de;1;/;hinten
+1185;en;1;/;rear
+1185;fr;1;/;derrière
+1185;nl;1;/;achter
+1189;de;1;/;Videokonferenztisch, halbe Achteckform
+1189;en;1;/;Video conference table, half octagonal shape
+1189;fr;1;/;Table de vidéoconférence, forme semi-octogonale
+1189;nl;1;/;Videokonferentietafel, halve achthoekvorm
+1190;de;1;/;Videokonferenztisch, Rautenform
+1190;en;1;/;Video conference table, diamond shape
+1190;fr;1;/;Table de vidéoconférence, forme de diamant
+1190;nl;1;/;Videokonferentietafel, diamant vorm
+1226;de;1;/;mit Schublade abschließbar
+1226;en;1;/;with lockable drawer
+1226;fr;1;/;avec tiroir verrouillable
+1226;nl;1;/;met schuiflade afsluitbaar
+1242;de;1;/;Grau
+1242;en;1;/;Grey
+1242;fr;1;/;Gris
+1242;nl;1;/;Grijs
+1247;de;1;/;Konsolen
+1247;en;1;/;Consoles
+1247;fr;1;/;Consoles
+1247;nl;1;/;Consolen
+1248;de;1;/;Tischplatte
+1248;en;1;/;Desk top
+1248;fr;1;/;Plateau de table
+1248;nl;1;/;Tafelblad
+1250;de;1;/;Tisch ohne Wange
+1250;en;1;/;Desk without slab
+1250;fr;1;/;Table sans joue
+1250;nl;1;/;Tafel zonder wang
+1251;de;1;/;Tisch mit Wange
+1251;en;1;/;Desk with slab
+1251;fr;1;/;Table avec joue
+1251;nl;1;/;Tafel met wang
+1273;de;1;/;Stoff
+1273;en;1;/;Fabric
+1273;fr;1;/;Tissus
+1273;nl;1;/;Stof
+1275;de;1;/;(16) 20% post-consumer recyceltes Polyester, 80% Polyester Gabriel Runner
+1275;en;1;/;(16) 20% post-consumer recycled Polyester, 80% Polyester Gabriel Runner
+1275;fr;1;/;(16) 20% Polyester recyclé post-consommation, 8 % Polyester Gabriel Runner
+1275;nl;1;/;(16) 20% gerecycled Post-Consumer Polyester, 80% Polyester Gabriel Runner
+1277;de;1;/;1662 Schwarz (Runner 60999)
+1277;en;1;/;1662 Black (Runner 60999)
+1277;fr;1;/;1662 Noir (Runner 60999)
+1277;nl;1;/;1662 Zwart (Runner 60999)
+1278;de;1;/;1664 Weiß (Runner 60061)
+1278;en;1;/;1664 White (Runner 60061)
+1278;fr;1;/;1664 Blanc (Runner 60061)
+1278;nl;1;/;1664 Wit (Runner 60061)
+1297;de;1;/;Zylinderschloss
+1297;en;1;/;Cylinder lock
+1297;fr;1;/;Serrure à barillet
+1297;nl;1;/;Cilinderslot
+1298;de;1;/;Zahlenschloss Free-/Fixcode
+1298;en;1;/;Combination lock free/fix code
+1298;fr;1;/;Serrure à combinaison code libre/fixe
+1298;nl;1;/;Cijferslot met vrij/fix code
+1299;de;1;/;ohne Auflage
+1299;en;1;/;without overlay
+1299;fr;1;/;sans revêtement
+1299;nl;1;/;zonder oplegger
+1301;de;1;/;ohne Halterung
+1301;en;1;/;without holder
+1301;fr;1;/;sans support
+1301;nl;1;/;zonder houder
+1302;de;1;/;mit Halterung
+1302;en;1;/;with holder
+1302;fr;1;/;avec support
+1302;nl;1;/;met houder
+1303;de;1;/;ohne Keystone
+1303;en;1;/;without Keystone
+1303;fr;1;/;sans Keystone
+1303;nl;1;/;zonder Keystone
+1305;de;1;/;ohne Einlegeboden
+1305;en;1;/;without shelf
+1305;fr;1;/;sans tablette
+1305;nl;1;/;zonder legplank
+1306;de;1;/;mit Einlegeboden
+1306;en;1;/;with shelf
+1306;fr;1;/;avec tablette
+1306;nl;1;/;met legplank
+1308;de;1;/;ohne Gestell
+1308;en;1;/;without frame
+1308;fr;1;/;sans piétement
+1308;nl;1;/;zonder frame
+1309;de;1;/;mit Gestell
+1309;en;1;/;with frame
+1309;fr;1;/;avec piétement
+1309;nl;1;/;met frame
+1311;de;1;/;ohne Griffschlaufe
+1311;en;1;/;without pull strap
+1311;fr;1;/;sans boucle de poignée
+1311;nl;1;/;zonder greeplus
+1312;de;1;/;mit Griffschlaufe (Leder)
+1312;en;1;/;with pull strap (leather)
+1312;fr;1;/;avec boucle de poignée (cuir)
+1312;nl;1;/;met greeplus (leer)
+1324;de;1;/;Stahl
+1324;en;1;/;Steel
+1324;fr;1;/;Acier
+1324;nl;1;/;Staal
+1326;de;1;/;an Konsolen
+1326;en;1;/;to consoles
+1326;fr;1;/;à consoles
+1326;nl;1;/;aan consolen
+1327;de;1;/;an Tischplatte
+1327;en;1;/;to desk top
+1327;fr;1;/;à plateau
+1327;nl;1;/;aan tafelblad
+1349;de;1;/;für Paneel
+1349;en;1;/;for screen
+1349;fr;1;/;pour panneau
+1349;nl;1;/;voor paneel
+1350;de;1;/;für INSIDE.50
+1350;en;1;/;for INSIDE.50
+1350;fr;1;/;pour INSIDE.50
+1350;nl;1;/;voor INSIDE.50

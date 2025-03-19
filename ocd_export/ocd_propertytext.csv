@@ -1,0 +1,612 @@
+16;de;1;/;Breite
+16;en;1;/;Width
+16;fr;1;/;Largeur
+16;nl;1;/;Breedte
+19;de;1;/;Tiefe
+19;en;1;/;Depth
+19;fr;1;/;Profondeur
+19;nl;1;/;Diepte
+21;de;1;/;zum Anbau an Tischtiefe
+21;en;1;/;for extension to table depth
+21;fr;1;/;pour annexe à la profondeur de la table
+21;nl;1;/;voor aanbouw aan tafeldiepte
+24;de;1;/;Modell/Serie
+24;en;1;/;Model/Series
+24;fr;1;/;Modèle/Série
+24;nl;1;/;Model/Serie
+27;de;1;/;Farbe Anbaurahmen
+27;en;1;/;Colour extension frame
+27;fr;1;/;Couleur cadre rapporté
+27;nl;1;/;Kleur aanbouwframe
+36;de;1;/;Oberfläche Platte
+36;en;1;/;Surface top
+36;fr;1;/;Surface plateau
+36;nl;1;/;Afwerking blad
+41;de;1;/;Farbe Platte
+41;en;1;/;Colour top
+41;fr;1;/;Couleur plateau
+41;nl;1;/;Kleur blad
+63;de;1;/;Farbe Plattenkante
+63;en;1;/;Colour edge of top
+63;fr;1;/;Couleur bord de plateau
+63;nl;1;/;Kleur bladrand
+67;de;1;/;Plattenstärke
+67;en;1;/;Top thickness
+67;fr;1;/;Épaisseur de plateau
+67;nl;1;/;Bladdikte
+71;de;1;/;Platteneckenradius
+71;en;1;/;Top corner radius
+71;fr;1;/;Rayon d’angle de plateau
+71;nl;1;/;Bladhoekradius
+74;de;1;/;Plattenkante
+74;en;1;/;Edge of top
+74;fr;1;/;Chant de plateau
+74;nl;1;/;Bladrand
+76;de;1;/;Farbe Korpus
+76;en;1;/;Colour body
+76;fr;1;/;Couleur corps
+76;nl;1;/;Kleur corpus
+78;de;1;/;Ausführung Anbauregal
+78;en;1;/;Version of shelf extension element
+78;fr;1;/;Version d'élément de rayonnage
+78;nl;1;/;Uitvoering open kast aanbouwelement
+81;de;1;/;Anbauseite
+81;en;1;/;fitting side
+81;fr;1;/;Côté de jonction
+81;nl;1;/;Aanbouwzijde
+84;de;1;/;Anlieferung
+84;en;1;/;Delivery
+84;fr;1;/;Livraison
+84;nl;1;/;Levering
+86;de;1;/;Quadratmeter
+86;en;1;/;Square meter
+86;fr;1;/;Mètres carrés
+86;nl;1;/;Kwadraat meter
+87;de;1;/;Materialnummer
+87;en;1;/;Material number
+87;fr;1;/;Numéro de matériau
+87;nl;1;/;Materiaalnummer
+91;de;1;/;Farbe
+91;en;1;/;Colour
+91;fr;1;/;Couleur
+91;nl;1;/;Kleur
+92;de;1;/;Variante
+92;en;1;/;Variant
+92;fr;1;/;Variante
+92;nl;1;/;Variant
+101;de;1;/;Farbe Adapter
+101;en;1;/;Colour adaptor
+101;fr;1;/;Couleur adaptateur
+101;nl;1;/;Kleur adapter
+103;de;1;/;Farbe Adapterrahmen
+103;en;1;/;Colour adaptor frame
+103;fr;1;/;Couleur cadre d'adaptateur
+103;nl;1;/;Kleur adapterframe
+211;de;1;/;Besprechungsseite
+211;en;1;/;Meeting side
+211;fr;1;/;Côté de réunion
+211;nl;1;/;Vergaderzij
+212;de;1;/;Farbe Gestell
+212;en;1;/;Colour frame
+212;fr;1;/;Couleur piètement
+212;nl;1;/;Kleur frame
+214;de;1;/;Höhenverstellung
+214;en;1;/;Height adjustment
+214;fr;1;/;Réglage en hauteur
+214;nl;1;/;Hoogteverstelling
+219;de;1;/;Bedienfeld
+219;en;1;/;Control
+219;fr;1;/;Commande
+219;nl;1;/;Bedienveld
+224;de;1;/;Farbe Bedienfeld
+224;en;1;/;Colour control
+224;fr;1;/;Couleur commande
+224;nl;1;/;Kleur bedienveld
+225;de;1;/;Kollisionsschutzsensor
+225;en;1;/;Collision prevention sensor
+225;fr;1;/;Protection anticollisions
+225;nl;1;/;Stootbescherming
+228;de;1;/;Fußausleger
+228;en;1;/;Cantilever foot
+228;fr;1;/;Patte
+228;nl;1;/;Voetsteun
+237;de;1;/;Farbe Fußausleger
+237;en;1;/;Colour cantilever foot
+237;fr;1;/;Couleur patte
+237;nl;1;/;Kleur voetsteun
+238;de;1;/;A-Fuß Gestelldesign
+238;en;1;/;A-leg frame design
+238;fr;1;/;Pied-A design de piétement
+238;nl;1;/;A-poot ondersteldesign
+244;de;1;/;Farbe Manschette, A-Fuß Gestelldesign
+244;en;1;/;Colour collar, A-leg frame design
+244;fr;1;/;Couleur manchette, design de piétement pied-A
+244;nl;1;/;Kleur manchet, A-poot ondersteldesign
+245;de;1;/;Farbe Fußrohr, A-Fuß Gestelldesign
+245;en;1;/;Colour foot tube, A-leg frame design
+245;fr;1;/;Couleur tube de pied, design de piétement pied-A
+245;nl;1;/;Kleur pootbuis, A-poot ondersteldesign
+246;de;1;/;Erweiterter Höhenausgleich
+246;en;1;/;extended levelling adjustment
+246;fr;1;/;Plage de réglage élargie
+246;nl;1;/;verdere hoogte gelijkmaking
+249;de;1;/;Kabelwanne
+249;en;1;/;Cable tray
+249;fr;1;/;Goulotte de câblage
+249;nl;1;/;Kabelgoot
+253;de;1;/;Farbe Kabelwanne
+253;en;1;/;Colour cable tray
+253;fr;1;/;Couleur goulotte à câbles
+253;nl;1;/;Kleur kabelgoot
+254;de;1;/;Elektroanschluss länderspezifisch
+254;en;1;/;Electrical connection country-specific
+254;fr;1;/;Raccordement éléctrique des lands
+254;nl;1;/;Elektroaansluiting land specifiek
+259;de;1;/;Elektrifizierung
+259;en;1;/;Electrification
+259;fr;1;/;Électrification
+259;nl;1;/;Elektrificatie
+267;de;1;/;Steckdose 2-fach
+267;en;1;/;Socket module twofold
+267;fr;1;/;Bloc de 2 prises
+267;nl;1;/;Contactdooselement 2-voudig
+271;de;1;/;Bestückung 2-fach-Steckdose 1
+271;en;1;/;Assembly 2-way-socket 1
+271;fr;1;/;Équipement double-prise 1
+271;nl;1;/;Uitrusting 2-voudig-contactdoos 1
+274;de;1;/;Bestückung 2-fach-Steckdose 2
+274;en;1;/;Assembly 2-way-socket 2
+274;fr;1;/;Équipement double-prise 2
+274;nl;1;/;Uitrusting 2-voudig-contactdoos 2
+275;de;1;/;Steckdose 3-fach
+275;en;1;/;Socket module threefold
+275;fr;1;/;Bloc de 3 prises
+275;nl;1;/;Contactdooselement 3-voudig
+279;de;1;/;Bestückung 3-fach-Steckdose 1
+279;en;1;/;Assembly 3-way-socket 1
+279;fr;1;/;Équipement triple-prise 1
+279;nl;1;/;Uitrusting 3-voudig-contactdoos 1
+286;de;1;/;Bestückung 3-fach-Steckdose 2
+286;en;1;/;Assembly 3-way-socket 2
+286;fr;1;/;Équipement triple-prise 2
+286;nl;1;/;Uitrusting 3-voudig-contactdoos 2
+287;de;1;/;Steckdose 4-fach
+287;en;1;/;Socket module fourfold
+287;fr;1;/;Bloc de 4 prises
+287;nl;1;/;Contactdooselement 4-voudig
+291;de;1;/;Bestückung 4-fach-Steckdose 1
+291;en;1;/;Assembly 4-way-socket 1
+291;fr;1;/;Équipement quadruple-prise 1
+291;nl;1;/;Uitrusting 4-voudig-contactdoos 1
+302;de;1;/;Bestückung 4-fach-Steckdose 2
+302;en;1;/;Assembly 4-way-socket 2
+302;fr;1;/;Équipement quadruple- prise 2
+302;nl;1;/;Uitrusting 4-voudig-contactdoos 2
+303;de;1;/;Steckdose 5-fach
+303;en;1;/;Socket module fivefold
+303;fr;1;/;Bloc de 5 prises
+303;nl;1;/;Contactdooselement 5-voudig
+307;de;1;/;Bestückung 5-fach-Steckdose 1
+307;en;1;/;Assembly 5-way-socket 1
+307;fr;1;/;Équipement quintuple-prise 1
+307;nl;1;/;Uitrusting 5-voudig-contactdoos 1
+310;de;1;/;Bestückung 5-fach-Steckdose 2
+310;en;1;/;Assembly 5-way-socket 2
+310;fr;1;/;Équipement quintuple-prise 2
+310;nl;1;/;Uitrusting 5-voudig-contactdoos 2
+311;de;1;/;Bestückung Profilbox
+311;en;1;/;Assembly profilebox
+311;fr;1;/;Équipement boîtier profilé
+311;nl;1;/;Uitrusting profielbox
+320;de;1;/;Stromzuführungskabel
+320;en;1;/;Mains lead
+320;fr;1;/;Câble d´alimentation
+320;nl;1;/;Stroomtoevoerkabel
+336;de;1;/;2. Stromzuführungskabel
+336;en;1;/;2. mains lead
+336;fr;1;/;2. câble d´alimentation
+336;nl;1;/;2. stroomtoevoerkabel
+338;de;1;/;Kupplungskabel
+338;en;1;/;Connection lead
+338;fr;1;/;Câble de couplage
+338;nl;1;/;Koppelingskabel
+355;de;1;/;2. Kupplungskabel
+355;en;1;/;2. Connection lead
+355;fr;1;/;2. Câble de couplage
+355;nl;1;/;2. Koppelingskabel
+357;de;1;/;Verteiler
+357;en;1;/;Splitter
+357;fr;1;/;Distributeur
+357;nl;1;/;Verdeler
+431;de;1;/;Farbe Kabelwanne
+431;en;1;/;Colour cable tray
+431;fr;1;/;Couleur goulotte à câbles
+431;nl;1;/;Kleur kabelgoot
+432;de;1;/;Kabelwanne zentral für Bench
+432;en;1;/;Central cable tray for Bench
+432;fr;1;/;Goulotte de câblage centrale pour Bench
+432;nl;1;/;Kabelgoot centraal voor bench
+436;de;1;/;Elekrifizierungsbucht (Kabelführung)
+436;en;1;/;Electrics cut-out (cable management)
+436;fr;1;/;Découpe d’électrification (guidage des câbles)
+436;nl;1;/;Elektrifikatie-richel (kabeldoorvoer)
+439;de;1;/;Position Adapter
+439;en;1;/;Position adapter
+439;fr;1;/;Position adaptateur
+439;nl;1;/;Positie adapter
+448;de;1;/;Gestell eingerückt
+448;en;1;/;Frame inset
+448;fr;1;/;Piétement raccourci
+448;nl;1;/;Frame inspringend
+474;de;1;/;Rollen
+474;en;1;/;Castors
+474;fr;1;/;Roulettes
+474;nl;1;/;Wielen
+477;de;1;/;Farbe Rollen
+477;en;1;/;Colour castors
+477;fr;1;/;Couleur roulettes
+477;nl;1;/;Kleur wielen
+478;de;1;/;Vorbereitung für Anbau-/Returntisch
+478;en;1;/;Preparation for extension/return desk
+478;fr;1;/;Préparation pour Table juxtaposable/Table de retour
+478;nl;1;/;Voorbereiding voor Aanbouw-/Returntafel
+525;de;1;/;Anbau für Returntisch
+525;en;1;/;Connection for return
+525;fr;1;/;Montage pour table de retour
+525;nl;1;/;Aanbouw voor returntafel
+549;de;1;/;Schiebeplatte
+549;en;1;/;Sliding panel
+549;fr;1;/;Plateau coulissant
+549;nl;1;/;Schuifblad
+573;de;1;/;Adapterausschnitt
+573;en;1;/;Cut-out for adapter
+573;fr;1;/;Découpe pour adaptateur
+573;nl;1;/;Adapteruitsparing
+578;de;1;/;Position Adapterausschnitt
+578;en;1;/;Position cut-out for adapter
+578;fr;1;/;Position découpe pour adaptateur
+578;nl;1;/;Positie adapteruitsparing
+589;de;1;/;zusätzlicher Plattenüberstand
+589;en;1;/;additional top overhang
+589;fr;1;/;Plateau en débord additionnel
+589;nl;1;/;extra bladoversteek
+591;de;1;/;Plattenüberstand in mm
+591;en;1;/;Top overhang in mm
+591;fr;1;/;Plateau en débord en mm
+591;nl;1;/;Bladoversteek in mm
+592;de;1;/;Produkttyp
+592;en;1;/;Type of product
+592;fr;1;/;Type de produit
+592;nl;1;/;Producttype
+614;de;1;/;Belastung Liftverstellung
+614;en;1;/;Load lift adjustment
+614;fr;1;/;Charge réglage lift
+614;nl;1;/;Belasting liftverstelling
+621;de;1;/;Kabelklammern
+621;en;1;/;Cable clips
+621;fr;1;/;Pinces pour câbles
+621;nl;1;/;Kabelklemmen
+624;de;1;/;Plattenausfräsung, hinten außen
+624;en;1;/;Cut-out in table top, outside rear
+624;fr;1;/;Découpe du plateau, à l´extérieur à l´arrière
+624;nl;1;/;Tafelbladuitsparing, buiten achter
+629;de;1;/;Bestückung, Ausfräsung links
+629;en;1;/;Assembly, cut-out left
+629;fr;1;/;Équipement, découpe à gauche
+629;nl;1;/;Uitrusting, uitsparing links
+633;de;1;/;Bestückung, Ausfräsung rechts
+633;en;1;/;Assembly, cut-out right
+633;fr;1;/;Équipement, découpe à droite
+633;nl;1;/;Uitrusting, uitsparing rechts
+634;de;1;/;Position Plattenausfräsung
+634;en;1;/;Position cut-out in table top
+634;fr;1;/;Position découpe du plateau
+634;nl;1;/;Positie tafelbladuitsparing
+643;de;1;/;1. Tischplattenausschnitt
+643;en;1;/;1. Cut-out in table top
+643;fr;1;/;1. Découpe du plateau
+643;nl;1;/;1. Tafelbladuitsparing
+649;de;1;/;2. Tischplattenausschnitt
+649;en;1;/;2. Cut-out in table top
+649;fr;1;/;2. Découpe du plateau
+649;nl;1;/;2. Tafelbladuitsparing
+650;de;1;/;3. Tischplattenausschnitt
+650;en;1;/;3. Cut-out in table top
+650;fr;1;/;3. Découpe du plateau
+650;nl;1;/;3. Tafelbladuitsparing
+651;de;1;/;Farbe Kabeldurchlassdose
+651;en;1;/;Colour cable grommet
+651;fr;1;/;Couleur boîte sortie câbles
+651;nl;1;/;Kleur kabeldoorvoerdoos
+653;de;1;/;Farbe Tischklappe
+653;en;1;/;Colour table flap
+653;fr;1;/;Couleur trappe de table
+653;nl;1;/;Kleur tafelklep
+655;de;1;/;zur Steuerung HVERSTELL/WERTEN
+655;en;1;/;*zur Steuerung HVERSTELL/WERTEN
+655;fr;1;/;*zur Steuerung HVERSTELL/WERTEN
+655;nl;1;/;*zur Steuerung HVERSTELL/WERTEN
+666;de;1;/;Paneelvorbereitung
+666;en;1;/;Preparation for screen
+666;fr;1;/;Préparation panneau
+666;nl;1;/;Paneelvoorbereiding
+669;de;1;/;Breite
+669;en;1;/;Width
+669;fr;1;/;Largeur
+669;nl;1;/;Breedte
+670;de;1;/;Tiefe
+670;en;1;/;Depth
+670;fr;1;/;Profondeur
+670;nl;1;/;Diepte
+673;de;1;/;Seitenverkleidung
+673;en;1;/;Side cover
+673;fr;1;/;Habillage latéral
+673;nl;1;/;Zijpaneel
+678;de;1;/;Position Plattenausfräsung, links
+678;en;1;/;Position cut-out in table top, left
+678;fr;1;/;Position découpe du plateau, à gauche
+678;nl;1;/;Positie tafelbladuitsparing, links
+679;de;1;/;1. Tischplattenausschnitt, links
+679;en;1;/;1. Cut-out in table top, left
+679;fr;1;/;1. Découpe du plateau, à gauche
+679;nl;1;/;1. Tafelbladuitsparing, links
+680;de;1;/;2. Tischplattenausschnitt, links
+680;en;1;/;2. Cut-out in table top, left
+680;fr;1;/;2. Découpe du plateau, à gauche
+680;nl;1;/;2. Tafelbladuitsparing, links
+681;de;1;/;3. Tischplattenausschnitt, links
+681;en;1;/;3. Cut-out in table top, left
+681;fr;1;/;3. Découpe du plateau, à gauche
+681;nl;1;/;3. Tafelbladuitsparing, links
+682;de;1;/;Position Plattenausfräsung, rechts
+682;en;1;/;Position cut-out in table top, right
+682;fr;1;/;Position découpe du plateau, à droite
+682;nl;1;/;Positie tafelbladuitsparing, rechts
+683;de;1;/;1. Tischplattenausschnitt, rechts
+683;en;1;/;1. Cut-out in table top, right
+683;fr;1;/;1. Découpe du plateau, à droite
+683;nl;1;/;1. Tafelbladuitsparing, rechts
+684;de;1;/;2. Tischplattenausschnitt, rechts
+684;en;1;/;2. Cut-out in table top, right
+684;fr;1;/;2. Découpe du plateau, à droite
+684;nl;1;/;2. Tafelbladuitsparing, rechts
+685;de;1;/;3. Tischplattenausschnitt, rechts
+685;en;1;/;3. Cut-out in table top, right
+685;fr;1;/;3. Découpe du plateau, à droite
+685;nl;1;/;3. Tafelbladuitsparing, rechts
+686;de;1;/;Bitte beachten Sie
+686;en;1;/;Please note
+686;fr;1;/;Attention
+686;nl;1;/;Let op
+688;de;1;/;Direktlieferung (kostenpflichtig)
+688;en;1;/;Direct delivery (Option only valid within Germany)
+688;fr;1;/;Livraison directe (Option valable uniquement en Allemagne)
+688;nl;1;/;Directe levering (Optie alleen geldig binnen Duitsland)
+697;de;1;/;Anbau an Höhenverstellung
+697;en;1;/;Assembly to height adjustment
+697;fr;1;/;Montage à réglage en hauteur
+697;nl;1;/;Aanbouw aan hoogteverstelling
+700;de;1;/;für Tischtyp
+700;en;1;/;for desk type
+700;fr;1;/;pour type de table
+700;nl;1;/;voor tafeltype
+742;de;1;/;Sitzauflage
+742;en;1;/;Seat overlay
+742;fr;1;/;Revêtement assise
+742;nl;1;/;Zitoplegger
+746;de;1;/;Farbe Filz
+746;en;1;/;Colour felt
+746;fr;1;/;Couleur feutre
+746;nl;1;/;Kleur vilt
+748;de;1;/;Stoffkategorie
+748;en;1;/;Fabric classification
+748;fr;1;/;Catégorie de tissus
+748;nl;1;/;Stofcategorie
+752;de;1;/;Stoffgruppe Sitzpolsterauflage
+752;en;1;/;Fabric range upholstered seat overlay
+752;fr;1;/;Groupe de tissus revêtement assise rembourré
+752;nl;1;/;Stofgroep zitkussenoplegger
+763;de;1;/;Farbe Sitzpolsterauflage
+763;en;1;/;Colour upholstered seat overlay
+763;fr;1;/;Couleur revêtement assise rembourré
+763;nl;1;/;Kleur zitkussenoplegger
+870;de;1;/;Befestigung
+870;en;1;/;Attachment
+870;fr;1;/;Fixation
+870;nl;1;/;Bevestiging
+876;de;1;/;Befestigung
+876;en;1;/;Fixing
+876;fr;1;/;Fixation
+876;nl;1;/;Bevestiging
+879;de;1;/;Farbe Aufhängung
+879;en;1;/;Colour mounting
+879;fr;1;/;Coleur fixation
+879;nl;1;/;Kleur ophanging
+899;de;1;/;Anzahl Bedienfelder
+899;en;1;/;Number of controls
+899;fr;1;/;Nombre de commandes
+899;nl;1;/;Aantal bedienveld
+900;de;1;/;Anzahl aller Tischelemente
+900;en;1;/;Number of all table elements
+900;fr;1;/;Nombre de tous les éléments de la table
+900;nl;1;/;Aantal van alle tabelelementen
+901;de;1;/;zum Anbau an:
+901;en;1;/;for extension to:
+901;fr;1;/;pour annexe à:
+901;nl;1;/;voor aanbouw aan:
+977;de;1;/;Plattengeometrie
+977;en;1;/;Top geometry
+977;fr;1;/;Géométrie de plateau
+977;nl;1;/;Bladgeometrie
+982;de;1;/;Plattenkürzung in mm
+982;en;1;/;Top shortening in mm
+982;fr;1;/;Raccourcissement de la plateau en mm
+982;nl;1;/;Bladverkorting in mm
+983;de;1;/;Plattenanschnittkante
+983;en;1;/;Straight edge
+983;fr;1;/;Bord chanfreiné
+983;nl;1;/;Bladaansnijkant
+986;de;1;/;Position Plattenausfräsung
+986;en;1;/;Position cut-out in table top
+986;fr;1;/;Position découpe du plateau
+986;nl;1;/;Positie tafelbladuitsparing
+995;de;1;/;1. Tischplattenausschnitt
+995;en;1;/;1. Cut-out in table top
+995;fr;1;/;1. Découpe du plateau
+995;nl;1;/;1. Tafelbladuitsparing
+998;de;1;/;2. Tischplattenausschnitt
+998;en;1;/;2. Cut-out in table top
+998;fr;1;/;2. Découpe du plateau
+998;nl;1;/;2. Tafelbladuitsparing
+999;de;1;/;3. Tischplattenausschnitt
+999;en;1;/;3. Cut-out in table top
+999;fr;1;/;3. Découpe du plateau
+999;nl;1;/;3. Tafelbladuitsparing
+1000;de;1;/;Elektrifizierung Tischklappe
+1000;en;1;/;Electrification of table flap
+1000;fr;1;/;Électrification de trappe de table
+1000;nl;1;/;Elektrificatie tafelklep
+1001;de;1;/;t.Plattengeometrie
+1001;en;1;/;t.top geometry
+1001;fr;1;/;t.géométrie de plateau
+1001;nl;1;/;diepte bladgeometrie
+1075;de;1;/;Dämpfung
+1075;en;1;/;Damping
+1075;fr;1;/;Amortissement
+1075;nl;1;/;Demping
+1080;de;1;/;für Tischbreite
+1080;en;1;/;for table width
+1080;fr;1;/;pour largeur de table
+1080;nl;1;/;voor tafelbreedte
+1081;de;1;/;Paneelbreite
+1081;en;1;/;Screen width
+1081;fr;1;/;Largeur de panneau
+1081;nl;1;/;Paneelbreedte
+1084;de;1;/;Paneelhöhe
+1084;en;1;/;Panel Height
+1084;fr;1;/;Hauteur de panneau
+1084;nl;1;/;Paneelhoogte
+1085;de;1;/;Farbe Paneel
+1085;en;1;/;Colour screen
+1085;fr;1;/;Couleur panneau
+1085;nl;1;/;Kleur paneel
+1088;de;1;/;Ansicht
+1088;en;1;/;View
+1088;fr;1;/;Vue
+1088;nl;1;/;Bekijken
+1096;de;1;/;Tragfähigkeit
+1096;en;1;/;Load capacity
+1096;fr;1;/;Capacité de charge
+1096;nl;1;/;Draagvermogen
+1098;de;1;/;für Modell/Serie
+1098;en;1;/;for Model/Series
+1098;fr;1;/;pour Modèle/Série
+1098;nl;1;/;voor Model/Serie
+1113;de;1;/;Farbe Säule
+1113;en;1;/;Colour column
+1113;fr;1;/;Couleur colonne
+1113;nl;1;/;Kleur zuil
+1118;de;1;/;Klappfunktion Tischplatte
+1118;en;1;/;Folding function table top
+1118;fr;1;/;Plateau de table à fonction pliante
+1118;nl;1;/;Klapfunctie tafelblad
+1124;de;1;/;Farbe Fußausleger
+1124;en;1;/;Colour cantilever foot
+1124;fr;1;/;Couleur patte
+1124;nl;1;/;Kleur voetsteun
+1138;de;1;/;USB-A 3.0 Keystone Verbinderanschlüsse
+1138;en;1;/;USB-A 3.0 Keystone connecting jacks
+1138;fr;1;/;USB-A 3.0 Keystone connecteurs
+1138;nl;1;/;USB-A 3.0 Keystone verbinderbussen
+1147;de;1;/;Plattendämpfung
+1147;en;1;/;Soft-close mechanism
+1147;fr;1;/;Amortissement de plateau
+1147;nl;1;/;Bladdemping
+1174;de;1;/;für Tischtiefe
+1174;en;1;/;for table depth
+1174;fr;1;/;pour profondeur de table
+1174;nl;1;/;voor tafeldiepte
+1175;de;1;/;Plattenträgerkonsole
+1175;en;1;/;Desk-top support
+1175;fr;1;/;Console support de plateau
+1175;nl;1;/;Bladdragerconsole
+1183;de;1;/;Anordnung
+1183;en;1;/;Arrangement
+1183;fr;1;/;Arrangement
+1183;nl;1;/;Ordening
+1224;de;1;/;Farbe Rollwagen
+1224;en;1;/;Colour trolley
+1224;fr;1;/;Couleur chariot
+1224;nl;1;/;Kleur trolley
+1225;de;1;/;Schublade
+1225;en;1;/;Drawer
+1225;fr;1;/;Tiroir
+1225;nl;1;/;Schuiflade
+1244;de;1;/;für Breite Rückwandblende
+1244;en;1;/;for witdh modesty panel
+1244;fr;1;/;pour largeur voile de fond
+1244;nl;1;/;voor breedte achterschot
+1245;de;1;/;Farbe Rückwand
+1245;en;1;/;Colour back panel
+1245;fr;1;/;Couleur panneau arrière
+1245;nl;1;/;Kleur achterwand
+1246;de;1;/;Befestigung an
+1246;en;1;/;Attachment to
+1246;fr;1;/;Fixation sur
+1246;nl;1;/;Bevestiging aan
+1249;de;1;/;Befestigung an
+1249;en;1;/;Attachment to
+1249;fr;1;/;Fixation sur
+1249;nl;1;/;Bevestiging aan
+1272;de;1;/;Oberfläche
+1272;en;1;/;Surface
+1272;fr;1;/;Surface
+1272;nl;1;/;Afwerking
+1274;de;1;/;Stoffgruppe
+1274;en;1;/;Fabric group
+1274;fr;1;/;Groupe de tissus
+1274;nl;1;/;Stofgroep
+1276;de;1;/;Farbe Stoff
+1276;en;1;/;Colour fabric
+1276;fr;1;/;Couleur tissu
+1276;nl;1;/;Kleur stof
+1296;de;1;/;Schlossvariante
+1296;en;1;/;Lock variant
+1296;fr;1;/;Variante serrure
+1296;nl;1;/;Slotvariant
+1300;de;1;/;Schlüssel- und Handyhalterung
+1300;en;1;/;Key and mobile holder
+1300;fr;1;/;Support clés/portable
+1300;nl;1;/;Sleutel- en mobieltjehouder
+1304;de;1;/;Einlegeboden
+1304;en;1;/;Shelf
+1304;fr;1;/;Tablette
+1304;nl;1;/;Legplank
+1307;de;1;/;Gestell auf Rollen
+1307;en;1;/;Frame on castors
+1307;fr;1;/;Piétement sur roulettes
+1307;nl;1;/;Frame op wielen
+1310;de;1;/;Griffschlaufe
+1310;en;1;/;Pull strap
+1310;fr;1;/;Boucle de poignée latérale
+1310;nl;1;/;Greeplus
+1325;de;1;/;Breite
+1325;en;1;/;Width
+1325;fr;1;/;Largeur
+1325;nl;1;/;Breedte
+1371;de;1;/;Bestückung 2-fach-Steckdose
+1371;en;1;/;Assembly 2-way socket
+1371;fr;1;/;Équipement double-prise
+1371;nl;1;/;Uitrusting 2-voudige contactdoos
+1372;de;1;/;Bestückung 3-fach-Steckdose
+1372;en;1;/;Assembly 3-way socket
+1372;fr;1;/;Équipement triple-prise
+1372;nl;1;/;Uitrusting 3-voudige contactdoos
+1373;de;1;/;Bestückung 4-fach-Steckdose
+1373;en;1;/;Assembly 4-way socket
+1373;fr;1;/;Équipement quadruple-prise
+1373;nl;1;/;Uitrusting 4-voudige contactdoos
+1374;de;1;/;Bestückung 5-fach-Steckdose
+1374;en;1;/;Assembly 5-way socket
+1374;fr;1;/;Équipement quintuple-prise
+1374;nl;1;/;Uitrusting 5-voudige contactdoos

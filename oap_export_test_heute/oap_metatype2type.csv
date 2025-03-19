@@ -1,0 +1,8 @@
+kn;screens;MT_PN_Screens;None;;IA_DESK_AC_MC_ATTACHMENT_NONE
+kn;screens;MT_PN_ScreensAcc;None;;IA_DESK_EDIT_SETTINGS
+kn;screens;MT_PN_SideCover;None;;IA_DESK_SIDEPANEL_LEFT_REM
+kn;screens;MT_PN_Rail;None;;IA_DESK_SIDEPANEL_RIGHT_REM
+kn;screens;MT_PN_Wall;None;;IA_BENCH_EDIT_SIDE_LEFT
+kn;screens;MT_PN_HyScreens;None;;IA_BENCH_EDIT_SIDE_RIGHT
+kn;screens;MT_PN_HyAdapter;None;;IA_ADDON_EDIT_COLOR_LEFT
+kn;screens;MT_PN_HyScreensACC;None;;IA_ADDON_EDIT_COLOR_RIGHT

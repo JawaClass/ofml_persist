@@ -1,0 +1,2 @@
+MC_ADD_BOARD;Instance;::ofml::go::GoMetaType;setPropValue;@GPN_HangBoard,@PN_WhiteBoard
+MC_DEL_BOARD;Instance;::ofml::go::GoMetaType;setPropValue;@GPN_HangBoard,@PN_None
