@@ -1,12 +1,13 @@
 from fastapi import APIRouter, Depends
 from fastapi_filter import FilterDepends
 from fastapi_pagination.ext.sqlalchemy import paginate
-from sqlalchemy import delete, insert, select, update
+from sqlalchemy import delete, insert, select, update, func
 from sqlalchemy.orm import Session
 from api_models.oap.actionlist import (
     OapActionListActionUpdate,
     OapActionListAddActionUpdate,
     OapActionListItemCreate,
+    OapActionListItemItemOut,
     OapActionListItemUpdate,
     OapActionListItemOut,
     OapActionListItemFilter,
@@ -57,19 +58,30 @@ def update_action_by_id(
     return result.rowcount
 
 
-@router.post("/{listitem_id}/actions")
+@router.post("/{listitem_id}/actions/{action_id}")
 def add_action_by_id(
     listitem_id: int,
+    action_id: int,
     add_action_update: OapActionListAddActionUpdate,
     session: Session = Depends(generate_session),
 ) -> int:
     """
     add action relationship by id and position index
     """
+    if add_action_update.position_idx is None: 
+        # get the current largest position index inside this items ActionList
+        stmt = select(func.max(OapActionListActionAssocDB.position)).where(
+            OapActionListActionAssocDB.actionlist_id == listitem_id
+            )
+        max_position = session.execute(stmt).scalar()
+        position_idx = max_position + 1 if max_position is not None else 0
+    else:
+        position_idx = add_action_update.position_idx
+
     insert_stmt = insert(OapActionListActionAssocDB).values(
         actionlist_id=listitem_id,
-        action_id=add_action_update.action_id,
-        position=add_action_update.position_idx,
+        action_id=action_id,
+        position=position_idx,
     )
 
     result = session.execute(insert_stmt)
@@ -93,7 +105,7 @@ def delete_action_by_id(
     return result.rowcount
 
 
-@router.get("/{actionlistitem_id}", response_model=OapActionListItemOut)
+@router.get("/{actionlistitem_id}", response_model=OapActionListItemItemOut)
 def read_actionlistitem(
     actionlistitem_id: int,
     session: Session = Depends(generate_session),

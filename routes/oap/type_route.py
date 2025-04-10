@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Path
 from fastapi_filter import FilterDepends
 from fastapi_pagination.ext.sqlalchemy import paginate
 from sqlalchemy import delete, select, insert
@@ -30,7 +30,21 @@ def read_scheme(extensive: bool = False):
     scheme =  OapTypeOut.model_json_schema() if extensive else get_simple_model_scheme(OapTypeOut)
     return scheme
 
-@router.delete("/{type_id}/interactors/{interactor_id}")
+
+@router.get("/{type_id:int}/item", response_model=OapTypeItemOut)
+@router.get("/{type_id:int}", response_model=OapTypeItemOut)
+def read_type(
+    type_id: int = Path(..., title="Type ID"),
+    session: Session = Depends(generate_session),
+):
+    """
+    return type by id
+    """
+    select_stmt = select(OapTypeDB).filter(OapTypeDB.id == type_id)
+    item = session.execute(select_stmt).scalar_one()
+    return item
+
+@router.delete("/{type_id:int}/interactors/{interactor_id:int}")
 def delete_interactor_by_id(
     type_id: int, interactor_id: int, session: Session = Depends(generate_session)
 ) -> int:
@@ -46,7 +60,7 @@ def delete_interactor_by_id(
     return result.rowcount
 
 
-@router.post("/{type_id}/interactors/{interactor_id}")
+@router.post("/{type_id:int}/interactors/{interactor_id:int}")
 def add_interactor_by_id(
     type_id: int, interactor_id: int, session: Session = Depends(generate_session)
 ) -> int:
@@ -57,18 +71,7 @@ def add_interactor_by_id(
         oap_type_id=type_id,
         oap_interactor_id=interactor_id,
     )
-    return util.exec_insert_stmt_plain(insert_stmt, session=session).rowcount
-    # try:
-    #     result = session.execute(insert_stmt)
-    #     session.commit()
-    #     return result.rowcount
-    # except IntegrityError:
-    #     print("add_interactor_by_id..... AssertionError")
-    #     session.rollback()  # Rollback to avoid partial transactions
-    #     raise HTTPException(
-    #         status_code=400,
-    #         detail=f"Cannot add interactor with id {interactor_id}.",
-    #     )
+    return util.exec_insert_stmt_plain(insert_stmt, session=session).rowcount 
 
 
 @router.get("")

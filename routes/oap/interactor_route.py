@@ -52,6 +52,7 @@ def read_interactors(
     return paginate(session, interactor_filter.filter(select(OapInteractorDB)))
 
 
+@router.get("/{interactor_id}", response_model=OapInteractorItemOut)
 @router.get("/{interactor_id}/item", response_model=OapInteractorItemOut)
 def read_interactor_item(
     interactor_id: int,
@@ -94,20 +95,7 @@ def read_interactor_item(
     item = session.execute(select_stmt).scalar_one()
 
     return item
-
-
-@router.get("/{interactor_id}", response_model=OapInteractorOut)
-def read_interactor(
-    interactor_id: int,
-    session: Session = Depends(generate_session),
-):
-    """
-    return interactor by id
-    """
-    select_stmt = select(OapInteractorDB).filter(OapInteractorDB.id == interactor_id)
-    item = session.execute(select_stmt).scalar_one()
-    return item
-
+ 
 
 @router.put("")
 def update_interactor(

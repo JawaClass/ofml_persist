@@ -36,6 +36,7 @@ def read_scheme(extensive: bool = False):
     scheme =  OapActionListOut.model_json_schema() if extensive else get_simple_model_scheme(OapActionListOut)
     return scheme
 
+@router.get("/{actionlist_id}/item", response_model=OapActionListItemsOut) 
 @router.get("/{actionlist_id}", response_model=OapActionListItemsOut)
 def read_actionlist(
     actionlist_id: int,

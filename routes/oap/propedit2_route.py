@@ -5,6 +5,7 @@ from sqlalchemy import delete, select
 from sqlalchemy.orm import Session
 from api_models.oap.propedit2 import (
     OapPropEdit2Filter,
+    OapPropEdit2ItemOut,
     OapPropEdit2Out,
     OapPropEdit2Update,
     OapPropEdit2Create,
@@ -30,7 +31,8 @@ def read_scheme(extensive: bool = False):
     scheme =  OapPropEdit2Out.model_json_schema() if extensive else get_simple_model_scheme(OapPropEdit2Out)
     return scheme
 
-@router.get("/{propedit2_id}", response_model=OapPropEdit2Out)
+@router.get("/{propedit2_id}/item", response_model=OapPropEdit2ItemOut)
+@router.get("/{propedit2_id}", response_model=OapPropEdit2ItemOut)
 def read_propedit2(
     propedit2_id: int,
     session: Session = Depends(generate_session),

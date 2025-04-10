@@ -36,7 +36,7 @@ class OapImportController:
                 try:
                     self.session.commit()
                 except IntegrityError as e:
-                    print("IntegrityError...", orm_obj)
+                    print("IntegrityError...")####, orm_obj)
                     print(e)
                     tablename = orm_obj.__class__.__tablename__
                     self.p.add_unresolved_entry(tablename, orm_obj)

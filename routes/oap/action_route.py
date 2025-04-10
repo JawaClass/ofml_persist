@@ -99,7 +99,8 @@ def read_action_objects(
     return item
 
 
-@router.get("/{action_id}", response_model=OapActionOut)
+@router.get("/{action_id}/item", response_model=OapActionItemOut)
+@router.get("/{action_id}", response_model=OapActionItemOut)
 def read_action(
     action_id: int,
     session: Session = Depends(generate_session),
@@ -111,18 +112,7 @@ def read_action(
     item = session.execute(select_stmt).scalar_one()
     return item
 
-
-@router.get("/{action_id}/item", response_model=OapActionItemOut)
-def read_action_item(
-    action_id: int,
-    session: Session = Depends(generate_session),
-):
-    """
-    return action itemby id
-    """
-    select_stmt = select(OapActionDB).filter(OapActionDB.id == action_id)
-    item = session.execute(select_stmt).scalar_one()
-    return item
+ 
 
 @router.get("")
 def read_actions(

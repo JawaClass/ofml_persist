@@ -30,4 +30,4 @@ class OapPropEdit2Out(OapPropEdit2Update):
 
 
 class OapPropEdit2ItemOut(OapPropEdit2Out):
-    ref_propeditprops_list: OapPropEditPropsListOut
+    ref_propeditprops_list: OapPropEditPropsListOut | None = None

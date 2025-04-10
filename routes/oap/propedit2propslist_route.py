@@ -104,5 +104,5 @@ def create_list(
 ):
     """
     create list
-    """
+    """ 
     return util.exec_simple_insert(OapPropEditPropsListDB, session, list_)

@@ -45,7 +45,7 @@ class OapPropEditPropsListFilter(OapBaseFilter):
 
 class OapPropEditPropsListCreate(BaseModel):
     name: str
-
+    program_id: int
     model_config = ConfigDict(from_attributes=True)
 
 

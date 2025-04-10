@@ -93,10 +93,10 @@ def fmt_oap_propchange(df: pd.DataFrame):
     df = fill_columns(df, OAP_PROPCHANGE)
     df = df[OAP_PROPCHANGE]
     return df
+ 
 
-
-def fmt_oap_propedit(df: pd.DataFrame):
-    print(df.columns)
+def fmt_oap_propedit(df: pd.DataFrame): 
+    df.loc[:, "state_restr"] = col_enum_extract_value(df["state_restr"]) 
     df["id"] = df["name"]
     df = fill_columns(df, OAP_PROPEDIT)
     df = df[OAP_PROPEDIT]

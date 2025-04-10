@@ -54,8 +54,9 @@ def root():
     return {"message": "Hello World"}
  
 
-# fastapi dev app.py
+# fastapi dev app.py --host 0.0.0.0
 # uvicorn --host 0.0.0.0 --port 8000 --reload --workers 4 app:app
+# uvicorn --port 8000 --reload --workers 4 app:app
 
 # DEBUG
 if __name__ == "__main__":

@@ -87,9 +87,8 @@ def export_oap_program(
     from ofml_export.oap.export import export
 
     program = params.name
-    export_path = f"/mnt/knps_testumgebung/Testumgebung/EasternGraphics/kn/{program}/DE/2/oap_[export]"
-    export(program, engine=get_engine(), export_path=export_path)
-    return export_path
+    
+    return export(program, engine=get_engine()) 
 
 
 @router.get("/{program_id}", response_model=OapProgramOut)

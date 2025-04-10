@@ -72,8 +72,8 @@ class OapActionListItemsOut(OapActionListUpdate):
     ref_actionlist: list[OapActionListItemItemOut]
 
 class OapActionListAddActionUpdate(BaseModel):
-    action_id: int
-    position_idx: int
+    # action_id: int
+    position_idx: int | None = None
 
 
 class OapActionListActionUpdate(BaseModel):

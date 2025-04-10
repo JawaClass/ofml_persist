@@ -1,3 +1,4 @@
+import csv
 from pathlib import Path
 from models import engine, get_engine
 
@@ -40,6 +41,7 @@ from sqlalchemy.orm import Session, aliased
 from ofml_export.oap.inp_descr.version_1_6 import INP_DESCR
 from ofml_export.util import as_path
 
+OAP_MAKER_EXPORT_FLAG_FILE_NAME = ".oap_maker_export"
 
 class OapExport(ExportBase):
 
@@ -522,8 +524,7 @@ class OapExport(ExportBase):
         )
         self.tables["type"] = formatter.fmt_oap_type(self.tables["type"])
         self.tables["version"] = formatter.fmt_oap_version(self.tables["version"])
-
-        # self.tables = {f"oap_{name}.csv": df for name, df in self.tables.items()}
+ 
         return self
 
     def export(self):
@@ -534,12 +535,19 @@ class OapExport(ExportBase):
  
         for name, df in self.tables.items():
             fname = f"oap_{name}.csv"
-            df.to_csv(directory / fname, header=False, sep=";", index=False)
+            df.to_csv(directory / fname, header=False, sep=";", index=False, quoting=csv.QUOTE_NONE)
 
         with open(directory / "oap.inp_descr", "w+") as f:
             f.write(INP_DESCR)
 
         self.build_ebase(directory)
+
+        with open(directory / OAP_MAKER_EXPORT_FLAG_FILE_NAME, "w+") as f:
+            from datetime import datetime
+            f.write(f"""Export von OAP Maker {datetime.now().strftime('%d/%m/%Y, %H:%M:%S')}
+            Wenn diese Datei im oap Ordner existiert, exportiert der OapMaker direkt in oap und überschreibt den alten Stand. 
+            """)
+
         return self
 
     def export_images(self):
@@ -574,7 +582,14 @@ class OapExport(ExportBase):
         execute_build_ebase_command(command=command)
 
 
-def export(program: str, engine, export_path: str):
+def export(program: str, engine, export_path: str|None=None):
+
+    if not export_path:
+        export_path = f"/mnt/knps_testumgebung/Testumgebung/EasternGraphics/kn/{program}/DE/2/oap_[export]"
+        export_flag_file = as_path(export_path) / OAP_MAKER_EXPORT_FLAG_FILE_NAME
+        if export_flag_file.exists():
+            export_path = f"/mnt/knps_testumgebung/Testumgebung/EasternGraphics/kn/{program}/DE/2/oap"
+
     exporter = OapExport(engine=engine, program_name=program, export_path=export_path)
         
     exporter.extract()
@@ -586,6 +601,7 @@ def export(program: str, engine, export_path: str):
     if not exporter.tables["image"].empty:
         exporter.export_images()
 
+    return export_path
 
 if __name__ == "__main__":
     export("screens", get_engine(), "oapExportPath")

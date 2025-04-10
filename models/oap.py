@@ -4,6 +4,9 @@ from sqlalchemy import (
     SmallInteger,
     UniqueConstraint,
     DateTime,
+    Text,
+    String,
+    VARCHAR,
     func,
 )
 from sqlalchemy.orm import Mapped
@@ -15,18 +18,21 @@ from sqlalchemy import ForeignKey
 from models.base import SqlAlchemyBase
 import enum
 
-
+IDX_STRING_LENGTH = 255
+STRING_LENGTH = 1_000
+BIG_STRING_LENGTH = 10_000
+ 
 class OapProgramDB(SqlAlchemyBase):
     __tablename__ = "oap_program"
     __table_args__ = (UniqueConstraint("name"),)
     # keys
     id: Mapped[int] = mapped_column(primary_key=True)
     # scalars
-    name: Mapped[str]
-    import_path: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    import_path: Mapped[str] = mapped_column(String(STRING_LENGTH))
     create_date: Mapped[str] = mapped_column(DateTime, server_default=func.now())
-    oap_version: Mapped[str]
-    description: Mapped[str | None]
+    oap_version: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    description: Mapped[str | None] = mapped_column(String(BIG_STRING_LENGTH))
     deleted: Mapped[bool] = mapped_column(SmallInteger, default=False)
 
 
@@ -169,11 +175,11 @@ class OapObjectDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     category: Mapped[ObjectCategory] = mapped_column(Enum(ObjectCategory))
-    argument1: Mapped[str | None]
-    argument2: Mapped[str | None]
-    argument3: Mapped[str | None]
+    argument1: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    argument2: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    argument3: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
     # refs
     ref_program: Mapped[OapProgramDB] = relationship()
 
@@ -187,16 +193,16 @@ class OapCreateObjDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     parent_id: Mapped[int | None] = mapped_column(ForeignKey("oap_object.id"))
     art_spec_mode: Mapped[ArtSpecMode] = mapped_column(Enum(ArtSpecMode))
-    package: Mapped[str]
-    article_id: Mapped[str]
-    var_code: Mapped[str | None]
+    package: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    article_id: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    var_code: Mapped[str | None] = mapped_column(String(BIG_STRING_LENGTH))
     pos_rot_mode: Mapped[PosRotMode] = mapped_column(Enum(PosRotMode))
-    pos_rot_arg1: Mapped[str]
-    pos_rot_arg2: Mapped[str]
-    pos_rot_arg3: Mapped[str | None]
+    pos_rot_arg1: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    pos_rot_arg2: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    pos_rot_arg3: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
     # refs
     ref_parent: Mapped[OapObjectDB | None] = relationship()
     ref_program: Mapped[OapProgramDB] = relationship()
@@ -211,9 +217,9 @@ class OapExtMediaDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     type: Mapped[ExtMediaType] = mapped_column(Enum(ExtMediaType))
-    media: Mapped[str]
+    media: Mapped[str] = mapped_column(String(STRING_LENGTH))
     # refs
     ref_program: Mapped[OapProgramDB] = relationship()
 
@@ -226,7 +232,7 @@ class OapPropEditClassesListDB(SqlAlchemyBase):
     program_id: Mapped[int] = mapped_column(
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     # refs
     ref_items: Mapped[list["OapPropEditClassesItemDB"]] = relationship(
         order_by="OapPropEditClassesItemDB.id"
@@ -245,8 +251,8 @@ class OapPropEditClassesItemDB(SqlAlchemyBase):
     list_id: Mapped[int | None] = mapped_column(
         ForeignKey("oap_propeditclasses_list.id")
     )
-    prop_class: Mapped[str]
-    condition: Mapped[str | None]
+    prop_class: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    condition: Mapped[str | None] = mapped_column(Text)
     state_restr: Mapped[StateRestrType] = mapped_column(
         Enum(
             StateRestrType,
@@ -267,7 +273,7 @@ class OapPropEditPropsListDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalar
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     # refs
     ref_items: Mapped[list["OapPropEditPropsItemDB"]] = relationship(
         order_by="OapPropEditPropsItemDB.id"
@@ -284,8 +290,8 @@ class OapPropEditPropsItemDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     list_id: Mapped[int] = mapped_column(ForeignKey("oap_propeditprops_list.id"))
-    property: Mapped[str]
-    condition: Mapped[str | None]
+    property: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    condition: Mapped[str | None] = mapped_column(Text)
     state_restr: Mapped[StateRestrType] = mapped_column(
         Enum(
             StateRestrType,
@@ -305,7 +311,7 @@ class OapPropEdit2DB(SqlAlchemyBase):
     program_id: Mapped[int] = mapped_column(
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     title_id: Mapped[int | None] = mapped_column(ForeignKey("oap_text.id"))
     # only one of those may be None
     propeditprops_list_id: Mapped[int | None] = mapped_column(
@@ -331,8 +337,7 @@ class OapPropEditDB(SqlAlchemyBase):
     )
     title_id: Mapped[int | None] = mapped_column(ForeignKey("oap_text.id"))
     # scalars
-    name: Mapped[str]
-    # state_restr: Mapped[StateRestrType] = mapped_column(Enum(StateRestrType))
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH)) 
     state_restr: Mapped[StateRestrType] = mapped_column(
         Enum(
             StateRestrType,
@@ -341,8 +346,8 @@ class OapPropEditDB(SqlAlchemyBase):
             ],  # Use the enum values in the DB
         )
     )
-    properties: Mapped[str | None]
-    classes: Mapped[str | None]
+    properties: Mapped[str | None] = mapped_column(Text)
+    classes: Mapped[str | None] = mapped_column(Text)
     # refs
     ref_title: Mapped[list["OapTextDB"]] = relationship()
     ref_program: Mapped[OapProgramDB] = relationship()
@@ -357,10 +362,10 @@ class OapPropChangeDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     type: Mapped[PropChangeType] = mapped_column(Enum(PropChangeType))
-    property: Mapped[str]
-    value: Mapped[str]
+    property: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    value: Mapped[str] = mapped_column(String(STRING_LENGTH))
     # refs
     ref_program: Mapped[OapProgramDB] = relationship()
 
@@ -378,7 +383,7 @@ class OapMessageDB(SqlAlchemyBase):
         ForeignKey("oap_action.id", use_alter=True)
     )
     # sclars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     arg_type: Mapped[MessageArgType] = mapped_column(Enum(MessageArgType))
     # refs
     ref_text: Mapped["OapTextDB"] = relationship()
@@ -395,11 +400,11 @@ class OapMethodCallDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     type: Mapped[MethodCallType] = mapped_column(Enum(MethodCallType))
-    context: Mapped[str]
-    method: Mapped[str]
-    arguments: Mapped[str | None]
+    context: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    method: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    arguments: Mapped[str | None] = mapped_column(Text)
     ref_program: Mapped[OapProgramDB] = relationship()
 
 
@@ -412,14 +417,14 @@ class OapDimChangeDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     dimension: Mapped[DimChangeDimension] = mapped_column(Enum(DimChangeDimension))
-    condition: Mapped[str | None]
-    separate: Mapped[str]
-    third_dim: Mapped[str]
-    property: Mapped[str]
-    multiplier: Mapped[str]
-    precision: Mapped[str]
+    condition: Mapped[str | None] = mapped_column(Text)
+    separate: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    third_dim: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    property: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    multiplier: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    precision: Mapped[str] = mapped_column(String(STRING_LENGTH))
     ref_program: Mapped[OapProgramDB] = relationship()
 
 
@@ -432,17 +437,17 @@ class OapImageDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
-    image_de_dpr1: Mapped[str | None]
-    image_en_dpr1: Mapped[str | None]
-    image_fr_dpr1: Mapped[str | None]
-    image_nl_dpr1: Mapped[str | None]
-    image_xx_dpr1: Mapped[str | None]
-    image_de_dpr2: Mapped[str | None]
-    image_en_dpr2: Mapped[str | None]
-    image_fr_dpr2: Mapped[str | None]
-    image_nl_dpr2: Mapped[str | None]
-    image_xx_dpr2: Mapped[str | None]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    image_de_dpr1: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_en_dpr1: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_fr_dpr1: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_nl_dpr1: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_xx_dpr1: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_de_dpr2: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_en_dpr2: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_fr_dpr2: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_nl_dpr2: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
+    image_xx_dpr2: Mapped[str | None] = mapped_column(String(STRING_LENGTH))
     ref_program: Mapped[OapProgramDB] = relationship()
 
 
@@ -455,11 +460,11 @@ class OapTextDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
-    text_de: Mapped[str | None]
-    text_en: Mapped[str | None]
-    text_fr: Mapped[str | None]
-    text_nl: Mapped[str | None]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    text_de: Mapped[str | None] = mapped_column(Text)
+    text_en: Mapped[str | None] = mapped_column(Text)
+    text_fr: Mapped[str | None] = mapped_column(Text)
+    text_nl: Mapped[str | None] = mapped_column(Text)
     ref_program: Mapped[OapProgramDB] = relationship()
 
 
@@ -511,7 +516,7 @@ class OapActionListListDB(SqlAlchemyBase):
     )
     # actionchoice_id: Mapped[int] = mapped_column(ForeignKey("oap_actionchoice.id")) # moved to actionchoice !
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     # refs
     ref_actionlist: Mapped[list["OapActionListItemDB"]] = relationship(
         order_by="OapActionListItemDB.position"
@@ -532,7 +537,7 @@ class OapActionListItemDB(SqlAlchemyBase):
     actionlistlist_id: Mapped[int] = mapped_column(ForeignKey("oap_actionlist_list.id"))
     # scalar
     position: Mapped[int]
-    condition: Mapped[str | None]
+    condition: Mapped[str | None] = mapped_column(Text)
     # actions... n:m
     # refs
     ref_text: Mapped[OapTextDB] = relationship()
@@ -548,7 +553,7 @@ class OapActionListItemDB(SqlAlchemyBase):
         secondary="oap_actionlist_action",  # Name of the association table
         primaryjoin="OapActionListItemDB.id == OapActionListActionAssocDB.actionlist_id",
         secondaryjoin="OapActionDB.id == OapActionListActionAssocDB.action_id",
-        order_by="OapActionListActionAssocDB.position",
+        order_by="OapActionListActionAssocDB.position.asc()", 
         viewonly=True,
     )
     ref_program: Mapped[OapProgramDB] = relationship()
@@ -567,7 +572,7 @@ class OapActionChoiceDB(SqlAlchemyBase):
         ForeignKey("oap_actionlist_list.id")
     )
     # scalars
-    name: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
     view_type: Mapped[ActionChoiceViewType] = mapped_column(Enum(ActionChoiceViewType))
     argument: Mapped[ActionChoiceTileSize | None] = mapped_column(
         Enum(ActionChoiceTileSize)
@@ -587,8 +592,8 @@ class OapActionDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
-    condition: Mapped[str | None]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    condition: Mapped[str | None] = mapped_column(Text)
     type: Mapped[ActionType] = mapped_column(Enum(ActionType))
     # parameter....
     message_id: Mapped[int | None] = mapped_column(ForeignKey("oap_message.id"))
@@ -628,11 +633,11 @@ class OapArticle2TypeDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    manufacturer_id: Mapped[str]
-    series_id: Mapped[str]
-    article_id: Mapped[str]  # ocd article nr
-    var_type: Mapped[str | None]
-    variant: Mapped[str | None]
+    manufacturer_id: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    series_id: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    article_id: Mapped[str]   = mapped_column(String(IDX_STRING_LENGTH))
+    var_type: Mapped[str | None] = mapped_column(Text)
+    variant: Mapped[str | None] = mapped_column(Text)
     type_id: Mapped[int] = mapped_column(ForeignKey("oap_type.id"))
     # refs
     ref_program: Mapped[OapProgramDB] = relationship()
@@ -648,11 +653,11 @@ class OapMetaType2TypeDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    manufacturer: Mapped[str]
-    series: Mapped[str]
-    metatype_id: Mapped[str]  # metatype id
-    var_type: Mapped[str | None]
-    variant: Mapped[str | None]
+    manufacturer: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    series: Mapped[str] = mapped_column(String(STRING_LENGTH))
+    metatype_id: Mapped[str]  = mapped_column(String(IDX_STRING_LENGTH))
+    var_type: Mapped[str | None] = mapped_column(Text)
+    variant: Mapped[str | None] = mapped_column(Text)
     type_id: Mapped[int] = mapped_column(ForeignKey("oap_type.id"))
     # refs
     ref_program: Mapped[OapProgramDB] = relationship()
@@ -668,10 +673,10 @@ class OapNumTripelDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
-    x: Mapped[str]
-    y: Mapped[str]
-    z: Mapped[str]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    x: Mapped[str] = mapped_column(Text)
+    y: Mapped[str] = mapped_column(Text)
+    z: Mapped[str] = mapped_column(Text)
     ref_program: Mapped[OapProgramDB] = relationship()
 
 
@@ -687,9 +692,9 @@ class OapSymbolDisplayDB(SqlAlchemyBase):
     hidden_mode: Mapped[bool] = mapped_column(SmallInteger, default=False)
     offset_type: Mapped[OffsetType] = mapped_column(Enum(OffsetType))
     offset_id: Mapped[int | None] = mapped_column(ForeignKey("oap_numtripel.id"))
-    offset_expr: Mapped[str | None]
+    offset_expr: Mapped[str | None] = mapped_column(Text)
     direction_id: Mapped[int | None] = mapped_column(ForeignKey("oap_numtripel.id"))
-    view_angle: Mapped[str | None]
+    view_angle: Mapped[str | None] = mapped_column(Text)
     orientation_x_id: Mapped[int | None] = mapped_column(ForeignKey("oap_numtripel.id"))
     # refs
     ref_offset: Mapped[OapNumTripelDB | None] = relationship(foreign_keys=[offset_id])
@@ -719,9 +724,9 @@ class OapInteractorDB(SqlAlchemyBase):
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
     # scalars
-    name: Mapped[str]
-    condition: Mapped[str | None]
-    needs_plan_mode: Mapped[str | None]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    condition: Mapped[str | None] = mapped_column(Text)
+    needs_plan_mode: Mapped[str | None] = mapped_column(Text)
     # actions n:m
     symbol_type: Mapped[SymbolType] = mapped_column(Enum(SymbolType))
     symbol_size: Mapped[SymbolSize] = mapped_column(Enum(SymbolSize))
@@ -736,6 +741,7 @@ class OapInteractorDB(SqlAlchemyBase):
         secondary="oap_interactor_action",  # Name of the association table
         primaryjoin="OapInteractorDB.id == OapInteractorActionAssocDB.interactor_id",
         secondaryjoin="OapActionDB.id == OapInteractorActionAssocDB.action_id",
+        order_by="OapInteractorActionAssocDB.position.asc()",
         viewonly=True,
     )
     ref_program: Mapped[OapProgramDB] = relationship()
@@ -749,11 +755,11 @@ class OapTypeDB(SqlAlchemyBase):
     program_id: Mapped[int] = mapped_column(
         ForeignKey("oap_program.id", ondelete="CASCADE")
     )
-    name: Mapped[str]
-    general_info: Mapped[str | None]
-    prop_change_actions: Mapped[str | None]
-    active_att_areas: Mapped[str | None]
-    passive_att_areas: Mapped[str | None]
+    name: Mapped[str] = mapped_column(String(IDX_STRING_LENGTH))
+    general_info: Mapped[str | None] = mapped_column(Text)
+    prop_change_actions: Mapped[str | None] = mapped_column(Text)
+    active_att_areas: Mapped[str | None] = mapped_column(Text)
+    passive_att_areas: Mapped[str | None] = mapped_column(Text)
     # refs
     ref_interactor: Mapped[list[OapInteractorDB]] = relationship(
         "OapInteractorDB", secondary="oap_type_interactor_association_table"
@@ -785,3 +791,4 @@ class OapTypeDB(SqlAlchemyBase):
 
 
 # shallow_copy(OapTypeDB(name="xxxx"))
+ 
